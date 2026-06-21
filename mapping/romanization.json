@@ -1,0 +1,8114 @@
+{
+  "pha": {
+    "codepoint": "U+F040",
+    "char": "",
+    "parse": {
+      "initial": "ph",
+      "final": "a"
+    }
+  },
+  "pho": {
+    "codepoint": "U+F041",
+    "char": "",
+    "parse": {
+      "initial": "ph",
+      "final": "o"
+    }
+  },
+  "phe": {
+    "codepoint": "U+F042",
+    "char": "",
+    "parse": {
+      "initial": "ph",
+      "final": "e"
+    }
+  },
+  "phi": {
+    "codepoint": "U+F043",
+    "char": "",
+    "parse": {
+      "initial": "ph",
+      "final": "i"
+    }
+  },
+  "phu": {
+    "codepoint": "U+F044",
+    "char": "",
+    "parse": {
+      "initial": "ph",
+      "final": "u"
+    }
+  },
+  "phau": {
+    "codepoint": "U+F045",
+    "char": "",
+    "parse": {
+      "initial": "ph",
+      "final": "au"
+    }
+  },
+  "phou": {
+    "codepoint": "U+F046",
+    "char": "",
+    "parse": {
+      "initial": "ph",
+      "final": "ou"
+    }
+  },
+  "pheu": {
+    "codepoint": "U+F047",
+    "char": "",
+    "parse": {
+      "initial": "ph",
+      "final": "eu"
+    }
+  },
+  "phiu": {
+    "codepoint": "U+F048",
+    "char": "",
+    "parse": {
+      "initial": "ph",
+      "final": "iu"
+    }
+  },
+  "phaq": {
+    "codepoint": "U+F049",
+    "char": "",
+    "parse": {
+      "initial": "ph",
+      "final": "aq"
+    }
+  },
+  "phoq": {
+    "codepoint": "U+F04A",
+    "char": "",
+    "parse": {
+      "initial": "ph",
+      "final": "oq"
+    }
+  },
+  "pheq": {
+    "codepoint": "U+F04B",
+    "char": "",
+    "parse": {
+      "initial": "ph",
+      "final": "eq"
+    }
+  },
+  "phiq": {
+    "codepoint": "U+F04C",
+    "char": "",
+    "parse": {
+      "initial": "ph",
+      "final": "iq"
+    }
+  },
+  "phae": {
+    "codepoint": "U+F04D",
+    "char": "",
+    "parse": {
+      "initial": "ph",
+      "final": "ae"
+    }
+  },
+  "phoe": {
+    "codepoint": "U+F04E",
+    "char": "",
+    "parse": {
+      "initial": "ph",
+      "final": "oe"
+    }
+  },
+  "phen": {
+    "codepoint": "U+F04F",
+    "char": "",
+    "parse": {
+      "initial": "ph",
+      "final": "en"
+    }
+  },
+  "phie": {
+    "codepoint": "U+F050",
+    "char": "",
+    "parse": {
+      "initial": "ph",
+      "final": "ie"
+    }
+  },
+  "phan": {
+    "codepoint": "U+F051",
+    "char": "",
+    "parse": {
+      "initial": "ph",
+      "final": "an"
+    }
+  },
+  "phon": {
+    "codepoint": "U+F052",
+    "char": "",
+    "parse": {
+      "initial": "ph",
+      "final": "on"
+    }
+  },
+  "pheon": {
+    "codepoint": "U+F053",
+    "char": "",
+    "parse": {
+      "initial": "ph",
+      "final": "eon"
+    }
+  },
+  "phin": {
+    "codepoint": "U+F054",
+    "char": "",
+    "parse": {
+      "initial": "ph",
+      "final": "in"
+    }
+  },
+  "phy": {
+    "codepoint": "U+F055",
+    "char": "",
+    "parse": {
+      "initial": "ph",
+      "final": "y"
+    }
+  },
+  "phaon": {
+    "codepoint": "U+F056",
+    "char": "",
+    "parse": {
+      "initial": "ph",
+      "final": "aon"
+    }
+  },
+  "phr": {
+    "codepoint": "U+F057",
+    "char": "",
+    "parse": {
+      "initial": "ph",
+      "final": "r"
+    }
+  },
+  "ph-q": {
+    "codepoint": "U+F058",
+    "char": "",
+    "parse": {
+      "initial": "ph",
+      "final": "-q"
+    }
+  },
+  "ph-n": {
+    "codepoint": "U+F059",
+    "char": "",
+    "parse": {
+      "initial": "ph",
+      "final": "-n"
+    }
+  },
+  "pa": {
+    "codepoint": "U+F060",
+    "char": "",
+    "parse": {
+      "initial": "p",
+      "final": "a"
+    }
+  },
+  "po": {
+    "codepoint": "U+F061",
+    "char": "",
+    "parse": {
+      "initial": "p",
+      "final": "o"
+    }
+  },
+  "pe": {
+    "codepoint": "U+F062",
+    "char": "",
+    "parse": {
+      "initial": "p",
+      "final": "e"
+    }
+  },
+  "pi": {
+    "codepoint": "U+F063",
+    "char": "",
+    "parse": {
+      "initial": "p",
+      "final": "i"
+    }
+  },
+  "pu": {
+    "codepoint": "U+F064",
+    "char": "",
+    "parse": {
+      "initial": "p",
+      "final": "u"
+    }
+  },
+  "pau": {
+    "codepoint": "U+F065",
+    "char": "",
+    "parse": {
+      "initial": "p",
+      "final": "au"
+    }
+  },
+  "pou": {
+    "codepoint": "U+F066",
+    "char": "",
+    "parse": {
+      "initial": "p",
+      "final": "ou"
+    }
+  },
+  "peu": {
+    "codepoint": "U+F067",
+    "char": "",
+    "parse": {
+      "initial": "p",
+      "final": "eu"
+    }
+  },
+  "piu": {
+    "codepoint": "U+F068",
+    "char": "",
+    "parse": {
+      "initial": "p",
+      "final": "iu"
+    }
+  },
+  "paq": {
+    "codepoint": "U+F069",
+    "char": "",
+    "parse": {
+      "initial": "p",
+      "final": "aq"
+    }
+  },
+  "poq": {
+    "codepoint": "U+F06A",
+    "char": "",
+    "parse": {
+      "initial": "p",
+      "final": "oq"
+    }
+  },
+  "peq": {
+    "codepoint": "U+F06B",
+    "char": "",
+    "parse": {
+      "initial": "p",
+      "final": "eq"
+    }
+  },
+  "piq": {
+    "codepoint": "U+F06C",
+    "char": "",
+    "parse": {
+      "initial": "p",
+      "final": "iq"
+    }
+  },
+  "pae": {
+    "codepoint": "U+F06D",
+    "char": "",
+    "parse": {
+      "initial": "p",
+      "final": "ae"
+    }
+  },
+  "poe": {
+    "codepoint": "U+F06E",
+    "char": "",
+    "parse": {
+      "initial": "p",
+      "final": "oe"
+    }
+  },
+  "pen": {
+    "codepoint": "U+F06F",
+    "char": "",
+    "parse": {
+      "initial": "p",
+      "final": "en"
+    }
+  },
+  "pie": {
+    "codepoint": "U+F070",
+    "char": "",
+    "parse": {
+      "initial": "p",
+      "final": "ie"
+    }
+  },
+  "pan": {
+    "codepoint": "U+F071",
+    "char": "",
+    "parse": {
+      "initial": "p",
+      "final": "an"
+    }
+  },
+  "pon": {
+    "codepoint": "U+F072",
+    "char": "",
+    "parse": {
+      "initial": "p",
+      "final": "on"
+    }
+  },
+  "peon": {
+    "codepoint": "U+F073",
+    "char": "",
+    "parse": {
+      "initial": "p",
+      "final": "eon"
+    }
+  },
+  "pin": {
+    "codepoint": "U+F074",
+    "char": "",
+    "parse": {
+      "initial": "p",
+      "final": "in"
+    }
+  },
+  "py": {
+    "codepoint": "U+F075",
+    "char": "",
+    "parse": {
+      "initial": "p",
+      "final": "y"
+    }
+  },
+  "paon": {
+    "codepoint": "U+F076",
+    "char": "",
+    "parse": {
+      "initial": "p",
+      "final": "aon"
+    }
+  },
+  "pr": {
+    "codepoint": "U+F077",
+    "char": "",
+    "parse": {
+      "initial": "p",
+      "final": "r"
+    }
+  },
+  "p-q": {
+    "codepoint": "U+F078",
+    "char": "",
+    "parse": {
+      "initial": "p",
+      "final": "-q"
+    }
+  },
+  "p-n": {
+    "codepoint": "U+F079",
+    "char": "",
+    "parse": {
+      "initial": "p",
+      "final": "-n"
+    }
+  },
+  "ba": {
+    "codepoint": "U+F080",
+    "char": "",
+    "parse": {
+      "initial": "b",
+      "final": "a"
+    }
+  },
+  "bo": {
+    "codepoint": "U+F081",
+    "char": "",
+    "parse": {
+      "initial": "b",
+      "final": "o"
+    }
+  },
+  "be": {
+    "codepoint": "U+F082",
+    "char": "",
+    "parse": {
+      "initial": "b",
+      "final": "e"
+    }
+  },
+  "bi": {
+    "codepoint": "U+F083",
+    "char": "",
+    "parse": {
+      "initial": "b",
+      "final": "i"
+    }
+  },
+  "bu": {
+    "codepoint": "U+F084",
+    "char": "",
+    "parse": {
+      "initial": "b",
+      "final": "u"
+    }
+  },
+  "bau": {
+    "codepoint": "U+F085",
+    "char": "",
+    "parse": {
+      "initial": "b",
+      "final": "au"
+    }
+  },
+  "bou": {
+    "codepoint": "U+F086",
+    "char": "",
+    "parse": {
+      "initial": "b",
+      "final": "ou"
+    }
+  },
+  "beu": {
+    "codepoint": "U+F087",
+    "char": "",
+    "parse": {
+      "initial": "b",
+      "final": "eu"
+    }
+  },
+  "biu": {
+    "codepoint": "U+F088",
+    "char": "",
+    "parse": {
+      "initial": "b",
+      "final": "iu"
+    }
+  },
+  "baq": {
+    "codepoint": "U+F089",
+    "char": "",
+    "parse": {
+      "initial": "b",
+      "final": "aq"
+    }
+  },
+  "boq": {
+    "codepoint": "U+F08A",
+    "char": "",
+    "parse": {
+      "initial": "b",
+      "final": "oq"
+    }
+  },
+  "beq": {
+    "codepoint": "U+F08B",
+    "char": "",
+    "parse": {
+      "initial": "b",
+      "final": "eq"
+    }
+  },
+  "biq": {
+    "codepoint": "U+F08C",
+    "char": "",
+    "parse": {
+      "initial": "b",
+      "final": "iq"
+    }
+  },
+  "bae": {
+    "codepoint": "U+F08D",
+    "char": "",
+    "parse": {
+      "initial": "b",
+      "final": "ae"
+    }
+  },
+  "boe": {
+    "codepoint": "U+F08E",
+    "char": "",
+    "parse": {
+      "initial": "b",
+      "final": "oe"
+    }
+  },
+  "ben": {
+    "codepoint": "U+F08F",
+    "char": "",
+    "parse": {
+      "initial": "b",
+      "final": "en"
+    }
+  },
+  "bie": {
+    "codepoint": "U+F090",
+    "char": "",
+    "parse": {
+      "initial": "b",
+      "final": "ie"
+    }
+  },
+  "ban": {
+    "codepoint": "U+F091",
+    "char": "",
+    "parse": {
+      "initial": "b",
+      "final": "an"
+    }
+  },
+  "bon": {
+    "codepoint": "U+F092",
+    "char": "",
+    "parse": {
+      "initial": "b",
+      "final": "on"
+    }
+  },
+  "beon": {
+    "codepoint": "U+F093",
+    "char": "",
+    "parse": {
+      "initial": "b",
+      "final": "eon"
+    }
+  },
+  "bin": {
+    "codepoint": "U+F094",
+    "char": "",
+    "parse": {
+      "initial": "b",
+      "final": "in"
+    }
+  },
+  "by": {
+    "codepoint": "U+F095",
+    "char": "",
+    "parse": {
+      "initial": "b",
+      "final": "y"
+    }
+  },
+  "baon": {
+    "codepoint": "U+F096",
+    "char": "",
+    "parse": {
+      "initial": "b",
+      "final": "aon"
+    }
+  },
+  "br": {
+    "codepoint": "U+F097",
+    "char": "",
+    "parse": {
+      "initial": "b",
+      "final": "r"
+    }
+  },
+  "b-q": {
+    "codepoint": "U+F098",
+    "char": "",
+    "parse": {
+      "initial": "b",
+      "final": "-q"
+    }
+  },
+  "b-n": {
+    "codepoint": "U+F099",
+    "char": "",
+    "parse": {
+      "initial": "b",
+      "final": "-n"
+    }
+  },
+  "fa": {
+    "codepoint": "U+F0A0",
+    "char": "",
+    "parse": {
+      "initial": "f",
+      "final": "a"
+    }
+  },
+  "fo": {
+    "codepoint": "U+F0A1",
+    "char": "",
+    "parse": {
+      "initial": "f",
+      "final": "o"
+    }
+  },
+  "fe": {
+    "codepoint": "U+F0A2",
+    "char": "",
+    "parse": {
+      "initial": "f",
+      "final": "e"
+    }
+  },
+  "fi": {
+    "codepoint": "U+F0A3",
+    "char": "",
+    "parse": {
+      "initial": "f",
+      "final": "i"
+    }
+  },
+  "fu": {
+    "codepoint": "U+F0A4",
+    "char": "",
+    "parse": {
+      "initial": "f",
+      "final": "u"
+    }
+  },
+  "fau": {
+    "codepoint": "U+F0A5",
+    "char": "",
+    "parse": {
+      "initial": "f",
+      "final": "au"
+    }
+  },
+  "fou": {
+    "codepoint": "U+F0A6",
+    "char": "",
+    "parse": {
+      "initial": "f",
+      "final": "ou"
+    }
+  },
+  "feu": {
+    "codepoint": "U+F0A7",
+    "char": "",
+    "parse": {
+      "initial": "f",
+      "final": "eu"
+    }
+  },
+  "fiu": {
+    "codepoint": "U+F0A8",
+    "char": "",
+    "parse": {
+      "initial": "f",
+      "final": "iu"
+    }
+  },
+  "faq": {
+    "codepoint": "U+F0A9",
+    "char": "",
+    "parse": {
+      "initial": "f",
+      "final": "aq"
+    }
+  },
+  "foq": {
+    "codepoint": "U+F0AA",
+    "char": "",
+    "parse": {
+      "initial": "f",
+      "final": "oq"
+    }
+  },
+  "feq": {
+    "codepoint": "U+F0AB",
+    "char": "",
+    "parse": {
+      "initial": "f",
+      "final": "eq"
+    }
+  },
+  "fiq": {
+    "codepoint": "U+F0AC",
+    "char": "",
+    "parse": {
+      "initial": "f",
+      "final": "iq"
+    }
+  },
+  "fae": {
+    "codepoint": "U+F0AD",
+    "char": "",
+    "parse": {
+      "initial": "f",
+      "final": "ae"
+    }
+  },
+  "foe": {
+    "codepoint": "U+F0AE",
+    "char": "",
+    "parse": {
+      "initial": "f",
+      "final": "oe"
+    }
+  },
+  "fen": {
+    "codepoint": "U+F0AF",
+    "char": "",
+    "parse": {
+      "initial": "f",
+      "final": "en"
+    }
+  },
+  "fie": {
+    "codepoint": "U+F0B0",
+    "char": "",
+    "parse": {
+      "initial": "f",
+      "final": "ie"
+    }
+  },
+  "fan": {
+    "codepoint": "U+F0B1",
+    "char": "",
+    "parse": {
+      "initial": "f",
+      "final": "an"
+    }
+  },
+  "fon": {
+    "codepoint": "U+F0B2",
+    "char": "",
+    "parse": {
+      "initial": "f",
+      "final": "on"
+    }
+  },
+  "feon": {
+    "codepoint": "U+F0B3",
+    "char": "",
+    "parse": {
+      "initial": "f",
+      "final": "eon"
+    }
+  },
+  "fin": {
+    "codepoint": "U+F0B4",
+    "char": "",
+    "parse": {
+      "initial": "f",
+      "final": "in"
+    }
+  },
+  "fy": {
+    "codepoint": "U+F0B5",
+    "char": "",
+    "parse": {
+      "initial": "f",
+      "final": "y"
+    }
+  },
+  "faon": {
+    "codepoint": "U+F0B6",
+    "char": "",
+    "parse": {
+      "initial": "f",
+      "final": "aon"
+    }
+  },
+  "fr": {
+    "codepoint": "U+F0B7",
+    "char": "",
+    "parse": {
+      "initial": "f",
+      "final": "r"
+    }
+  },
+  "f-q": {
+    "codepoint": "U+F0B8",
+    "char": "",
+    "parse": {
+      "initial": "f",
+      "final": "-q"
+    }
+  },
+  "f-n": {
+    "codepoint": "U+F0B9",
+    "char": "",
+    "parse": {
+      "initial": "f",
+      "final": "-n"
+    }
+  },
+  "va": {
+    "codepoint": "U+F0C0",
+    "char": "",
+    "parse": {
+      "initial": "v",
+      "final": "a"
+    }
+  },
+  "vo": {
+    "codepoint": "U+F0C1",
+    "char": "",
+    "parse": {
+      "initial": "v",
+      "final": "o"
+    }
+  },
+  "ve": {
+    "codepoint": "U+F0C2",
+    "char": "",
+    "parse": {
+      "initial": "v",
+      "final": "e"
+    }
+  },
+  "vi": {
+    "codepoint": "U+F0C3",
+    "char": "",
+    "parse": {
+      "initial": "v",
+      "final": "i"
+    }
+  },
+  "vu": {
+    "codepoint": "U+F0C4",
+    "char": "",
+    "parse": {
+      "initial": "v",
+      "final": "u"
+    }
+  },
+  "vau": {
+    "codepoint": "U+F0C5",
+    "char": "",
+    "parse": {
+      "initial": "v",
+      "final": "au"
+    }
+  },
+  "vou": {
+    "codepoint": "U+F0C6",
+    "char": "",
+    "parse": {
+      "initial": "v",
+      "final": "ou"
+    }
+  },
+  "veu": {
+    "codepoint": "U+F0C7",
+    "char": "",
+    "parse": {
+      "initial": "v",
+      "final": "eu"
+    }
+  },
+  "viu": {
+    "codepoint": "U+F0C8",
+    "char": "",
+    "parse": {
+      "initial": "v",
+      "final": "iu"
+    }
+  },
+  "vaq": {
+    "codepoint": "U+F0C9",
+    "char": "",
+    "parse": {
+      "initial": "v",
+      "final": "aq"
+    }
+  },
+  "voq": {
+    "codepoint": "U+F0CA",
+    "char": "",
+    "parse": {
+      "initial": "v",
+      "final": "oq"
+    }
+  },
+  "veq": {
+    "codepoint": "U+F0CB",
+    "char": "",
+    "parse": {
+      "initial": "v",
+      "final": "eq"
+    }
+  },
+  "viq": {
+    "codepoint": "U+F0CC",
+    "char": "",
+    "parse": {
+      "initial": "v",
+      "final": "iq"
+    }
+  },
+  "vae": {
+    "codepoint": "U+F0CD",
+    "char": "",
+    "parse": {
+      "initial": "v",
+      "final": "ae"
+    }
+  },
+  "voe": {
+    "codepoint": "U+F0CE",
+    "char": "",
+    "parse": {
+      "initial": "v",
+      "final": "oe"
+    }
+  },
+  "ven": {
+    "codepoint": "U+F0CF",
+    "char": "",
+    "parse": {
+      "initial": "v",
+      "final": "en"
+    }
+  },
+  "vie": {
+    "codepoint": "U+F0D0",
+    "char": "",
+    "parse": {
+      "initial": "v",
+      "final": "ie"
+    }
+  },
+  "van": {
+    "codepoint": "U+F0D1",
+    "char": "",
+    "parse": {
+      "initial": "v",
+      "final": "an"
+    }
+  },
+  "von": {
+    "codepoint": "U+F0D2",
+    "char": "",
+    "parse": {
+      "initial": "v",
+      "final": "on"
+    }
+  },
+  "veon": {
+    "codepoint": "U+F0D3",
+    "char": "",
+    "parse": {
+      "initial": "v",
+      "final": "eon"
+    }
+  },
+  "vin": {
+    "codepoint": "U+F0D4",
+    "char": "",
+    "parse": {
+      "initial": "v",
+      "final": "in"
+    }
+  },
+  "vy": {
+    "codepoint": "U+F0D5",
+    "char": "",
+    "parse": {
+      "initial": "v",
+      "final": "y"
+    }
+  },
+  "vaon": {
+    "codepoint": "U+F0D6",
+    "char": "",
+    "parse": {
+      "initial": "v",
+      "final": "aon"
+    }
+  },
+  "vr": {
+    "codepoint": "U+F0D7",
+    "char": "",
+    "parse": {
+      "initial": "v",
+      "final": "r"
+    }
+  },
+  "v-q": {
+    "codepoint": "U+F0D8",
+    "char": "",
+    "parse": {
+      "initial": "v",
+      "final": "-q"
+    }
+  },
+  "v-n": {
+    "codepoint": "U+F0D9",
+    "char": "",
+    "parse": {
+      "initial": "v",
+      "final": "-n"
+    }
+  },
+  "mha": {
+    "codepoint": "U+F0E0",
+    "char": "",
+    "parse": {
+      "initial": "mh",
+      "final": "a"
+    }
+  },
+  "mho": {
+    "codepoint": "U+F0E1",
+    "char": "",
+    "parse": {
+      "initial": "mh",
+      "final": "o"
+    }
+  },
+  "mhe": {
+    "codepoint": "U+F0E2",
+    "char": "",
+    "parse": {
+      "initial": "mh",
+      "final": "e"
+    }
+  },
+  "mhi": {
+    "codepoint": "U+F0E3",
+    "char": "",
+    "parse": {
+      "initial": "mh",
+      "final": "i"
+    }
+  },
+  "mhu": {
+    "codepoint": "U+F0E4",
+    "char": "",
+    "parse": {
+      "initial": "mh",
+      "final": "u"
+    }
+  },
+  "mhau": {
+    "codepoint": "U+F0E5",
+    "char": "",
+    "parse": {
+      "initial": "mh",
+      "final": "au"
+    }
+  },
+  "mhou": {
+    "codepoint": "U+F0E6",
+    "char": "",
+    "parse": {
+      "initial": "mh",
+      "final": "ou"
+    }
+  },
+  "mheu": {
+    "codepoint": "U+F0E7",
+    "char": "",
+    "parse": {
+      "initial": "mh",
+      "final": "eu"
+    }
+  },
+  "mhiu": {
+    "codepoint": "U+F0E8",
+    "char": "",
+    "parse": {
+      "initial": "mh",
+      "final": "iu"
+    }
+  },
+  "mhaq": {
+    "codepoint": "U+F0E9",
+    "char": "",
+    "parse": {
+      "initial": "mh",
+      "final": "aq"
+    }
+  },
+  "mhoq": {
+    "codepoint": "U+F0EA",
+    "char": "",
+    "parse": {
+      "initial": "mh",
+      "final": "oq"
+    }
+  },
+  "mheq": {
+    "codepoint": "U+F0EB",
+    "char": "",
+    "parse": {
+      "initial": "mh",
+      "final": "eq"
+    }
+  },
+  "mhiq": {
+    "codepoint": "U+F0EC",
+    "char": "",
+    "parse": {
+      "initial": "mh",
+      "final": "iq"
+    }
+  },
+  "mhae": {
+    "codepoint": "U+F0ED",
+    "char": "",
+    "parse": {
+      "initial": "mh",
+      "final": "ae"
+    }
+  },
+  "mhoe": {
+    "codepoint": "U+F0EE",
+    "char": "",
+    "parse": {
+      "initial": "mh",
+      "final": "oe"
+    }
+  },
+  "mhen": {
+    "codepoint": "U+F0EF",
+    "char": "",
+    "parse": {
+      "initial": "mh",
+      "final": "en"
+    }
+  },
+  "mhie": {
+    "codepoint": "U+F0F0",
+    "char": "",
+    "parse": {
+      "initial": "mh",
+      "final": "ie"
+    }
+  },
+  "mhan": {
+    "codepoint": "U+F0F1",
+    "char": "",
+    "parse": {
+      "initial": "mh",
+      "final": "an"
+    }
+  },
+  "mhon": {
+    "codepoint": "U+F0F2",
+    "char": "",
+    "parse": {
+      "initial": "mh",
+      "final": "on"
+    }
+  },
+  "mheon": {
+    "codepoint": "U+F0F3",
+    "char": "",
+    "parse": {
+      "initial": "mh",
+      "final": "eon"
+    }
+  },
+  "mhin": {
+    "codepoint": "U+F0F4",
+    "char": "",
+    "parse": {
+      "initial": "mh",
+      "final": "in"
+    }
+  },
+  "mhy": {
+    "codepoint": "U+F0F5",
+    "char": "",
+    "parse": {
+      "initial": "mh",
+      "final": "y"
+    }
+  },
+  "mhaon": {
+    "codepoint": "U+F0F6",
+    "char": "",
+    "parse": {
+      "initial": "mh",
+      "final": "aon"
+    }
+  },
+  "mhr": {
+    "codepoint": "U+F0F7",
+    "char": "",
+    "parse": {
+      "initial": "mh",
+      "final": "r"
+    }
+  },
+  "mh-q": {
+    "codepoint": "U+F0F8",
+    "char": "",
+    "parse": {
+      "initial": "mh",
+      "final": "-q"
+    }
+  },
+  "mh-n": {
+    "codepoint": "U+F0F9",
+    "char": "",
+    "parse": {
+      "initial": "mh",
+      "final": "-n"
+    }
+  },
+  "ma": {
+    "codepoint": "U+F100",
+    "char": "",
+    "parse": {
+      "initial": "m",
+      "final": "a"
+    }
+  },
+  "mo": {
+    "codepoint": "U+F101",
+    "char": "",
+    "parse": {
+      "initial": "m",
+      "final": "o"
+    }
+  },
+  "me": {
+    "codepoint": "U+F102",
+    "char": "",
+    "parse": {
+      "initial": "m",
+      "final": "e"
+    }
+  },
+  "mi": {
+    "codepoint": "U+F103",
+    "char": "",
+    "parse": {
+      "initial": "m",
+      "final": "i"
+    }
+  },
+  "mu": {
+    "codepoint": "U+F104",
+    "char": "",
+    "parse": {
+      "initial": "m",
+      "final": "u"
+    }
+  },
+  "mau": {
+    "codepoint": "U+F105",
+    "char": "",
+    "parse": {
+      "initial": "m",
+      "final": "au"
+    }
+  },
+  "mou": {
+    "codepoint": "U+F106",
+    "char": "",
+    "parse": {
+      "initial": "m",
+      "final": "ou"
+    }
+  },
+  "meu": {
+    "codepoint": "U+F107",
+    "char": "",
+    "parse": {
+      "initial": "m",
+      "final": "eu"
+    }
+  },
+  "miu": {
+    "codepoint": "U+F108",
+    "char": "",
+    "parse": {
+      "initial": "m",
+      "final": "iu"
+    }
+  },
+  "maq": {
+    "codepoint": "U+F109",
+    "char": "",
+    "parse": {
+      "initial": "m",
+      "final": "aq"
+    }
+  },
+  "moq": {
+    "codepoint": "U+F10A",
+    "char": "",
+    "parse": {
+      "initial": "m",
+      "final": "oq"
+    }
+  },
+  "meq": {
+    "codepoint": "U+F10B",
+    "char": "",
+    "parse": {
+      "initial": "m",
+      "final": "eq"
+    }
+  },
+  "miq": {
+    "codepoint": "U+F10C",
+    "char": "",
+    "parse": {
+      "initial": "m",
+      "final": "iq"
+    }
+  },
+  "mae": {
+    "codepoint": "U+F10D",
+    "char": "",
+    "parse": {
+      "initial": "m",
+      "final": "ae"
+    }
+  },
+  "moe": {
+    "codepoint": "U+F10E",
+    "char": "",
+    "parse": {
+      "initial": "m",
+      "final": "oe"
+    }
+  },
+  "men": {
+    "codepoint": "U+F10F",
+    "char": "",
+    "parse": {
+      "initial": "m",
+      "final": "en"
+    }
+  },
+  "mie": {
+    "codepoint": "U+F110",
+    "char": "",
+    "parse": {
+      "initial": "m",
+      "final": "ie"
+    }
+  },
+  "man": {
+    "codepoint": "U+F111",
+    "char": "",
+    "parse": {
+      "initial": "m",
+      "final": "an"
+    }
+  },
+  "mon": {
+    "codepoint": "U+F112",
+    "char": "",
+    "parse": {
+      "initial": "m",
+      "final": "on"
+    }
+  },
+  "meon": {
+    "codepoint": "U+F113",
+    "char": "",
+    "parse": {
+      "initial": "m",
+      "final": "eon"
+    }
+  },
+  "min": {
+    "codepoint": "U+F114",
+    "char": "",
+    "parse": {
+      "initial": "m",
+      "final": "in"
+    }
+  },
+  "my": {
+    "codepoint": "U+F115",
+    "char": "",
+    "parse": {
+      "initial": "m",
+      "final": "y"
+    }
+  },
+  "maon": {
+    "codepoint": "U+F116",
+    "char": "",
+    "parse": {
+      "initial": "m",
+      "final": "aon"
+    }
+  },
+  "mr": {
+    "codepoint": "U+F117",
+    "char": "",
+    "parse": {
+      "initial": "m",
+      "final": "r"
+    }
+  },
+  "m-q": {
+    "codepoint": "U+F118",
+    "char": "",
+    "parse": {
+      "initial": "m",
+      "final": "-q"
+    }
+  },
+  "m-n": {
+    "codepoint": "U+F119",
+    "char": "",
+    "parse": {
+      "initial": "m",
+      "final": "-n"
+    }
+  },
+  "tha": {
+    "codepoint": "U+F120",
+    "char": "",
+    "parse": {
+      "initial": "th",
+      "final": "a"
+    }
+  },
+  "tho": {
+    "codepoint": "U+F121",
+    "char": "",
+    "parse": {
+      "initial": "th",
+      "final": "o"
+    }
+  },
+  "the": {
+    "codepoint": "U+F122",
+    "char": "",
+    "parse": {
+      "initial": "th",
+      "final": "e"
+    }
+  },
+  "thi": {
+    "codepoint": "U+F123",
+    "char": "",
+    "parse": {
+      "initial": "th",
+      "final": "i"
+    }
+  },
+  "thu": {
+    "codepoint": "U+F124",
+    "char": "",
+    "parse": {
+      "initial": "th",
+      "final": "u"
+    }
+  },
+  "thau": {
+    "codepoint": "U+F125",
+    "char": "",
+    "parse": {
+      "initial": "th",
+      "final": "au"
+    }
+  },
+  "thou": {
+    "codepoint": "U+F126",
+    "char": "",
+    "parse": {
+      "initial": "th",
+      "final": "ou"
+    }
+  },
+  "theu": {
+    "codepoint": "U+F127",
+    "char": "",
+    "parse": {
+      "initial": "th",
+      "final": "eu"
+    }
+  },
+  "thiu": {
+    "codepoint": "U+F128",
+    "char": "",
+    "parse": {
+      "initial": "th",
+      "final": "iu"
+    }
+  },
+  "thaq": {
+    "codepoint": "U+F129",
+    "char": "",
+    "parse": {
+      "initial": "th",
+      "final": "aq"
+    }
+  },
+  "thoq": {
+    "codepoint": "U+F12A",
+    "char": "",
+    "parse": {
+      "initial": "th",
+      "final": "oq"
+    }
+  },
+  "theq": {
+    "codepoint": "U+F12B",
+    "char": "",
+    "parse": {
+      "initial": "th",
+      "final": "eq"
+    }
+  },
+  "thiq": {
+    "codepoint": "U+F12C",
+    "char": "",
+    "parse": {
+      "initial": "th",
+      "final": "iq"
+    }
+  },
+  "thae": {
+    "codepoint": "U+F12D",
+    "char": "",
+    "parse": {
+      "initial": "th",
+      "final": "ae"
+    }
+  },
+  "thoe": {
+    "codepoint": "U+F12E",
+    "char": "",
+    "parse": {
+      "initial": "th",
+      "final": "oe"
+    }
+  },
+  "then": {
+    "codepoint": "U+F12F",
+    "char": "",
+    "parse": {
+      "initial": "th",
+      "final": "en"
+    }
+  },
+  "thie": {
+    "codepoint": "U+F130",
+    "char": "",
+    "parse": {
+      "initial": "th",
+      "final": "ie"
+    }
+  },
+  "than": {
+    "codepoint": "U+F131",
+    "char": "",
+    "parse": {
+      "initial": "th",
+      "final": "an"
+    }
+  },
+  "thon": {
+    "codepoint": "U+F132",
+    "char": "",
+    "parse": {
+      "initial": "th",
+      "final": "on"
+    }
+  },
+  "theon": {
+    "codepoint": "U+F133",
+    "char": "",
+    "parse": {
+      "initial": "th",
+      "final": "eon"
+    }
+  },
+  "thin": {
+    "codepoint": "U+F134",
+    "char": "",
+    "parse": {
+      "initial": "th",
+      "final": "in"
+    }
+  },
+  "thy": {
+    "codepoint": "U+F135",
+    "char": "",
+    "parse": {
+      "initial": "th",
+      "final": "y"
+    }
+  },
+  "thaon": {
+    "codepoint": "U+F136",
+    "char": "",
+    "parse": {
+      "initial": "th",
+      "final": "aon"
+    }
+  },
+  "thr": {
+    "codepoint": "U+F137",
+    "char": "",
+    "parse": {
+      "initial": "th",
+      "final": "r"
+    }
+  },
+  "th-q": {
+    "codepoint": "U+F138",
+    "char": "",
+    "parse": {
+      "initial": "th",
+      "final": "-q"
+    }
+  },
+  "th-n": {
+    "codepoint": "U+F139",
+    "char": "",
+    "parse": {
+      "initial": "th",
+      "final": "-n"
+    }
+  },
+  "ta": {
+    "codepoint": "U+F140",
+    "char": "",
+    "parse": {
+      "initial": "t",
+      "final": "a"
+    }
+  },
+  "to": {
+    "codepoint": "U+F141",
+    "char": "",
+    "parse": {
+      "initial": "t",
+      "final": "o"
+    }
+  },
+  "te": {
+    "codepoint": "U+F142",
+    "char": "",
+    "parse": {
+      "initial": "t",
+      "final": "e"
+    }
+  },
+  "ti": {
+    "codepoint": "U+F143",
+    "char": "",
+    "parse": {
+      "initial": "t",
+      "final": "i"
+    }
+  },
+  "tu": {
+    "codepoint": "U+F144",
+    "char": "",
+    "parse": {
+      "initial": "t",
+      "final": "u"
+    }
+  },
+  "tau": {
+    "codepoint": "U+F145",
+    "char": "",
+    "parse": {
+      "initial": "t",
+      "final": "au"
+    }
+  },
+  "tou": {
+    "codepoint": "U+F146",
+    "char": "",
+    "parse": {
+      "initial": "t",
+      "final": "ou"
+    }
+  },
+  "teu": {
+    "codepoint": "U+F147",
+    "char": "",
+    "parse": {
+      "initial": "t",
+      "final": "eu"
+    }
+  },
+  "tiu": {
+    "codepoint": "U+F148",
+    "char": "",
+    "parse": {
+      "initial": "t",
+      "final": "iu"
+    }
+  },
+  "taq": {
+    "codepoint": "U+F149",
+    "char": "",
+    "parse": {
+      "initial": "t",
+      "final": "aq"
+    }
+  },
+  "toq": {
+    "codepoint": "U+F14A",
+    "char": "",
+    "parse": {
+      "initial": "t",
+      "final": "oq"
+    }
+  },
+  "teq": {
+    "codepoint": "U+F14B",
+    "char": "",
+    "parse": {
+      "initial": "t",
+      "final": "eq"
+    }
+  },
+  "tiq": {
+    "codepoint": "U+F14C",
+    "char": "",
+    "parse": {
+      "initial": "t",
+      "final": "iq"
+    }
+  },
+  "tae": {
+    "codepoint": "U+F14D",
+    "char": "",
+    "parse": {
+      "initial": "t",
+      "final": "ae"
+    }
+  },
+  "toe": {
+    "codepoint": "U+F14E",
+    "char": "",
+    "parse": {
+      "initial": "t",
+      "final": "oe"
+    }
+  },
+  "ten": {
+    "codepoint": "U+F14F",
+    "char": "",
+    "parse": {
+      "initial": "t",
+      "final": "en"
+    }
+  },
+  "tie": {
+    "codepoint": "U+F150",
+    "char": "",
+    "parse": {
+      "initial": "t",
+      "final": "ie"
+    }
+  },
+  "tan": {
+    "codepoint": "U+F151",
+    "char": "",
+    "parse": {
+      "initial": "t",
+      "final": "an"
+    }
+  },
+  "ton": {
+    "codepoint": "U+F152",
+    "char": "",
+    "parse": {
+      "initial": "t",
+      "final": "on"
+    }
+  },
+  "teon": {
+    "codepoint": "U+F153",
+    "char": "",
+    "parse": {
+      "initial": "t",
+      "final": "eon"
+    }
+  },
+  "tin": {
+    "codepoint": "U+F154",
+    "char": "",
+    "parse": {
+      "initial": "t",
+      "final": "in"
+    }
+  },
+  "ty": {
+    "codepoint": "U+F155",
+    "char": "",
+    "parse": {
+      "initial": "t",
+      "final": "y"
+    }
+  },
+  "taon": {
+    "codepoint": "U+F156",
+    "char": "",
+    "parse": {
+      "initial": "t",
+      "final": "aon"
+    }
+  },
+  "tr": {
+    "codepoint": "U+F157",
+    "char": "",
+    "parse": {
+      "initial": "t",
+      "final": "r"
+    }
+  },
+  "t-q": {
+    "codepoint": "U+F158",
+    "char": "",
+    "parse": {
+      "initial": "t",
+      "final": "-q"
+    }
+  },
+  "t-n": {
+    "codepoint": "U+F159",
+    "char": "",
+    "parse": {
+      "initial": "t",
+      "final": "-n"
+    }
+  },
+  "da": {
+    "codepoint": "U+F160",
+    "char": "",
+    "parse": {
+      "initial": "d",
+      "final": "a"
+    }
+  },
+  "do": {
+    "codepoint": "U+F161",
+    "char": "",
+    "parse": {
+      "initial": "d",
+      "final": "o"
+    }
+  },
+  "de": {
+    "codepoint": "U+F162",
+    "char": "",
+    "parse": {
+      "initial": "d",
+      "final": "e"
+    }
+  },
+  "di": {
+    "codepoint": "U+F163",
+    "char": "",
+    "parse": {
+      "initial": "d",
+      "final": "i"
+    }
+  },
+  "du": {
+    "codepoint": "U+F164",
+    "char": "",
+    "parse": {
+      "initial": "d",
+      "final": "u"
+    }
+  },
+  "dau": {
+    "codepoint": "U+F165",
+    "char": "",
+    "parse": {
+      "initial": "d",
+      "final": "au"
+    }
+  },
+  "dou": {
+    "codepoint": "U+F166",
+    "char": "",
+    "parse": {
+      "initial": "d",
+      "final": "ou"
+    }
+  },
+  "deu": {
+    "codepoint": "U+F167",
+    "char": "",
+    "parse": {
+      "initial": "d",
+      "final": "eu"
+    }
+  },
+  "diu": {
+    "codepoint": "U+F168",
+    "char": "",
+    "parse": {
+      "initial": "d",
+      "final": "iu"
+    }
+  },
+  "daq": {
+    "codepoint": "U+F169",
+    "char": "",
+    "parse": {
+      "initial": "d",
+      "final": "aq"
+    }
+  },
+  "doq": {
+    "codepoint": "U+F16A",
+    "char": "",
+    "parse": {
+      "initial": "d",
+      "final": "oq"
+    }
+  },
+  "deq": {
+    "codepoint": "U+F16B",
+    "char": "",
+    "parse": {
+      "initial": "d",
+      "final": "eq"
+    }
+  },
+  "diq": {
+    "codepoint": "U+F16C",
+    "char": "",
+    "parse": {
+      "initial": "d",
+      "final": "iq"
+    }
+  },
+  "dae": {
+    "codepoint": "U+F16D",
+    "char": "",
+    "parse": {
+      "initial": "d",
+      "final": "ae"
+    }
+  },
+  "doe": {
+    "codepoint": "U+F16E",
+    "char": "",
+    "parse": {
+      "initial": "d",
+      "final": "oe"
+    }
+  },
+  "den": {
+    "codepoint": "U+F16F",
+    "char": "",
+    "parse": {
+      "initial": "d",
+      "final": "en"
+    }
+  },
+  "die": {
+    "codepoint": "U+F170",
+    "char": "",
+    "parse": {
+      "initial": "d",
+      "final": "ie"
+    }
+  },
+  "dan": {
+    "codepoint": "U+F171",
+    "char": "",
+    "parse": {
+      "initial": "d",
+      "final": "an"
+    }
+  },
+  "don": {
+    "codepoint": "U+F172",
+    "char": "",
+    "parse": {
+      "initial": "d",
+      "final": "on"
+    }
+  },
+  "deon": {
+    "codepoint": "U+F173",
+    "char": "",
+    "parse": {
+      "initial": "d",
+      "final": "eon"
+    }
+  },
+  "din": {
+    "codepoint": "U+F174",
+    "char": "",
+    "parse": {
+      "initial": "d",
+      "final": "in"
+    }
+  },
+  "dy": {
+    "codepoint": "U+F175",
+    "char": "",
+    "parse": {
+      "initial": "d",
+      "final": "y"
+    }
+  },
+  "daon": {
+    "codepoint": "U+F176",
+    "char": "",
+    "parse": {
+      "initial": "d",
+      "final": "aon"
+    }
+  },
+  "dr": {
+    "codepoint": "U+F177",
+    "char": "",
+    "parse": {
+      "initial": "d",
+      "final": "r"
+    }
+  },
+  "d-q": {
+    "codepoint": "U+F178",
+    "char": "",
+    "parse": {
+      "initial": "d",
+      "final": "-q"
+    }
+  },
+  "d-n": {
+    "codepoint": "U+F179",
+    "char": "",
+    "parse": {
+      "initial": "d",
+      "final": "-n"
+    }
+  },
+  "lha": {
+    "codepoint": "U+F180",
+    "char": "",
+    "parse": {
+      "initial": "lh",
+      "final": "a"
+    }
+  },
+  "lho": {
+    "codepoint": "U+F181",
+    "char": "",
+    "parse": {
+      "initial": "lh",
+      "final": "o"
+    }
+  },
+  "lhe": {
+    "codepoint": "U+F182",
+    "char": "",
+    "parse": {
+      "initial": "lh",
+      "final": "e"
+    }
+  },
+  "lhi": {
+    "codepoint": "U+F183",
+    "char": "",
+    "parse": {
+      "initial": "lh",
+      "final": "i"
+    }
+  },
+  "lhu": {
+    "codepoint": "U+F184",
+    "char": "",
+    "parse": {
+      "initial": "lh",
+      "final": "u"
+    }
+  },
+  "lhau": {
+    "codepoint": "U+F185",
+    "char": "",
+    "parse": {
+      "initial": "lh",
+      "final": "au"
+    }
+  },
+  "lhou": {
+    "codepoint": "U+F186",
+    "char": "",
+    "parse": {
+      "initial": "lh",
+      "final": "ou"
+    }
+  },
+  "lheu": {
+    "codepoint": "U+F187",
+    "char": "",
+    "parse": {
+      "initial": "lh",
+      "final": "eu"
+    }
+  },
+  "lhiu": {
+    "codepoint": "U+F188",
+    "char": "",
+    "parse": {
+      "initial": "lh",
+      "final": "iu"
+    }
+  },
+  "lhaq": {
+    "codepoint": "U+F189",
+    "char": "",
+    "parse": {
+      "initial": "lh",
+      "final": "aq"
+    }
+  },
+  "lhoq": {
+    "codepoint": "U+F18A",
+    "char": "",
+    "parse": {
+      "initial": "lh",
+      "final": "oq"
+    }
+  },
+  "lheq": {
+    "codepoint": "U+F18B",
+    "char": "",
+    "parse": {
+      "initial": "lh",
+      "final": "eq"
+    }
+  },
+  "lhiq": {
+    "codepoint": "U+F18C",
+    "char": "",
+    "parse": {
+      "initial": "lh",
+      "final": "iq"
+    }
+  },
+  "lhae": {
+    "codepoint": "U+F18D",
+    "char": "",
+    "parse": {
+      "initial": "lh",
+      "final": "ae"
+    }
+  },
+  "lhoe": {
+    "codepoint": "U+F18E",
+    "char": "",
+    "parse": {
+      "initial": "lh",
+      "final": "oe"
+    }
+  },
+  "lhen": {
+    "codepoint": "U+F18F",
+    "char": "",
+    "parse": {
+      "initial": "lh",
+      "final": "en"
+    }
+  },
+  "lhie": {
+    "codepoint": "U+F190",
+    "char": "",
+    "parse": {
+      "initial": "lh",
+      "final": "ie"
+    }
+  },
+  "lhan": {
+    "codepoint": "U+F191",
+    "char": "",
+    "parse": {
+      "initial": "lh",
+      "final": "an"
+    }
+  },
+  "lhon": {
+    "codepoint": "U+F192",
+    "char": "",
+    "parse": {
+      "initial": "lh",
+      "final": "on"
+    }
+  },
+  "lheon": {
+    "codepoint": "U+F193",
+    "char": "",
+    "parse": {
+      "initial": "lh",
+      "final": "eon"
+    }
+  },
+  "lhin": {
+    "codepoint": "U+F194",
+    "char": "",
+    "parse": {
+      "initial": "lh",
+      "final": "in"
+    }
+  },
+  "lhy": {
+    "codepoint": "U+F195",
+    "char": "",
+    "parse": {
+      "initial": "lh",
+      "final": "y"
+    }
+  },
+  "lhaon": {
+    "codepoint": "U+F196",
+    "char": "",
+    "parse": {
+      "initial": "lh",
+      "final": "aon"
+    }
+  },
+  "lhr": {
+    "codepoint": "U+F197",
+    "char": "",
+    "parse": {
+      "initial": "lh",
+      "final": "r"
+    }
+  },
+  "lh-q": {
+    "codepoint": "U+F198",
+    "char": "",
+    "parse": {
+      "initial": "lh",
+      "final": "-q"
+    }
+  },
+  "lh-n": {
+    "codepoint": "U+F199",
+    "char": "",
+    "parse": {
+      "initial": "lh",
+      "final": "-n"
+    }
+  },
+  "la": {
+    "codepoint": "U+F1A0",
+    "char": "",
+    "parse": {
+      "initial": "l",
+      "final": "a"
+    }
+  },
+  "lo": {
+    "codepoint": "U+F1A1",
+    "char": "",
+    "parse": {
+      "initial": "l",
+      "final": "o"
+    }
+  },
+  "le": {
+    "codepoint": "U+F1A2",
+    "char": "",
+    "parse": {
+      "initial": "l",
+      "final": "e"
+    }
+  },
+  "li": {
+    "codepoint": "U+F1A3",
+    "char": "",
+    "parse": {
+      "initial": "l",
+      "final": "i"
+    }
+  },
+  "lu": {
+    "codepoint": "U+F1A4",
+    "char": "",
+    "parse": {
+      "initial": "l",
+      "final": "u"
+    }
+  },
+  "lau": {
+    "codepoint": "U+F1A5",
+    "char": "",
+    "parse": {
+      "initial": "l",
+      "final": "au"
+    }
+  },
+  "lou": {
+    "codepoint": "U+F1A6",
+    "char": "",
+    "parse": {
+      "initial": "l",
+      "final": "ou"
+    }
+  },
+  "leu": {
+    "codepoint": "U+F1A7",
+    "char": "",
+    "parse": {
+      "initial": "l",
+      "final": "eu"
+    }
+  },
+  "liu": {
+    "codepoint": "U+F1A8",
+    "char": "",
+    "parse": {
+      "initial": "l",
+      "final": "iu"
+    }
+  },
+  "laq": {
+    "codepoint": "U+F1A9",
+    "char": "",
+    "parse": {
+      "initial": "l",
+      "final": "aq"
+    }
+  },
+  "loq": {
+    "codepoint": "U+F1AA",
+    "char": "",
+    "parse": {
+      "initial": "l",
+      "final": "oq"
+    }
+  },
+  "leq": {
+    "codepoint": "U+F1AB",
+    "char": "",
+    "parse": {
+      "initial": "l",
+      "final": "eq"
+    }
+  },
+  "liq": {
+    "codepoint": "U+F1AC",
+    "char": "",
+    "parse": {
+      "initial": "l",
+      "final": "iq"
+    }
+  },
+  "lae": {
+    "codepoint": "U+F1AD",
+    "char": "",
+    "parse": {
+      "initial": "l",
+      "final": "ae"
+    }
+  },
+  "loe": {
+    "codepoint": "U+F1AE",
+    "char": "",
+    "parse": {
+      "initial": "l",
+      "final": "oe"
+    }
+  },
+  "len": {
+    "codepoint": "U+F1AF",
+    "char": "",
+    "parse": {
+      "initial": "l",
+      "final": "en"
+    }
+  },
+  "lie": {
+    "codepoint": "U+F1B0",
+    "char": "",
+    "parse": {
+      "initial": "l",
+      "final": "ie"
+    }
+  },
+  "lan": {
+    "codepoint": "U+F1B1",
+    "char": "",
+    "parse": {
+      "initial": "l",
+      "final": "an"
+    }
+  },
+  "lon": {
+    "codepoint": "U+F1B2",
+    "char": "",
+    "parse": {
+      "initial": "l",
+      "final": "on"
+    }
+  },
+  "leon": {
+    "codepoint": "U+F1B3",
+    "char": "",
+    "parse": {
+      "initial": "l",
+      "final": "eon"
+    }
+  },
+  "lin": {
+    "codepoint": "U+F1B4",
+    "char": "",
+    "parse": {
+      "initial": "l",
+      "final": "in"
+    }
+  },
+  "ly": {
+    "codepoint": "U+F1B5",
+    "char": "",
+    "parse": {
+      "initial": "l",
+      "final": "y"
+    }
+  },
+  "laon": {
+    "codepoint": "U+F1B6",
+    "char": "",
+    "parse": {
+      "initial": "l",
+      "final": "aon"
+    }
+  },
+  "lr": {
+    "codepoint": "U+F1B7",
+    "char": "",
+    "parse": {
+      "initial": "l",
+      "final": "r"
+    }
+  },
+  "l-q": {
+    "codepoint": "U+F1B8",
+    "char": "",
+    "parse": {
+      "initial": "l",
+      "final": "-q"
+    }
+  },
+  "l-n": {
+    "codepoint": "U+F1B9",
+    "char": "",
+    "parse": {
+      "initial": "l",
+      "final": "-n"
+    }
+  },
+  "cha": {
+    "codepoint": "U+F1C0",
+    "char": "",
+    "parse": {
+      "initial": "ch",
+      "final": "a"
+    }
+  },
+  "cho": {
+    "codepoint": "U+F1C1",
+    "char": "",
+    "parse": {
+      "initial": "ch",
+      "final": "o"
+    }
+  },
+  "che": {
+    "codepoint": "U+F1C2",
+    "char": "",
+    "parse": {
+      "initial": "ch",
+      "final": "e"
+    }
+  },
+  "chi": {
+    "codepoint": "U+F1C3",
+    "char": "",
+    "parse": {
+      "initial": "ch",
+      "final": "i"
+    }
+  },
+  "chu": {
+    "codepoint": "U+F1C4",
+    "char": "",
+    "parse": {
+      "initial": "ch",
+      "final": "u"
+    }
+  },
+  "chau": {
+    "codepoint": "U+F1C5",
+    "char": "",
+    "parse": {
+      "initial": "ch",
+      "final": "au"
+    }
+  },
+  "chou": {
+    "codepoint": "U+F1C6",
+    "char": "",
+    "parse": {
+      "initial": "ch",
+      "final": "ou"
+    }
+  },
+  "cheu": {
+    "codepoint": "U+F1C7",
+    "char": "",
+    "parse": {
+      "initial": "ch",
+      "final": "eu"
+    }
+  },
+  "chiu": {
+    "codepoint": "U+F1C8",
+    "char": "",
+    "parse": {
+      "initial": "ch",
+      "final": "iu"
+    }
+  },
+  "chaq": {
+    "codepoint": "U+F1C9",
+    "char": "",
+    "parse": {
+      "initial": "ch",
+      "final": "aq"
+    }
+  },
+  "choq": {
+    "codepoint": "U+F1CA",
+    "char": "",
+    "parse": {
+      "initial": "ch",
+      "final": "oq"
+    }
+  },
+  "cheq": {
+    "codepoint": "U+F1CB",
+    "char": "",
+    "parse": {
+      "initial": "ch",
+      "final": "eq"
+    }
+  },
+  "chiq": {
+    "codepoint": "U+F1CC",
+    "char": "",
+    "parse": {
+      "initial": "ch",
+      "final": "iq"
+    }
+  },
+  "chae": {
+    "codepoint": "U+F1CD",
+    "char": "",
+    "parse": {
+      "initial": "ch",
+      "final": "ae"
+    }
+  },
+  "choe": {
+    "codepoint": "U+F1CE",
+    "char": "",
+    "parse": {
+      "initial": "ch",
+      "final": "oe"
+    }
+  },
+  "chen": {
+    "codepoint": "U+F1CF",
+    "char": "",
+    "parse": {
+      "initial": "ch",
+      "final": "en"
+    }
+  },
+  "chie": {
+    "codepoint": "U+F1D0",
+    "char": "",
+    "parse": {
+      "initial": "ch",
+      "final": "ie"
+    }
+  },
+  "chan": {
+    "codepoint": "U+F1D1",
+    "char": "",
+    "parse": {
+      "initial": "ch",
+      "final": "an"
+    }
+  },
+  "chon": {
+    "codepoint": "U+F1D2",
+    "char": "",
+    "parse": {
+      "initial": "ch",
+      "final": "on"
+    }
+  },
+  "cheon": {
+    "codepoint": "U+F1D3",
+    "char": "",
+    "parse": {
+      "initial": "ch",
+      "final": "eon"
+    }
+  },
+  "chin": {
+    "codepoint": "U+F1D4",
+    "char": "",
+    "parse": {
+      "initial": "ch",
+      "final": "in"
+    }
+  },
+  "chy": {
+    "codepoint": "U+F1D5",
+    "char": "",
+    "parse": {
+      "initial": "ch",
+      "final": "y"
+    }
+  },
+  "chaon": {
+    "codepoint": "U+F1D6",
+    "char": "",
+    "parse": {
+      "initial": "ch",
+      "final": "aon"
+    }
+  },
+  "chr": {
+    "codepoint": "U+F1D7",
+    "char": "",
+    "parse": {
+      "initial": "ch",
+      "final": "r"
+    }
+  },
+  "ch-q": {
+    "codepoint": "U+F1D8",
+    "char": "",
+    "parse": {
+      "initial": "ch",
+      "final": "-q"
+    }
+  },
+  "ch-n": {
+    "codepoint": "U+F1D9",
+    "char": "",
+    "parse": {
+      "initial": "ch",
+      "final": "-n"
+    }
+  },
+  "ca": {
+    "codepoint": "U+F1E0",
+    "char": "",
+    "parse": {
+      "initial": "c",
+      "final": "a"
+    }
+  },
+  "co": {
+    "codepoint": "U+F1E1",
+    "char": "",
+    "parse": {
+      "initial": "c",
+      "final": "o"
+    }
+  },
+  "ce": {
+    "codepoint": "U+F1E2",
+    "char": "",
+    "parse": {
+      "initial": "c",
+      "final": "e"
+    }
+  },
+  "ci": {
+    "codepoint": "U+F1E3",
+    "char": "",
+    "parse": {
+      "initial": "c",
+      "final": "i"
+    }
+  },
+  "cu": {
+    "codepoint": "U+F1E4",
+    "char": "",
+    "parse": {
+      "initial": "c",
+      "final": "u"
+    }
+  },
+  "cau": {
+    "codepoint": "U+F1E5",
+    "char": "",
+    "parse": {
+      "initial": "c",
+      "final": "au"
+    }
+  },
+  "cou": {
+    "codepoint": "U+F1E6",
+    "char": "",
+    "parse": {
+      "initial": "c",
+      "final": "ou"
+    }
+  },
+  "ceu": {
+    "codepoint": "U+F1E7",
+    "char": "",
+    "parse": {
+      "initial": "c",
+      "final": "eu"
+    }
+  },
+  "ciu": {
+    "codepoint": "U+F1E8",
+    "char": "",
+    "parse": {
+      "initial": "c",
+      "final": "iu"
+    }
+  },
+  "caq": {
+    "codepoint": "U+F1E9",
+    "char": "",
+    "parse": {
+      "initial": "c",
+      "final": "aq"
+    }
+  },
+  "coq": {
+    "codepoint": "U+F1EA",
+    "char": "",
+    "parse": {
+      "initial": "c",
+      "final": "oq"
+    }
+  },
+  "ceq": {
+    "codepoint": "U+F1EB",
+    "char": "",
+    "parse": {
+      "initial": "c",
+      "final": "eq"
+    }
+  },
+  "ciq": {
+    "codepoint": "U+F1EC",
+    "char": "",
+    "parse": {
+      "initial": "c",
+      "final": "iq"
+    }
+  },
+  "cae": {
+    "codepoint": "U+F1ED",
+    "char": "",
+    "parse": {
+      "initial": "c",
+      "final": "ae"
+    }
+  },
+  "coe": {
+    "codepoint": "U+F1EE",
+    "char": "",
+    "parse": {
+      "initial": "c",
+      "final": "oe"
+    }
+  },
+  "cen": {
+    "codepoint": "U+F1EF",
+    "char": "",
+    "parse": {
+      "initial": "c",
+      "final": "en"
+    }
+  },
+  "cie": {
+    "codepoint": "U+F1F0",
+    "char": "",
+    "parse": {
+      "initial": "c",
+      "final": "ie"
+    }
+  },
+  "can": {
+    "codepoint": "U+F1F1",
+    "char": "",
+    "parse": {
+      "initial": "c",
+      "final": "an"
+    }
+  },
+  "con": {
+    "codepoint": "U+F1F2",
+    "char": "",
+    "parse": {
+      "initial": "c",
+      "final": "on"
+    }
+  },
+  "ceon": {
+    "codepoint": "U+F1F3",
+    "char": "",
+    "parse": {
+      "initial": "c",
+      "final": "eon"
+    }
+  },
+  "cin": {
+    "codepoint": "U+F1F4",
+    "char": "",
+    "parse": {
+      "initial": "c",
+      "final": "in"
+    }
+  },
+  "cy": {
+    "codepoint": "U+F1F5",
+    "char": "",
+    "parse": {
+      "initial": "c",
+      "final": "y"
+    }
+  },
+  "caon": {
+    "codepoint": "U+F1F6",
+    "char": "",
+    "parse": {
+      "initial": "c",
+      "final": "aon"
+    }
+  },
+  "cr": {
+    "codepoint": "U+F1F7",
+    "char": "",
+    "parse": {
+      "initial": "c",
+      "final": "r"
+    }
+  },
+  "c-q": {
+    "codepoint": "U+F1F8",
+    "char": "",
+    "parse": {
+      "initial": "c",
+      "final": "-q"
+    }
+  },
+  "c-n": {
+    "codepoint": "U+F1F9",
+    "char": "",
+    "parse": {
+      "initial": "c",
+      "final": "-n"
+    }
+  },
+  "ja": {
+    "codepoint": "U+F200",
+    "char": "",
+    "parse": {
+      "initial": "j",
+      "final": "a"
+    }
+  },
+  "jo": {
+    "codepoint": "U+F201",
+    "char": "",
+    "parse": {
+      "initial": "j",
+      "final": "o"
+    }
+  },
+  "je": {
+    "codepoint": "U+F202",
+    "char": "",
+    "parse": {
+      "initial": "j",
+      "final": "e"
+    }
+  },
+  "ji": {
+    "codepoint": "U+F203",
+    "char": "",
+    "parse": {
+      "initial": "j",
+      "final": "i"
+    }
+  },
+  "ju": {
+    "codepoint": "U+F204",
+    "char": "",
+    "parse": {
+      "initial": "j",
+      "final": "u"
+    }
+  },
+  "jau": {
+    "codepoint": "U+F205",
+    "char": "",
+    "parse": {
+      "initial": "j",
+      "final": "au"
+    }
+  },
+  "jou": {
+    "codepoint": "U+F206",
+    "char": "",
+    "parse": {
+      "initial": "j",
+      "final": "ou"
+    }
+  },
+  "jeu": {
+    "codepoint": "U+F207",
+    "char": "",
+    "parse": {
+      "initial": "j",
+      "final": "eu"
+    }
+  },
+  "jiu": {
+    "codepoint": "U+F208",
+    "char": "",
+    "parse": {
+      "initial": "j",
+      "final": "iu"
+    }
+  },
+  "jaq": {
+    "codepoint": "U+F209",
+    "char": "",
+    "parse": {
+      "initial": "j",
+      "final": "aq"
+    }
+  },
+  "joq": {
+    "codepoint": "U+F20A",
+    "char": "",
+    "parse": {
+      "initial": "j",
+      "final": "oq"
+    }
+  },
+  "jeq": {
+    "codepoint": "U+F20B",
+    "char": "",
+    "parse": {
+      "initial": "j",
+      "final": "eq"
+    }
+  },
+  "jiq": {
+    "codepoint": "U+F20C",
+    "char": "",
+    "parse": {
+      "initial": "j",
+      "final": "iq"
+    }
+  },
+  "jae": {
+    "codepoint": "U+F20D",
+    "char": "",
+    "parse": {
+      "initial": "j",
+      "final": "ae"
+    }
+  },
+  "joe": {
+    "codepoint": "U+F20E",
+    "char": "",
+    "parse": {
+      "initial": "j",
+      "final": "oe"
+    }
+  },
+  "jen": {
+    "codepoint": "U+F20F",
+    "char": "",
+    "parse": {
+      "initial": "j",
+      "final": "en"
+    }
+  },
+  "jie": {
+    "codepoint": "U+F210",
+    "char": "",
+    "parse": {
+      "initial": "j",
+      "final": "ie"
+    }
+  },
+  "jan": {
+    "codepoint": "U+F211",
+    "char": "",
+    "parse": {
+      "initial": "j",
+      "final": "an"
+    }
+  },
+  "jon": {
+    "codepoint": "U+F212",
+    "char": "",
+    "parse": {
+      "initial": "j",
+      "final": "on"
+    }
+  },
+  "jeon": {
+    "codepoint": "U+F213",
+    "char": "",
+    "parse": {
+      "initial": "j",
+      "final": "eon"
+    }
+  },
+  "jin": {
+    "codepoint": "U+F214",
+    "char": "",
+    "parse": {
+      "initial": "j",
+      "final": "in"
+    }
+  },
+  "jy": {
+    "codepoint": "U+F215",
+    "char": "",
+    "parse": {
+      "initial": "j",
+      "final": "y"
+    }
+  },
+  "jaon": {
+    "codepoint": "U+F216",
+    "char": "",
+    "parse": {
+      "initial": "j",
+      "final": "aon"
+    }
+  },
+  "jr": {
+    "codepoint": "U+F217",
+    "char": "",
+    "parse": {
+      "initial": "j",
+      "final": "r"
+    }
+  },
+  "j-q": {
+    "codepoint": "U+F218",
+    "char": "",
+    "parse": {
+      "initial": "j",
+      "final": "-q"
+    }
+  },
+  "j-n": {
+    "codepoint": "U+F219",
+    "char": "",
+    "parse": {
+      "initial": "j",
+      "final": "-n"
+    }
+  },
+  "sha": {
+    "codepoint": "U+F220",
+    "char": "",
+    "parse": {
+      "initial": "sh",
+      "final": "a"
+    }
+  },
+  "sho": {
+    "codepoint": "U+F221",
+    "char": "",
+    "parse": {
+      "initial": "sh",
+      "final": "o"
+    }
+  },
+  "she": {
+    "codepoint": "U+F222",
+    "char": "",
+    "parse": {
+      "initial": "sh",
+      "final": "e"
+    }
+  },
+  "shi": {
+    "codepoint": "U+F223",
+    "char": "",
+    "parse": {
+      "initial": "sh",
+      "final": "i"
+    }
+  },
+  "shu": {
+    "codepoint": "U+F224",
+    "char": "",
+    "parse": {
+      "initial": "sh",
+      "final": "u"
+    }
+  },
+  "shau": {
+    "codepoint": "U+F225",
+    "char": "",
+    "parse": {
+      "initial": "sh",
+      "final": "au"
+    }
+  },
+  "shou": {
+    "codepoint": "U+F226",
+    "char": "",
+    "parse": {
+      "initial": "sh",
+      "final": "ou"
+    }
+  },
+  "sheu": {
+    "codepoint": "U+F227",
+    "char": "",
+    "parse": {
+      "initial": "sh",
+      "final": "eu"
+    }
+  },
+  "shiu": {
+    "codepoint": "U+F228",
+    "char": "",
+    "parse": {
+      "initial": "sh",
+      "final": "iu"
+    }
+  },
+  "shaq": {
+    "codepoint": "U+F229",
+    "char": "",
+    "parse": {
+      "initial": "sh",
+      "final": "aq"
+    }
+  },
+  "shoq": {
+    "codepoint": "U+F22A",
+    "char": "",
+    "parse": {
+      "initial": "sh",
+      "final": "oq"
+    }
+  },
+  "sheq": {
+    "codepoint": "U+F22B",
+    "char": "",
+    "parse": {
+      "initial": "sh",
+      "final": "eq"
+    }
+  },
+  "shiq": {
+    "codepoint": "U+F22C",
+    "char": "",
+    "parse": {
+      "initial": "sh",
+      "final": "iq"
+    }
+  },
+  "shae": {
+    "codepoint": "U+F22D",
+    "char": "",
+    "parse": {
+      "initial": "sh",
+      "final": "ae"
+    }
+  },
+  "shoe": {
+    "codepoint": "U+F22E",
+    "char": "",
+    "parse": {
+      "initial": "sh",
+      "final": "oe"
+    }
+  },
+  "shen": {
+    "codepoint": "U+F22F",
+    "char": "",
+    "parse": {
+      "initial": "sh",
+      "final": "en"
+    }
+  },
+  "shie": {
+    "codepoint": "U+F230",
+    "char": "",
+    "parse": {
+      "initial": "sh",
+      "final": "ie"
+    }
+  },
+  "shan": {
+    "codepoint": "U+F231",
+    "char": "",
+    "parse": {
+      "initial": "sh",
+      "final": "an"
+    }
+  },
+  "shon": {
+    "codepoint": "U+F232",
+    "char": "",
+    "parse": {
+      "initial": "sh",
+      "final": "on"
+    }
+  },
+  "sheon": {
+    "codepoint": "U+F233",
+    "char": "",
+    "parse": {
+      "initial": "sh",
+      "final": "eon"
+    }
+  },
+  "shin": {
+    "codepoint": "U+F234",
+    "char": "",
+    "parse": {
+      "initial": "sh",
+      "final": "in"
+    }
+  },
+  "shy": {
+    "codepoint": "U+F235",
+    "char": "",
+    "parse": {
+      "initial": "sh",
+      "final": "y"
+    }
+  },
+  "shaon": {
+    "codepoint": "U+F236",
+    "char": "",
+    "parse": {
+      "initial": "sh",
+      "final": "aon"
+    }
+  },
+  "shr": {
+    "codepoint": "U+F237",
+    "char": "",
+    "parse": {
+      "initial": "sh",
+      "final": "r"
+    }
+  },
+  "sh-q": {
+    "codepoint": "U+F238",
+    "char": "",
+    "parse": {
+      "initial": "sh",
+      "final": "-q"
+    }
+  },
+  "sh-n": {
+    "codepoint": "U+F239",
+    "char": "",
+    "parse": {
+      "initial": "sh",
+      "final": "-n"
+    }
+  },
+  "zha": {
+    "codepoint": "U+F240",
+    "char": "",
+    "parse": {
+      "initial": "zh",
+      "final": "a"
+    }
+  },
+  "zho": {
+    "codepoint": "U+F241",
+    "char": "",
+    "parse": {
+      "initial": "zh",
+      "final": "o"
+    }
+  },
+  "zhe": {
+    "codepoint": "U+F242",
+    "char": "",
+    "parse": {
+      "initial": "zh",
+      "final": "e"
+    }
+  },
+  "zhi": {
+    "codepoint": "U+F243",
+    "char": "",
+    "parse": {
+      "initial": "zh",
+      "final": "i"
+    }
+  },
+  "zhu": {
+    "codepoint": "U+F244",
+    "char": "",
+    "parse": {
+      "initial": "zh",
+      "final": "u"
+    }
+  },
+  "zhau": {
+    "codepoint": "U+F245",
+    "char": "",
+    "parse": {
+      "initial": "zh",
+      "final": "au"
+    }
+  },
+  "zhou": {
+    "codepoint": "U+F246",
+    "char": "",
+    "parse": {
+      "initial": "zh",
+      "final": "ou"
+    }
+  },
+  "zheu": {
+    "codepoint": "U+F247",
+    "char": "",
+    "parse": {
+      "initial": "zh",
+      "final": "eu"
+    }
+  },
+  "zhiu": {
+    "codepoint": "U+F248",
+    "char": "",
+    "parse": {
+      "initial": "zh",
+      "final": "iu"
+    }
+  },
+  "zhaq": {
+    "codepoint": "U+F249",
+    "char": "",
+    "parse": {
+      "initial": "zh",
+      "final": "aq"
+    }
+  },
+  "zhoq": {
+    "codepoint": "U+F24A",
+    "char": "",
+    "parse": {
+      "initial": "zh",
+      "final": "oq"
+    }
+  },
+  "zheq": {
+    "codepoint": "U+F24B",
+    "char": "",
+    "parse": {
+      "initial": "zh",
+      "final": "eq"
+    }
+  },
+  "zhiq": {
+    "codepoint": "U+F24C",
+    "char": "",
+    "parse": {
+      "initial": "zh",
+      "final": "iq"
+    }
+  },
+  "zhae": {
+    "codepoint": "U+F24D",
+    "char": "",
+    "parse": {
+      "initial": "zh",
+      "final": "ae"
+    }
+  },
+  "zhoe": {
+    "codepoint": "U+F24E",
+    "char": "",
+    "parse": {
+      "initial": "zh",
+      "final": "oe"
+    }
+  },
+  "zhen": {
+    "codepoint": "U+F24F",
+    "char": "",
+    "parse": {
+      "initial": "zh",
+      "final": "en"
+    }
+  },
+  "zhie": {
+    "codepoint": "U+F250",
+    "char": "",
+    "parse": {
+      "initial": "zh",
+      "final": "ie"
+    }
+  },
+  "zhan": {
+    "codepoint": "U+F251",
+    "char": "",
+    "parse": {
+      "initial": "zh",
+      "final": "an"
+    }
+  },
+  "zhon": {
+    "codepoint": "U+F252",
+    "char": "",
+    "parse": {
+      "initial": "zh",
+      "final": "on"
+    }
+  },
+  "zheon": {
+    "codepoint": "U+F253",
+    "char": "",
+    "parse": {
+      "initial": "zh",
+      "final": "eon"
+    }
+  },
+  "zhin": {
+    "codepoint": "U+F254",
+    "char": "",
+    "parse": {
+      "initial": "zh",
+      "final": "in"
+    }
+  },
+  "zhy": {
+    "codepoint": "U+F255",
+    "char": "",
+    "parse": {
+      "initial": "zh",
+      "final": "y"
+    }
+  },
+  "zhaon": {
+    "codepoint": "U+F256",
+    "char": "",
+    "parse": {
+      "initial": "zh",
+      "final": "aon"
+    }
+  },
+  "zhr": {
+    "codepoint": "U+F257",
+    "char": "",
+    "parse": {
+      "initial": "zh",
+      "final": "r"
+    }
+  },
+  "zh-q": {
+    "codepoint": "U+F258",
+    "char": "",
+    "parse": {
+      "initial": "zh",
+      "final": "-q"
+    }
+  },
+  "zh-n": {
+    "codepoint": "U+F259",
+    "char": "",
+    "parse": {
+      "initial": "zh",
+      "final": "-n"
+    }
+  },
+  "nha": {
+    "codepoint": "U+F260",
+    "char": "",
+    "parse": {
+      "initial": "nh",
+      "final": "a"
+    }
+  },
+  "nho": {
+    "codepoint": "U+F261",
+    "char": "",
+    "parse": {
+      "initial": "nh",
+      "final": "o"
+    }
+  },
+  "nhe": {
+    "codepoint": "U+F262",
+    "char": "",
+    "parse": {
+      "initial": "nh",
+      "final": "e"
+    }
+  },
+  "nhi": {
+    "codepoint": "U+F263",
+    "char": "",
+    "parse": {
+      "initial": "nh",
+      "final": "i"
+    }
+  },
+  "nhu": {
+    "codepoint": "U+F264",
+    "char": "",
+    "parse": {
+      "initial": "nh",
+      "final": "u"
+    }
+  },
+  "nhau": {
+    "codepoint": "U+F265",
+    "char": "",
+    "parse": {
+      "initial": "nh",
+      "final": "au"
+    }
+  },
+  "nhou": {
+    "codepoint": "U+F266",
+    "char": "",
+    "parse": {
+      "initial": "nh",
+      "final": "ou"
+    }
+  },
+  "nheu": {
+    "codepoint": "U+F267",
+    "char": "",
+    "parse": {
+      "initial": "nh",
+      "final": "eu"
+    }
+  },
+  "nhiu": {
+    "codepoint": "U+F268",
+    "char": "",
+    "parse": {
+      "initial": "nh",
+      "final": "iu"
+    }
+  },
+  "nhaq": {
+    "codepoint": "U+F269",
+    "char": "",
+    "parse": {
+      "initial": "nh",
+      "final": "aq"
+    }
+  },
+  "nhoq": {
+    "codepoint": "U+F26A",
+    "char": "",
+    "parse": {
+      "initial": "nh",
+      "final": "oq"
+    }
+  },
+  "nheq": {
+    "codepoint": "U+F26B",
+    "char": "",
+    "parse": {
+      "initial": "nh",
+      "final": "eq"
+    }
+  },
+  "nhiq": {
+    "codepoint": "U+F26C",
+    "char": "",
+    "parse": {
+      "initial": "nh",
+      "final": "iq"
+    }
+  },
+  "nhae": {
+    "codepoint": "U+F26D",
+    "char": "",
+    "parse": {
+      "initial": "nh",
+      "final": "ae"
+    }
+  },
+  "nhoe": {
+    "codepoint": "U+F26E",
+    "char": "",
+    "parse": {
+      "initial": "nh",
+      "final": "oe"
+    }
+  },
+  "nhen": {
+    "codepoint": "U+F26F",
+    "char": "",
+    "parse": {
+      "initial": "nh",
+      "final": "en"
+    }
+  },
+  "nhie": {
+    "codepoint": "U+F270",
+    "char": "",
+    "parse": {
+      "initial": "nh",
+      "final": "ie"
+    }
+  },
+  "nhan": {
+    "codepoint": "U+F271",
+    "char": "",
+    "parse": {
+      "initial": "nh",
+      "final": "an"
+    }
+  },
+  "nhon": {
+    "codepoint": "U+F272",
+    "char": "",
+    "parse": {
+      "initial": "nh",
+      "final": "on"
+    }
+  },
+  "nheon": {
+    "codepoint": "U+F273",
+    "char": "",
+    "parse": {
+      "initial": "nh",
+      "final": "eon"
+    }
+  },
+  "nhin": {
+    "codepoint": "U+F274",
+    "char": "",
+    "parse": {
+      "initial": "nh",
+      "final": "in"
+    }
+  },
+  "nhy": {
+    "codepoint": "U+F275",
+    "char": "",
+    "parse": {
+      "initial": "nh",
+      "final": "y"
+    }
+  },
+  "nhaon": {
+    "codepoint": "U+F276",
+    "char": "",
+    "parse": {
+      "initial": "nh",
+      "final": "aon"
+    }
+  },
+  "nhr": {
+    "codepoint": "U+F277",
+    "char": "",
+    "parse": {
+      "initial": "nh",
+      "final": "r"
+    }
+  },
+  "nh-q": {
+    "codepoint": "U+F278",
+    "char": "",
+    "parse": {
+      "initial": "nh",
+      "final": "-q"
+    }
+  },
+  "nh-n": {
+    "codepoint": "U+F279",
+    "char": "",
+    "parse": {
+      "initial": "nh",
+      "final": "-n"
+    }
+  },
+  "na": {
+    "codepoint": "U+F280",
+    "char": "",
+    "parse": {
+      "initial": "n",
+      "final": "a"
+    }
+  },
+  "no": {
+    "codepoint": "U+F281",
+    "char": "",
+    "parse": {
+      "initial": "n",
+      "final": "o"
+    }
+  },
+  "ne": {
+    "codepoint": "U+F282",
+    "char": "",
+    "parse": {
+      "initial": "n",
+      "final": "e"
+    }
+  },
+  "ni": {
+    "codepoint": "U+F283",
+    "char": "",
+    "parse": {
+      "initial": "n",
+      "final": "i"
+    }
+  },
+  "nu": {
+    "codepoint": "U+F284",
+    "char": "",
+    "parse": {
+      "initial": "n",
+      "final": "u"
+    }
+  },
+  "nau": {
+    "codepoint": "U+F285",
+    "char": "",
+    "parse": {
+      "initial": "n",
+      "final": "au"
+    }
+  },
+  "nou": {
+    "codepoint": "U+F286",
+    "char": "",
+    "parse": {
+      "initial": "n",
+      "final": "ou"
+    }
+  },
+  "neu": {
+    "codepoint": "U+F287",
+    "char": "",
+    "parse": {
+      "initial": "n",
+      "final": "eu"
+    }
+  },
+  "niu": {
+    "codepoint": "U+F288",
+    "char": "",
+    "parse": {
+      "initial": "n",
+      "final": "iu"
+    }
+  },
+  "naq": {
+    "codepoint": "U+F289",
+    "char": "",
+    "parse": {
+      "initial": "n",
+      "final": "aq"
+    }
+  },
+  "noq": {
+    "codepoint": "U+F28A",
+    "char": "",
+    "parse": {
+      "initial": "n",
+      "final": "oq"
+    }
+  },
+  "neq": {
+    "codepoint": "U+F28B",
+    "char": "",
+    "parse": {
+      "initial": "n",
+      "final": "eq"
+    }
+  },
+  "niq": {
+    "codepoint": "U+F28C",
+    "char": "",
+    "parse": {
+      "initial": "n",
+      "final": "iq"
+    }
+  },
+  "nae": {
+    "codepoint": "U+F28D",
+    "char": "",
+    "parse": {
+      "initial": "n",
+      "final": "ae"
+    }
+  },
+  "noe": {
+    "codepoint": "U+F28E",
+    "char": "",
+    "parse": {
+      "initial": "n",
+      "final": "oe"
+    }
+  },
+  "nen": {
+    "codepoint": "U+F28F",
+    "char": "",
+    "parse": {
+      "initial": "n",
+      "final": "en"
+    }
+  },
+  "nie": {
+    "codepoint": "U+F290",
+    "char": "",
+    "parse": {
+      "initial": "n",
+      "final": "ie"
+    }
+  },
+  "nan": {
+    "codepoint": "U+F291",
+    "char": "",
+    "parse": {
+      "initial": "n",
+      "final": "an"
+    }
+  },
+  "non": {
+    "codepoint": "U+F292",
+    "char": "",
+    "parse": {
+      "initial": "n",
+      "final": "on"
+    }
+  },
+  "neon": {
+    "codepoint": "U+F293",
+    "char": "",
+    "parse": {
+      "initial": "n",
+      "final": "eon"
+    }
+  },
+  "nin": {
+    "codepoint": "U+F294",
+    "char": "",
+    "parse": {
+      "initial": "n",
+      "final": "in"
+    }
+  },
+  "ny": {
+    "codepoint": "U+F295",
+    "char": "",
+    "parse": {
+      "initial": "n",
+      "final": "y"
+    }
+  },
+  "naon": {
+    "codepoint": "U+F296",
+    "char": "",
+    "parse": {
+      "initial": "n",
+      "final": "aon"
+    }
+  },
+  "nr": {
+    "codepoint": "U+F297",
+    "char": "",
+    "parse": {
+      "initial": "n",
+      "final": "r"
+    }
+  },
+  "n-q": {
+    "codepoint": "U+F298",
+    "char": "",
+    "parse": {
+      "initial": "n",
+      "final": "-q"
+    }
+  },
+  "n-n": {
+    "codepoint": "U+F299",
+    "char": "",
+    "parse": {
+      "initial": "n",
+      "final": "-n"
+    }
+  },
+  "tsha": {
+    "codepoint": "U+F2A0",
+    "char": "",
+    "parse": {
+      "initial": "tsh",
+      "final": "a"
+    }
+  },
+  "tsho": {
+    "codepoint": "U+F2A1",
+    "char": "",
+    "parse": {
+      "initial": "tsh",
+      "final": "o"
+    }
+  },
+  "tshe": {
+    "codepoint": "U+F2A2",
+    "char": "",
+    "parse": {
+      "initial": "tsh",
+      "final": "e"
+    }
+  },
+  "tshi": {
+    "codepoint": "U+F2A3",
+    "char": "",
+    "parse": {
+      "initial": "tsh",
+      "final": "i"
+    }
+  },
+  "tshu": {
+    "codepoint": "U+F2A4",
+    "char": "",
+    "parse": {
+      "initial": "tsh",
+      "final": "u"
+    }
+  },
+  "tshau": {
+    "codepoint": "U+F2A5",
+    "char": "",
+    "parse": {
+      "initial": "tsh",
+      "final": "au"
+    }
+  },
+  "tshou": {
+    "codepoint": "U+F2A6",
+    "char": "",
+    "parse": {
+      "initial": "tsh",
+      "final": "ou"
+    }
+  },
+  "tsheu": {
+    "codepoint": "U+F2A7",
+    "char": "",
+    "parse": {
+      "initial": "tsh",
+      "final": "eu"
+    }
+  },
+  "tshiu": {
+    "codepoint": "U+F2A8",
+    "char": "",
+    "parse": {
+      "initial": "tsh",
+      "final": "iu"
+    }
+  },
+  "tshaq": {
+    "codepoint": "U+F2A9",
+    "char": "",
+    "parse": {
+      "initial": "tsh",
+      "final": "aq"
+    }
+  },
+  "tshoq": {
+    "codepoint": "U+F2AA",
+    "char": "",
+    "parse": {
+      "initial": "tsh",
+      "final": "oq"
+    }
+  },
+  "tsheq": {
+    "codepoint": "U+F2AB",
+    "char": "",
+    "parse": {
+      "initial": "tsh",
+      "final": "eq"
+    }
+  },
+  "tshiq": {
+    "codepoint": "U+F2AC",
+    "char": "",
+    "parse": {
+      "initial": "tsh",
+      "final": "iq"
+    }
+  },
+  "tshae": {
+    "codepoint": "U+F2AD",
+    "char": "",
+    "parse": {
+      "initial": "tsh",
+      "final": "ae"
+    }
+  },
+  "tshoe": {
+    "codepoint": "U+F2AE",
+    "char": "",
+    "parse": {
+      "initial": "tsh",
+      "final": "oe"
+    }
+  },
+  "tshen": {
+    "codepoint": "U+F2AF",
+    "char": "",
+    "parse": {
+      "initial": "tsh",
+      "final": "en"
+    }
+  },
+  "tshie": {
+    "codepoint": "U+F2B0",
+    "char": "",
+    "parse": {
+      "initial": "tsh",
+      "final": "ie"
+    }
+  },
+  "tshan": {
+    "codepoint": "U+F2B1",
+    "char": "",
+    "parse": {
+      "initial": "tsh",
+      "final": "an"
+    }
+  },
+  "tshon": {
+    "codepoint": "U+F2B2",
+    "char": "",
+    "parse": {
+      "initial": "tsh",
+      "final": "on"
+    }
+  },
+  "tsheon": {
+    "codepoint": "U+F2B3",
+    "char": "",
+    "parse": {
+      "initial": "tsh",
+      "final": "eon"
+    }
+  },
+  "tshin": {
+    "codepoint": "U+F2B4",
+    "char": "",
+    "parse": {
+      "initial": "tsh",
+      "final": "in"
+    }
+  },
+  "tshy": {
+    "codepoint": "U+F2B5",
+    "char": "",
+    "parse": {
+      "initial": "tsh",
+      "final": "y"
+    }
+  },
+  "tshaon": {
+    "codepoint": "U+F2B6",
+    "char": "",
+    "parse": {
+      "initial": "tsh",
+      "final": "aon"
+    }
+  },
+  "tshr": {
+    "codepoint": "U+F2B7",
+    "char": "",
+    "parse": {
+      "initial": "tsh",
+      "final": "r"
+    }
+  },
+  "tsh-q": {
+    "codepoint": "U+F2B8",
+    "char": "",
+    "parse": {
+      "initial": "tsh",
+      "final": "-q"
+    }
+  },
+  "tsh-n": {
+    "codepoint": "U+F2B9",
+    "char": "",
+    "parse": {
+      "initial": "tsh",
+      "final": "-n"
+    }
+  },
+  "tsa": {
+    "codepoint": "U+F2C0",
+    "char": "",
+    "parse": {
+      "initial": "ts",
+      "final": "a"
+    }
+  },
+  "tso": {
+    "codepoint": "U+F2C1",
+    "char": "",
+    "parse": {
+      "initial": "ts",
+      "final": "o"
+    }
+  },
+  "tse": {
+    "codepoint": "U+F2C2",
+    "char": "",
+    "parse": {
+      "initial": "ts",
+      "final": "e"
+    }
+  },
+  "tsi": {
+    "codepoint": "U+F2C3",
+    "char": "",
+    "parse": {
+      "initial": "ts",
+      "final": "i"
+    }
+  },
+  "tsu": {
+    "codepoint": "U+F2C4",
+    "char": "",
+    "parse": {
+      "initial": "ts",
+      "final": "u"
+    }
+  },
+  "tsau": {
+    "codepoint": "U+F2C5",
+    "char": "",
+    "parse": {
+      "initial": "ts",
+      "final": "au"
+    }
+  },
+  "tsou": {
+    "codepoint": "U+F2C6",
+    "char": "",
+    "parse": {
+      "initial": "ts",
+      "final": "ou"
+    }
+  },
+  "tseu": {
+    "codepoint": "U+F2C7",
+    "char": "",
+    "parse": {
+      "initial": "ts",
+      "final": "eu"
+    }
+  },
+  "tsiu": {
+    "codepoint": "U+F2C8",
+    "char": "",
+    "parse": {
+      "initial": "ts",
+      "final": "iu"
+    }
+  },
+  "tsaq": {
+    "codepoint": "U+F2C9",
+    "char": "",
+    "parse": {
+      "initial": "ts",
+      "final": "aq"
+    }
+  },
+  "tsoq": {
+    "codepoint": "U+F2CA",
+    "char": "",
+    "parse": {
+      "initial": "ts",
+      "final": "oq"
+    }
+  },
+  "tseq": {
+    "codepoint": "U+F2CB",
+    "char": "",
+    "parse": {
+      "initial": "ts",
+      "final": "eq"
+    }
+  },
+  "tsiq": {
+    "codepoint": "U+F2CC",
+    "char": "",
+    "parse": {
+      "initial": "ts",
+      "final": "iq"
+    }
+  },
+  "tsae": {
+    "codepoint": "U+F2CD",
+    "char": "",
+    "parse": {
+      "initial": "ts",
+      "final": "ae"
+    }
+  },
+  "tsoe": {
+    "codepoint": "U+F2CE",
+    "char": "",
+    "parse": {
+      "initial": "ts",
+      "final": "oe"
+    }
+  },
+  "tsen": {
+    "codepoint": "U+F2CF",
+    "char": "",
+    "parse": {
+      "initial": "ts",
+      "final": "en"
+    }
+  },
+  "tsie": {
+    "codepoint": "U+F2D0",
+    "char": "",
+    "parse": {
+      "initial": "ts",
+      "final": "ie"
+    }
+  },
+  "tsan": {
+    "codepoint": "U+F2D1",
+    "char": "",
+    "parse": {
+      "initial": "ts",
+      "final": "an"
+    }
+  },
+  "tson": {
+    "codepoint": "U+F2D2",
+    "char": "",
+    "parse": {
+      "initial": "ts",
+      "final": "on"
+    }
+  },
+  "tseon": {
+    "codepoint": "U+F2D3",
+    "char": "",
+    "parse": {
+      "initial": "ts",
+      "final": "eon"
+    }
+  },
+  "tsin": {
+    "codepoint": "U+F2D4",
+    "char": "",
+    "parse": {
+      "initial": "ts",
+      "final": "in"
+    }
+  },
+  "tsy": {
+    "codepoint": "U+F2D5",
+    "char": "",
+    "parse": {
+      "initial": "ts",
+      "final": "y"
+    }
+  },
+  "tsaon": {
+    "codepoint": "U+F2D6",
+    "char": "",
+    "parse": {
+      "initial": "ts",
+      "final": "aon"
+    }
+  },
+  "tsr": {
+    "codepoint": "U+F2D7",
+    "char": "",
+    "parse": {
+      "initial": "ts",
+      "final": "r"
+    }
+  },
+  "ts-q": {
+    "codepoint": "U+F2D8",
+    "char": "",
+    "parse": {
+      "initial": "ts",
+      "final": "-q"
+    }
+  },
+  "ts-n": {
+    "codepoint": "U+F2D9",
+    "char": "",
+    "parse": {
+      "initial": "ts",
+      "final": "-n"
+    }
+  },
+  "dza": {
+    "codepoint": "U+F2E0",
+    "char": "",
+    "parse": {
+      "initial": "dz",
+      "final": "a"
+    }
+  },
+  "dzo": {
+    "codepoint": "U+F2E1",
+    "char": "",
+    "parse": {
+      "initial": "dz",
+      "final": "o"
+    }
+  },
+  "dze": {
+    "codepoint": "U+F2E2",
+    "char": "",
+    "parse": {
+      "initial": "dz",
+      "final": "e"
+    }
+  },
+  "dzi": {
+    "codepoint": "U+F2E3",
+    "char": "",
+    "parse": {
+      "initial": "dz",
+      "final": "i"
+    }
+  },
+  "dzu": {
+    "codepoint": "U+F2E4",
+    "char": "",
+    "parse": {
+      "initial": "dz",
+      "final": "u"
+    }
+  },
+  "dzau": {
+    "codepoint": "U+F2E5",
+    "char": "",
+    "parse": {
+      "initial": "dz",
+      "final": "au"
+    }
+  },
+  "dzou": {
+    "codepoint": "U+F2E6",
+    "char": "",
+    "parse": {
+      "initial": "dz",
+      "final": "ou"
+    }
+  },
+  "dzeu": {
+    "codepoint": "U+F2E7",
+    "char": "",
+    "parse": {
+      "initial": "dz",
+      "final": "eu"
+    }
+  },
+  "dziu": {
+    "codepoint": "U+F2E8",
+    "char": "",
+    "parse": {
+      "initial": "dz",
+      "final": "iu"
+    }
+  },
+  "dzaq": {
+    "codepoint": "U+F2E9",
+    "char": "",
+    "parse": {
+      "initial": "dz",
+      "final": "aq"
+    }
+  },
+  "dzoq": {
+    "codepoint": "U+F2EA",
+    "char": "",
+    "parse": {
+      "initial": "dz",
+      "final": "oq"
+    }
+  },
+  "dzeq": {
+    "codepoint": "U+F2EB",
+    "char": "",
+    "parse": {
+      "initial": "dz",
+      "final": "eq"
+    }
+  },
+  "dziq": {
+    "codepoint": "U+F2EC",
+    "char": "",
+    "parse": {
+      "initial": "dz",
+      "final": "iq"
+    }
+  },
+  "dzae": {
+    "codepoint": "U+F2ED",
+    "char": "",
+    "parse": {
+      "initial": "dz",
+      "final": "ae"
+    }
+  },
+  "dzoe": {
+    "codepoint": "U+F2EE",
+    "char": "",
+    "parse": {
+      "initial": "dz",
+      "final": "oe"
+    }
+  },
+  "dzen": {
+    "codepoint": "U+F2EF",
+    "char": "",
+    "parse": {
+      "initial": "dz",
+      "final": "en"
+    }
+  },
+  "dzie": {
+    "codepoint": "U+F2F0",
+    "char": "",
+    "parse": {
+      "initial": "dz",
+      "final": "ie"
+    }
+  },
+  "dzan": {
+    "codepoint": "U+F2F1",
+    "char": "",
+    "parse": {
+      "initial": "dz",
+      "final": "an"
+    }
+  },
+  "dzon": {
+    "codepoint": "U+F2F2",
+    "char": "",
+    "parse": {
+      "initial": "dz",
+      "final": "on"
+    }
+  },
+  "dzeon": {
+    "codepoint": "U+F2F3",
+    "char": "",
+    "parse": {
+      "initial": "dz",
+      "final": "eon"
+    }
+  },
+  "dzin": {
+    "codepoint": "U+F2F4",
+    "char": "",
+    "parse": {
+      "initial": "dz",
+      "final": "in"
+    }
+  },
+  "dzy": {
+    "codepoint": "U+F2F5",
+    "char": "",
+    "parse": {
+      "initial": "dz",
+      "final": "y"
+    }
+  },
+  "dzaon": {
+    "codepoint": "U+F2F6",
+    "char": "",
+    "parse": {
+      "initial": "dz",
+      "final": "aon"
+    }
+  },
+  "dzr": {
+    "codepoint": "U+F2F7",
+    "char": "",
+    "parse": {
+      "initial": "dz",
+      "final": "r"
+    }
+  },
+  "dz-q": {
+    "codepoint": "U+F2F8",
+    "char": "",
+    "parse": {
+      "initial": "dz",
+      "final": "-q"
+    }
+  },
+  "dz-n": {
+    "codepoint": "U+F2F9",
+    "char": "",
+    "parse": {
+      "initial": "dz",
+      "final": "-n"
+    }
+  },
+  "sa": {
+    "codepoint": "U+F300",
+    "char": "",
+    "parse": {
+      "initial": "s",
+      "final": "a"
+    }
+  },
+  "so": {
+    "codepoint": "U+F301",
+    "char": "",
+    "parse": {
+      "initial": "s",
+      "final": "o"
+    }
+  },
+  "se": {
+    "codepoint": "U+F302",
+    "char": "",
+    "parse": {
+      "initial": "s",
+      "final": "e"
+    }
+  },
+  "si": {
+    "codepoint": "U+F303",
+    "char": "",
+    "parse": {
+      "initial": "s",
+      "final": "i"
+    }
+  },
+  "su": {
+    "codepoint": "U+F304",
+    "char": "",
+    "parse": {
+      "initial": "s",
+      "final": "u"
+    }
+  },
+  "sau": {
+    "codepoint": "U+F305",
+    "char": "",
+    "parse": {
+      "initial": "s",
+      "final": "au"
+    }
+  },
+  "sou": {
+    "codepoint": "U+F306",
+    "char": "",
+    "parse": {
+      "initial": "s",
+      "final": "ou"
+    }
+  },
+  "seu": {
+    "codepoint": "U+F307",
+    "char": "",
+    "parse": {
+      "initial": "s",
+      "final": "eu"
+    }
+  },
+  "siu": {
+    "codepoint": "U+F308",
+    "char": "",
+    "parse": {
+      "initial": "s",
+      "final": "iu"
+    }
+  },
+  "saq": {
+    "codepoint": "U+F309",
+    "char": "",
+    "parse": {
+      "initial": "s",
+      "final": "aq"
+    }
+  },
+  "soq": {
+    "codepoint": "U+F30A",
+    "char": "",
+    "parse": {
+      "initial": "s",
+      "final": "oq"
+    }
+  },
+  "seq": {
+    "codepoint": "U+F30B",
+    "char": "",
+    "parse": {
+      "initial": "s",
+      "final": "eq"
+    }
+  },
+  "siq": {
+    "codepoint": "U+F30C",
+    "char": "",
+    "parse": {
+      "initial": "s",
+      "final": "iq"
+    }
+  },
+  "sae": {
+    "codepoint": "U+F30D",
+    "char": "",
+    "parse": {
+      "initial": "s",
+      "final": "ae"
+    }
+  },
+  "soe": {
+    "codepoint": "U+F30E",
+    "char": "",
+    "parse": {
+      "initial": "s",
+      "final": "oe"
+    }
+  },
+  "sen": {
+    "codepoint": "U+F30F",
+    "char": "",
+    "parse": {
+      "initial": "s",
+      "final": "en"
+    }
+  },
+  "sie": {
+    "codepoint": "U+F310",
+    "char": "",
+    "parse": {
+      "initial": "s",
+      "final": "ie"
+    }
+  },
+  "san": {
+    "codepoint": "U+F311",
+    "char": "",
+    "parse": {
+      "initial": "s",
+      "final": "an"
+    }
+  },
+  "son": {
+    "codepoint": "U+F312",
+    "char": "",
+    "parse": {
+      "initial": "s",
+      "final": "on"
+    }
+  },
+  "seon": {
+    "codepoint": "U+F313",
+    "char": "",
+    "parse": {
+      "initial": "s",
+      "final": "eon"
+    }
+  },
+  "sin": {
+    "codepoint": "U+F314",
+    "char": "",
+    "parse": {
+      "initial": "s",
+      "final": "in"
+    }
+  },
+  "sy": {
+    "codepoint": "U+F315",
+    "char": "",
+    "parse": {
+      "initial": "s",
+      "final": "y"
+    }
+  },
+  "saon": {
+    "codepoint": "U+F316",
+    "char": "",
+    "parse": {
+      "initial": "s",
+      "final": "aon"
+    }
+  },
+  "sr": {
+    "codepoint": "U+F317",
+    "char": "",
+    "parse": {
+      "initial": "s",
+      "final": "r"
+    }
+  },
+  "s-q": {
+    "codepoint": "U+F318",
+    "char": "",
+    "parse": {
+      "initial": "s",
+      "final": "-q"
+    }
+  },
+  "s-n": {
+    "codepoint": "U+F319",
+    "char": "",
+    "parse": {
+      "initial": "s",
+      "final": "-n"
+    }
+  },
+  "za": {
+    "codepoint": "U+F320",
+    "char": "",
+    "parse": {
+      "initial": "z",
+      "final": "a"
+    }
+  },
+  "zo": {
+    "codepoint": "U+F321",
+    "char": "",
+    "parse": {
+      "initial": "z",
+      "final": "o"
+    }
+  },
+  "ze": {
+    "codepoint": "U+F322",
+    "char": "",
+    "parse": {
+      "initial": "z",
+      "final": "e"
+    }
+  },
+  "zi": {
+    "codepoint": "U+F323",
+    "char": "",
+    "parse": {
+      "initial": "z",
+      "final": "i"
+    }
+  },
+  "zu": {
+    "codepoint": "U+F324",
+    "char": "",
+    "parse": {
+      "initial": "z",
+      "final": "u"
+    }
+  },
+  "zau": {
+    "codepoint": "U+F325",
+    "char": "",
+    "parse": {
+      "initial": "z",
+      "final": "au"
+    }
+  },
+  "zou": {
+    "codepoint": "U+F326",
+    "char": "",
+    "parse": {
+      "initial": "z",
+      "final": "ou"
+    }
+  },
+  "zeu": {
+    "codepoint": "U+F327",
+    "char": "",
+    "parse": {
+      "initial": "z",
+      "final": "eu"
+    }
+  },
+  "ziu": {
+    "codepoint": "U+F328",
+    "char": "",
+    "parse": {
+      "initial": "z",
+      "final": "iu"
+    }
+  },
+  "zaq": {
+    "codepoint": "U+F329",
+    "char": "",
+    "parse": {
+      "initial": "z",
+      "final": "aq"
+    }
+  },
+  "zoq": {
+    "codepoint": "U+F32A",
+    "char": "",
+    "parse": {
+      "initial": "z",
+      "final": "oq"
+    }
+  },
+  "zeq": {
+    "codepoint": "U+F32B",
+    "char": "",
+    "parse": {
+      "initial": "z",
+      "final": "eq"
+    }
+  },
+  "ziq": {
+    "codepoint": "U+F32C",
+    "char": "",
+    "parse": {
+      "initial": "z",
+      "final": "iq"
+    }
+  },
+  "zae": {
+    "codepoint": "U+F32D",
+    "char": "",
+    "parse": {
+      "initial": "z",
+      "final": "ae"
+    }
+  },
+  "zoe": {
+    "codepoint": "U+F32E",
+    "char": "",
+    "parse": {
+      "initial": "z",
+      "final": "oe"
+    }
+  },
+  "zen": {
+    "codepoint": "U+F32F",
+    "char": "",
+    "parse": {
+      "initial": "z",
+      "final": "en"
+    }
+  },
+  "zie": {
+    "codepoint": "U+F330",
+    "char": "",
+    "parse": {
+      "initial": "z",
+      "final": "ie"
+    }
+  },
+  "zan": {
+    "codepoint": "U+F331",
+    "char": "",
+    "parse": {
+      "initial": "z",
+      "final": "an"
+    }
+  },
+  "zon": {
+    "codepoint": "U+F332",
+    "char": "",
+    "parse": {
+      "initial": "z",
+      "final": "on"
+    }
+  },
+  "zeon": {
+    "codepoint": "U+F333",
+    "char": "",
+    "parse": {
+      "initial": "z",
+      "final": "eon"
+    }
+  },
+  "zin": {
+    "codepoint": "U+F334",
+    "char": "",
+    "parse": {
+      "initial": "z",
+      "final": "in"
+    }
+  },
+  "zy": {
+    "codepoint": "U+F335",
+    "char": "",
+    "parse": {
+      "initial": "z",
+      "final": "y"
+    }
+  },
+  "zaon": {
+    "codepoint": "U+F336",
+    "char": "",
+    "parse": {
+      "initial": "z",
+      "final": "aon"
+    }
+  },
+  "zr": {
+    "codepoint": "U+F337",
+    "char": "",
+    "parse": {
+      "initial": "z",
+      "final": "r"
+    }
+  },
+  "z-q": {
+    "codepoint": "U+F338",
+    "char": "",
+    "parse": {
+      "initial": "z",
+      "final": "-q"
+    }
+  },
+  "z-n": {
+    "codepoint": "U+F339",
+    "char": "",
+    "parse": {
+      "initial": "z",
+      "final": "-n"
+    }
+  },
+  "nyha": {
+    "codepoint": "U+F340",
+    "char": "",
+    "parse": {
+      "initial": "nyh",
+      "final": "a"
+    }
+  },
+  "nyho": {
+    "codepoint": "U+F341",
+    "char": "",
+    "parse": {
+      "initial": "nyh",
+      "final": "o"
+    }
+  },
+  "nyhe": {
+    "codepoint": "U+F342",
+    "char": "",
+    "parse": {
+      "initial": "nyh",
+      "final": "e"
+    }
+  },
+  "nyhi": {
+    "codepoint": "U+F343",
+    "char": "",
+    "parse": {
+      "initial": "nyh",
+      "final": "i"
+    }
+  },
+  "nyhu": {
+    "codepoint": "U+F344",
+    "char": "",
+    "parse": {
+      "initial": "nyh",
+      "final": "u"
+    }
+  },
+  "nyhau": {
+    "codepoint": "U+F345",
+    "char": "",
+    "parse": {
+      "initial": "nyh",
+      "final": "au"
+    }
+  },
+  "nyhou": {
+    "codepoint": "U+F346",
+    "char": "",
+    "parse": {
+      "initial": "nyh",
+      "final": "ou"
+    }
+  },
+  "nyheu": {
+    "codepoint": "U+F347",
+    "char": "",
+    "parse": {
+      "initial": "nyh",
+      "final": "eu"
+    }
+  },
+  "nyhiu": {
+    "codepoint": "U+F348",
+    "char": "",
+    "parse": {
+      "initial": "nyh",
+      "final": "iu"
+    }
+  },
+  "nyhaq": {
+    "codepoint": "U+F349",
+    "char": "",
+    "parse": {
+      "initial": "nyh",
+      "final": "aq"
+    }
+  },
+  "nyhoq": {
+    "codepoint": "U+F34A",
+    "char": "",
+    "parse": {
+      "initial": "nyh",
+      "final": "oq"
+    }
+  },
+  "nyheq": {
+    "codepoint": "U+F34B",
+    "char": "",
+    "parse": {
+      "initial": "nyh",
+      "final": "eq"
+    }
+  },
+  "nyhiq": {
+    "codepoint": "U+F34C",
+    "char": "",
+    "parse": {
+      "initial": "nyh",
+      "final": "iq"
+    }
+  },
+  "nyhae": {
+    "codepoint": "U+F34D",
+    "char": "",
+    "parse": {
+      "initial": "nyh",
+      "final": "ae"
+    }
+  },
+  "nyhoe": {
+    "codepoint": "U+F34E",
+    "char": "",
+    "parse": {
+      "initial": "nyh",
+      "final": "oe"
+    }
+  },
+  "nyhen": {
+    "codepoint": "U+F34F",
+    "char": "",
+    "parse": {
+      "initial": "nyh",
+      "final": "en"
+    }
+  },
+  "nyhie": {
+    "codepoint": "U+F350",
+    "char": "",
+    "parse": {
+      "initial": "nyh",
+      "final": "ie"
+    }
+  },
+  "nyhan": {
+    "codepoint": "U+F351",
+    "char": "",
+    "parse": {
+      "initial": "nyh",
+      "final": "an"
+    }
+  },
+  "nyhon": {
+    "codepoint": "U+F352",
+    "char": "",
+    "parse": {
+      "initial": "nyh",
+      "final": "on"
+    }
+  },
+  "nyheon": {
+    "codepoint": "U+F353",
+    "char": "",
+    "parse": {
+      "initial": "nyh",
+      "final": "eon"
+    }
+  },
+  "nyhin": {
+    "codepoint": "U+F354",
+    "char": "",
+    "parse": {
+      "initial": "nyh",
+      "final": "in"
+    }
+  },
+  "nyhy": {
+    "codepoint": "U+F355",
+    "char": "",
+    "parse": {
+      "initial": "nyh",
+      "final": "y"
+    }
+  },
+  "nyhaon": {
+    "codepoint": "U+F356",
+    "char": "",
+    "parse": {
+      "initial": "nyh",
+      "final": "aon"
+    }
+  },
+  "nyhr": {
+    "codepoint": "U+F357",
+    "char": "",
+    "parse": {
+      "initial": "nyh",
+      "final": "r"
+    }
+  },
+  "nyh-q": {
+    "codepoint": "U+F358",
+    "char": "",
+    "parse": {
+      "initial": "nyh",
+      "final": "-q"
+    }
+  },
+  "nyh-n": {
+    "codepoint": "U+F359",
+    "char": "",
+    "parse": {
+      "initial": "nyh",
+      "final": "-n"
+    }
+  },
+  "nya": {
+    "codepoint": "U+F360",
+    "char": "",
+    "parse": {
+      "initial": "ny",
+      "final": "a"
+    }
+  },
+  "nyo": {
+    "codepoint": "U+F361",
+    "char": "",
+    "parse": {
+      "initial": "ny",
+      "final": "o"
+    }
+  },
+  "nye": {
+    "codepoint": "U+F362",
+    "char": "",
+    "parse": {
+      "initial": "ny",
+      "final": "e"
+    }
+  },
+  "nyi": {
+    "codepoint": "U+F363",
+    "char": "",
+    "parse": {
+      "initial": "ny",
+      "final": "i"
+    }
+  },
+  "nyu": {
+    "codepoint": "U+F364",
+    "char": "",
+    "parse": {
+      "initial": "ny",
+      "final": "u"
+    }
+  },
+  "nyau": {
+    "codepoint": "U+F365",
+    "char": "",
+    "parse": {
+      "initial": "ny",
+      "final": "au"
+    }
+  },
+  "nyou": {
+    "codepoint": "U+F366",
+    "char": "",
+    "parse": {
+      "initial": "ny",
+      "final": "ou"
+    }
+  },
+  "nyeu": {
+    "codepoint": "U+F367",
+    "char": "",
+    "parse": {
+      "initial": "ny",
+      "final": "eu"
+    }
+  },
+  "nyiu": {
+    "codepoint": "U+F368",
+    "char": "",
+    "parse": {
+      "initial": "ny",
+      "final": "iu"
+    }
+  },
+  "nyaq": {
+    "codepoint": "U+F369",
+    "char": "",
+    "parse": {
+      "initial": "ny",
+      "final": "aq"
+    }
+  },
+  "nyoq": {
+    "codepoint": "U+F36A",
+    "char": "",
+    "parse": {
+      "initial": "ny",
+      "final": "oq"
+    }
+  },
+  "nyeq": {
+    "codepoint": "U+F36B",
+    "char": "",
+    "parse": {
+      "initial": "ny",
+      "final": "eq"
+    }
+  },
+  "nyiq": {
+    "codepoint": "U+F36C",
+    "char": "",
+    "parse": {
+      "initial": "ny",
+      "final": "iq"
+    }
+  },
+  "nyae": {
+    "codepoint": "U+F36D",
+    "char": "",
+    "parse": {
+      "initial": "ny",
+      "final": "ae"
+    }
+  },
+  "nyoe": {
+    "codepoint": "U+F36E",
+    "char": "",
+    "parse": {
+      "initial": "ny",
+      "final": "oe"
+    }
+  },
+  "nyen": {
+    "codepoint": "U+F36F",
+    "char": "",
+    "parse": {
+      "initial": "ny",
+      "final": "en"
+    }
+  },
+  "nyie": {
+    "codepoint": "U+F370",
+    "char": "",
+    "parse": {
+      "initial": "ny",
+      "final": "ie"
+    }
+  },
+  "nyan": {
+    "codepoint": "U+F371",
+    "char": "",
+    "parse": {
+      "initial": "ny",
+      "final": "an"
+    }
+  },
+  "nyon": {
+    "codepoint": "U+F372",
+    "char": "",
+    "parse": {
+      "initial": "ny",
+      "final": "on"
+    }
+  },
+  "nyeon": {
+    "codepoint": "U+F373",
+    "char": "",
+    "parse": {
+      "initial": "ny",
+      "final": "eon"
+    }
+  },
+  "nyin": {
+    "codepoint": "U+F374",
+    "char": "",
+    "parse": {
+      "initial": "ny",
+      "final": "in"
+    }
+  },
+  "nyy": {
+    "codepoint": "U+F375",
+    "char": "",
+    "parse": {
+      "initial": "ny",
+      "final": "y"
+    }
+  },
+  "nyaon": {
+    "codepoint": "U+F376",
+    "char": "",
+    "parse": {
+      "initial": "ny",
+      "final": "aon"
+    }
+  },
+  "nyr": {
+    "codepoint": "U+F377",
+    "char": "",
+    "parse": {
+      "initial": "ny",
+      "final": "r"
+    }
+  },
+  "ny-q": {
+    "codepoint": "U+F378",
+    "char": "",
+    "parse": {
+      "initial": "ny",
+      "final": "-q"
+    }
+  },
+  "ny-n": {
+    "codepoint": "U+F379",
+    "char": "",
+    "parse": {
+      "initial": "ny",
+      "final": "-n"
+    }
+  },
+  "kha": {
+    "codepoint": "U+F380",
+    "char": "",
+    "parse": {
+      "initial": "kh",
+      "final": "a"
+    }
+  },
+  "kho": {
+    "codepoint": "U+F381",
+    "char": "",
+    "parse": {
+      "initial": "kh",
+      "final": "o"
+    }
+  },
+  "khe": {
+    "codepoint": "U+F382",
+    "char": "",
+    "parse": {
+      "initial": "kh",
+      "final": "e"
+    }
+  },
+  "khi": {
+    "codepoint": "U+F383",
+    "char": "",
+    "parse": {
+      "initial": "kh",
+      "final": "i"
+    }
+  },
+  "khu": {
+    "codepoint": "U+F384",
+    "char": "",
+    "parse": {
+      "initial": "kh",
+      "final": "u"
+    }
+  },
+  "khau": {
+    "codepoint": "U+F385",
+    "char": "",
+    "parse": {
+      "initial": "kh",
+      "final": "au"
+    }
+  },
+  "khou": {
+    "codepoint": "U+F386",
+    "char": "",
+    "parse": {
+      "initial": "kh",
+      "final": "ou"
+    }
+  },
+  "kheu": {
+    "codepoint": "U+F387",
+    "char": "",
+    "parse": {
+      "initial": "kh",
+      "final": "eu"
+    }
+  },
+  "khiu": {
+    "codepoint": "U+F388",
+    "char": "",
+    "parse": {
+      "initial": "kh",
+      "final": "iu"
+    }
+  },
+  "khaq": {
+    "codepoint": "U+F389",
+    "char": "",
+    "parse": {
+      "initial": "kh",
+      "final": "aq"
+    }
+  },
+  "khoq": {
+    "codepoint": "U+F38A",
+    "char": "",
+    "parse": {
+      "initial": "kh",
+      "final": "oq"
+    }
+  },
+  "kheq": {
+    "codepoint": "U+F38B",
+    "char": "",
+    "parse": {
+      "initial": "kh",
+      "final": "eq"
+    }
+  },
+  "khiq": {
+    "codepoint": "U+F38C",
+    "char": "",
+    "parse": {
+      "initial": "kh",
+      "final": "iq"
+    }
+  },
+  "khae": {
+    "codepoint": "U+F38D",
+    "char": "",
+    "parse": {
+      "initial": "kh",
+      "final": "ae"
+    }
+  },
+  "khoe": {
+    "codepoint": "U+F38E",
+    "char": "",
+    "parse": {
+      "initial": "kh",
+      "final": "oe"
+    }
+  },
+  "khen": {
+    "codepoint": "U+F38F",
+    "char": "",
+    "parse": {
+      "initial": "kh",
+      "final": "en"
+    }
+  },
+  "khie": {
+    "codepoint": "U+F390",
+    "char": "",
+    "parse": {
+      "initial": "kh",
+      "final": "ie"
+    }
+  },
+  "khan": {
+    "codepoint": "U+F391",
+    "char": "",
+    "parse": {
+      "initial": "kh",
+      "final": "an"
+    }
+  },
+  "khon": {
+    "codepoint": "U+F392",
+    "char": "",
+    "parse": {
+      "initial": "kh",
+      "final": "on"
+    }
+  },
+  "kheon": {
+    "codepoint": "U+F393",
+    "char": "",
+    "parse": {
+      "initial": "kh",
+      "final": "eon"
+    }
+  },
+  "khin": {
+    "codepoint": "U+F394",
+    "char": "",
+    "parse": {
+      "initial": "kh",
+      "final": "in"
+    }
+  },
+  "khy": {
+    "codepoint": "U+F395",
+    "char": "",
+    "parse": {
+      "initial": "kh",
+      "final": "y"
+    }
+  },
+  "khaon": {
+    "codepoint": "U+F396",
+    "char": "",
+    "parse": {
+      "initial": "kh",
+      "final": "aon"
+    }
+  },
+  "khr": {
+    "codepoint": "U+F397",
+    "char": "",
+    "parse": {
+      "initial": "kh",
+      "final": "r"
+    }
+  },
+  "kh-q": {
+    "codepoint": "U+F398",
+    "char": "",
+    "parse": {
+      "initial": "kh",
+      "final": "-q"
+    }
+  },
+  "kh-n": {
+    "codepoint": "U+F399",
+    "char": "",
+    "parse": {
+      "initial": "kh",
+      "final": "-n"
+    }
+  },
+  "ka": {
+    "codepoint": "U+F3A0",
+    "char": "",
+    "parse": {
+      "initial": "k",
+      "final": "a"
+    }
+  },
+  "ko": {
+    "codepoint": "U+F3A1",
+    "char": "",
+    "parse": {
+      "initial": "k",
+      "final": "o"
+    }
+  },
+  "ke": {
+    "codepoint": "U+F3A2",
+    "char": "",
+    "parse": {
+      "initial": "k",
+      "final": "e"
+    }
+  },
+  "ki": {
+    "codepoint": "U+F3A3",
+    "char": "",
+    "parse": {
+      "initial": "k",
+      "final": "i"
+    }
+  },
+  "ku": {
+    "codepoint": "U+F3A4",
+    "char": "",
+    "parse": {
+      "initial": "k",
+      "final": "u"
+    }
+  },
+  "kau": {
+    "codepoint": "U+F3A5",
+    "char": "",
+    "parse": {
+      "initial": "k",
+      "final": "au"
+    }
+  },
+  "kou": {
+    "codepoint": "U+F3A6",
+    "char": "",
+    "parse": {
+      "initial": "k",
+      "final": "ou"
+    }
+  },
+  "keu": {
+    "codepoint": "U+F3A7",
+    "char": "",
+    "parse": {
+      "initial": "k",
+      "final": "eu"
+    }
+  },
+  "kiu": {
+    "codepoint": "U+F3A8",
+    "char": "",
+    "parse": {
+      "initial": "k",
+      "final": "iu"
+    }
+  },
+  "kaq": {
+    "codepoint": "U+F3A9",
+    "char": "",
+    "parse": {
+      "initial": "k",
+      "final": "aq"
+    }
+  },
+  "koq": {
+    "codepoint": "U+F3AA",
+    "char": "",
+    "parse": {
+      "initial": "k",
+      "final": "oq"
+    }
+  },
+  "keq": {
+    "codepoint": "U+F3AB",
+    "char": "",
+    "parse": {
+      "initial": "k",
+      "final": "eq"
+    }
+  },
+  "kiq": {
+    "codepoint": "U+F3AC",
+    "char": "",
+    "parse": {
+      "initial": "k",
+      "final": "iq"
+    }
+  },
+  "kae": {
+    "codepoint": "U+F3AD",
+    "char": "",
+    "parse": {
+      "initial": "k",
+      "final": "ae"
+    }
+  },
+  "koe": {
+    "codepoint": "U+F3AE",
+    "char": "",
+    "parse": {
+      "initial": "k",
+      "final": "oe"
+    }
+  },
+  "ken": {
+    "codepoint": "U+F3AF",
+    "char": "",
+    "parse": {
+      "initial": "k",
+      "final": "en"
+    }
+  },
+  "kie": {
+    "codepoint": "U+F3B0",
+    "char": "",
+    "parse": {
+      "initial": "k",
+      "final": "ie"
+    }
+  },
+  "kan": {
+    "codepoint": "U+F3B1",
+    "char": "",
+    "parse": {
+      "initial": "k",
+      "final": "an"
+    }
+  },
+  "kon": {
+    "codepoint": "U+F3B2",
+    "char": "",
+    "parse": {
+      "initial": "k",
+      "final": "on"
+    }
+  },
+  "keon": {
+    "codepoint": "U+F3B3",
+    "char": "",
+    "parse": {
+      "initial": "k",
+      "final": "eon"
+    }
+  },
+  "kin": {
+    "codepoint": "U+F3B4",
+    "char": "",
+    "parse": {
+      "initial": "k",
+      "final": "in"
+    }
+  },
+  "ky": {
+    "codepoint": "U+F3B5",
+    "char": "",
+    "parse": {
+      "initial": "k",
+      "final": "y"
+    }
+  },
+  "kaon": {
+    "codepoint": "U+F3B6",
+    "char": "",
+    "parse": {
+      "initial": "k",
+      "final": "aon"
+    }
+  },
+  "kr": {
+    "codepoint": "U+F3B7",
+    "char": "",
+    "parse": {
+      "initial": "k",
+      "final": "r"
+    }
+  },
+  "k-q": {
+    "codepoint": "U+F3B8",
+    "char": "",
+    "parse": {
+      "initial": "k",
+      "final": "-q"
+    }
+  },
+  "k-n": {
+    "codepoint": "U+F3B9",
+    "char": "",
+    "parse": {
+      "initial": "k",
+      "final": "-n"
+    }
+  },
+  "ga": {
+    "codepoint": "U+F3C0",
+    "char": "",
+    "parse": {
+      "initial": "g",
+      "final": "a"
+    }
+  },
+  "go": {
+    "codepoint": "U+F3C1",
+    "char": "",
+    "parse": {
+      "initial": "g",
+      "final": "o"
+    }
+  },
+  "ge": {
+    "codepoint": "U+F3C2",
+    "char": "",
+    "parse": {
+      "initial": "g",
+      "final": "e"
+    }
+  },
+  "gi": {
+    "codepoint": "U+F3C3",
+    "char": "",
+    "parse": {
+      "initial": "g",
+      "final": "i"
+    }
+  },
+  "gu": {
+    "codepoint": "U+F3C4",
+    "char": "",
+    "parse": {
+      "initial": "g",
+      "final": "u"
+    }
+  },
+  "gau": {
+    "codepoint": "U+F3C5",
+    "char": "",
+    "parse": {
+      "initial": "g",
+      "final": "au"
+    }
+  },
+  "gou": {
+    "codepoint": "U+F3C6",
+    "char": "",
+    "parse": {
+      "initial": "g",
+      "final": "ou"
+    }
+  },
+  "geu": {
+    "codepoint": "U+F3C7",
+    "char": "",
+    "parse": {
+      "initial": "g",
+      "final": "eu"
+    }
+  },
+  "giu": {
+    "codepoint": "U+F3C8",
+    "char": "",
+    "parse": {
+      "initial": "g",
+      "final": "iu"
+    }
+  },
+  "gaq": {
+    "codepoint": "U+F3C9",
+    "char": "",
+    "parse": {
+      "initial": "g",
+      "final": "aq"
+    }
+  },
+  "goq": {
+    "codepoint": "U+F3CA",
+    "char": "",
+    "parse": {
+      "initial": "g",
+      "final": "oq"
+    }
+  },
+  "geq": {
+    "codepoint": "U+F3CB",
+    "char": "",
+    "parse": {
+      "initial": "g",
+      "final": "eq"
+    }
+  },
+  "giq": {
+    "codepoint": "U+F3CC",
+    "char": "",
+    "parse": {
+      "initial": "g",
+      "final": "iq"
+    }
+  },
+  "gae": {
+    "codepoint": "U+F3CD",
+    "char": "",
+    "parse": {
+      "initial": "g",
+      "final": "ae"
+    }
+  },
+  "goe": {
+    "codepoint": "U+F3CE",
+    "char": "",
+    "parse": {
+      "initial": "g",
+      "final": "oe"
+    }
+  },
+  "gen": {
+    "codepoint": "U+F3CF",
+    "char": "",
+    "parse": {
+      "initial": "g",
+      "final": "en"
+    }
+  },
+  "gie": {
+    "codepoint": "U+F3D0",
+    "char": "",
+    "parse": {
+      "initial": "g",
+      "final": "ie"
+    }
+  },
+  "gan": {
+    "codepoint": "U+F3D1",
+    "char": "",
+    "parse": {
+      "initial": "g",
+      "final": "an"
+    }
+  },
+  "gon": {
+    "codepoint": "U+F3D2",
+    "char": "",
+    "parse": {
+      "initial": "g",
+      "final": "on"
+    }
+  },
+  "geon": {
+    "codepoint": "U+F3D3",
+    "char": "",
+    "parse": {
+      "initial": "g",
+      "final": "eon"
+    }
+  },
+  "gin": {
+    "codepoint": "U+F3D4",
+    "char": "",
+    "parse": {
+      "initial": "g",
+      "final": "in"
+    }
+  },
+  "gy": {
+    "codepoint": "U+F3D5",
+    "char": "",
+    "parse": {
+      "initial": "g",
+      "final": "y"
+    }
+  },
+  "gaon": {
+    "codepoint": "U+F3D6",
+    "char": "",
+    "parse": {
+      "initial": "g",
+      "final": "aon"
+    }
+  },
+  "gr": {
+    "codepoint": "U+F3D7",
+    "char": "",
+    "parse": {
+      "initial": "g",
+      "final": "r"
+    }
+  },
+  "g-q": {
+    "codepoint": "U+F3D8",
+    "char": "",
+    "parse": {
+      "initial": "g",
+      "final": "-q"
+    }
+  },
+  "g-n": {
+    "codepoint": "U+F3D9",
+    "char": "",
+    "parse": {
+      "initial": "g",
+      "final": "-n"
+    }
+  },
+  "ha": {
+    "codepoint": "U+F3E0",
+    "char": "",
+    "parse": {
+      "initial": "h",
+      "final": "a"
+    }
+  },
+  "ho": {
+    "codepoint": "U+F3E1",
+    "char": "",
+    "parse": {
+      "initial": "h",
+      "final": "o"
+    }
+  },
+  "he": {
+    "codepoint": "U+F3E2",
+    "char": "",
+    "parse": {
+      "initial": "h",
+      "final": "e"
+    }
+  },
+  "hi": {
+    "codepoint": "U+F3E3",
+    "char": "",
+    "parse": {
+      "initial": "h",
+      "final": "i"
+    }
+  },
+  "hu": {
+    "codepoint": "U+F3E4",
+    "char": "",
+    "parse": {
+      "initial": "h",
+      "final": "u"
+    }
+  },
+  "hau": {
+    "codepoint": "U+F3E5",
+    "char": "",
+    "parse": {
+      "initial": "h",
+      "final": "au"
+    }
+  },
+  "hou": {
+    "codepoint": "U+F3E6",
+    "char": "",
+    "parse": {
+      "initial": "h",
+      "final": "ou"
+    }
+  },
+  "heu": {
+    "codepoint": "U+F3E7",
+    "char": "",
+    "parse": {
+      "initial": "h",
+      "final": "eu"
+    }
+  },
+  "hiu": {
+    "codepoint": "U+F3E8",
+    "char": "",
+    "parse": {
+      "initial": "h",
+      "final": "iu"
+    }
+  },
+  "haq": {
+    "codepoint": "U+F3E9",
+    "char": "",
+    "parse": {
+      "initial": "h",
+      "final": "aq"
+    }
+  },
+  "hoq": {
+    "codepoint": "U+F3EA",
+    "char": "",
+    "parse": {
+      "initial": "h",
+      "final": "oq"
+    }
+  },
+  "heq": {
+    "codepoint": "U+F3EB",
+    "char": "",
+    "parse": {
+      "initial": "h",
+      "final": "eq"
+    }
+  },
+  "hiq": {
+    "codepoint": "U+F3EC",
+    "char": "",
+    "parse": {
+      "initial": "h",
+      "final": "iq"
+    }
+  },
+  "hae": {
+    "codepoint": "U+F3ED",
+    "char": "",
+    "parse": {
+      "initial": "h",
+      "final": "ae"
+    }
+  },
+  "hoe": {
+    "codepoint": "U+F3EE",
+    "char": "",
+    "parse": {
+      "initial": "h",
+      "final": "oe"
+    }
+  },
+  "hen": {
+    "codepoint": "U+F3EF",
+    "char": "",
+    "parse": {
+      "initial": "h",
+      "final": "en"
+    }
+  },
+  "hie": {
+    "codepoint": "U+F3F0",
+    "char": "",
+    "parse": {
+      "initial": "h",
+      "final": "ie"
+    }
+  },
+  "han": {
+    "codepoint": "U+F3F1",
+    "char": "",
+    "parse": {
+      "initial": "h",
+      "final": "an"
+    }
+  },
+  "hon": {
+    "codepoint": "U+F3F2",
+    "char": "",
+    "parse": {
+      "initial": "h",
+      "final": "on"
+    }
+  },
+  "heon": {
+    "codepoint": "U+F3F3",
+    "char": "",
+    "parse": {
+      "initial": "h",
+      "final": "eon"
+    }
+  },
+  "hin": {
+    "codepoint": "U+F3F4",
+    "char": "",
+    "parse": {
+      "initial": "h",
+      "final": "in"
+    }
+  },
+  "hy": {
+    "codepoint": "U+F3F5",
+    "char": "",
+    "parse": {
+      "initial": "h",
+      "final": "y"
+    }
+  },
+  "haon": {
+    "codepoint": "U+F3F6",
+    "char": "",
+    "parse": {
+      "initial": "h",
+      "final": "aon"
+    }
+  },
+  "hr": {
+    "codepoint": "U+F3F7",
+    "char": "",
+    "parse": {
+      "initial": "h",
+      "final": "r"
+    }
+  },
+  "h-q": {
+    "codepoint": "U+F3F8",
+    "char": "",
+    "parse": {
+      "initial": "h",
+      "final": "-q"
+    }
+  },
+  "h-n": {
+    "codepoint": "U+F3F9",
+    "char": "",
+    "parse": {
+      "initial": "h",
+      "final": "-n"
+    }
+  },
+  "nulla": {
+    "codepoint": "U+F400",
+    "char": "",
+    "parse": {
+      "initial": "null",
+      "final": "a"
+    }
+  },
+  "nullo": {
+    "codepoint": "U+F401",
+    "char": "",
+    "parse": {
+      "initial": "null",
+      "final": "o"
+    }
+  },
+  "nulle": {
+    "codepoint": "U+F402",
+    "char": "",
+    "parse": {
+      "initial": "null",
+      "final": "e"
+    }
+  },
+  "nulli": {
+    "codepoint": "U+F403",
+    "char": "",
+    "parse": {
+      "initial": "null",
+      "final": "i"
+    }
+  },
+  "nullu": {
+    "codepoint": "U+F404",
+    "char": "",
+    "parse": {
+      "initial": "null",
+      "final": "u"
+    }
+  },
+  "nullau": {
+    "codepoint": "U+F405",
+    "char": "",
+    "parse": {
+      "initial": "null",
+      "final": "au"
+    }
+  },
+  "nullou": {
+    "codepoint": "U+F406",
+    "char": "",
+    "parse": {
+      "initial": "null",
+      "final": "ou"
+    }
+  },
+  "nulleu": {
+    "codepoint": "U+F407",
+    "char": "",
+    "parse": {
+      "initial": "null",
+      "final": "eu"
+    }
+  },
+  "nulliu": {
+    "codepoint": "U+F408",
+    "char": "",
+    "parse": {
+      "initial": "null",
+      "final": "iu"
+    }
+  },
+  "nullaq": {
+    "codepoint": "U+F409",
+    "char": "",
+    "parse": {
+      "initial": "null",
+      "final": "aq"
+    }
+  },
+  "nulloq": {
+    "codepoint": "U+F40A",
+    "char": "",
+    "parse": {
+      "initial": "null",
+      "final": "oq"
+    }
+  },
+  "nulleq": {
+    "codepoint": "U+F40B",
+    "char": "",
+    "parse": {
+      "initial": "null",
+      "final": "eq"
+    }
+  },
+  "nulliq": {
+    "codepoint": "U+F40C",
+    "char": "",
+    "parse": {
+      "initial": "null",
+      "final": "iq"
+    }
+  },
+  "nullae": {
+    "codepoint": "U+F40D",
+    "char": "",
+    "parse": {
+      "initial": "null",
+      "final": "ae"
+    }
+  },
+  "nulloe": {
+    "codepoint": "U+F40E",
+    "char": "",
+    "parse": {
+      "initial": "null",
+      "final": "oe"
+    }
+  },
+  "nullen": {
+    "codepoint": "U+F40F",
+    "char": "",
+    "parse": {
+      "initial": "null",
+      "final": "en"
+    }
+  },
+  "nullie": {
+    "codepoint": "U+F410",
+    "char": "",
+    "parse": {
+      "initial": "null",
+      "final": "ie"
+    }
+  },
+  "nullan": {
+    "codepoint": "U+F411",
+    "char": "",
+    "parse": {
+      "initial": "null",
+      "final": "an"
+    }
+  },
+  "nullon": {
+    "codepoint": "U+F412",
+    "char": "",
+    "parse": {
+      "initial": "null",
+      "final": "on"
+    }
+  },
+  "nulleon": {
+    "codepoint": "U+F413",
+    "char": "",
+    "parse": {
+      "initial": "null",
+      "final": "eon"
+    }
+  },
+  "nullin": {
+    "codepoint": "U+F414",
+    "char": "",
+    "parse": {
+      "initial": "null",
+      "final": "in"
+    }
+  },
+  "nully": {
+    "codepoint": "U+F415",
+    "char": "",
+    "parse": {
+      "initial": "null",
+      "final": "y"
+    }
+  },
+  "nullaon": {
+    "codepoint": "U+F416",
+    "char": "",
+    "parse": {
+      "initial": "null",
+      "final": "aon"
+    }
+  },
+  "nullr": {
+    "codepoint": "U+F417",
+    "char": "",
+    "parse": {
+      "initial": "null",
+      "final": "r"
+    }
+  },
+  "null-q": {
+    "codepoint": "U+F418",
+    "char": "",
+    "parse": {
+      "initial": "null",
+      "final": "-q"
+    }
+  },
+  "null-n": {
+    "codepoint": "U+F419",
+    "char": "",
+    "parse": {
+      "initial": "null",
+      "final": "-n"
+    }
+  },
+  "gha": {
+    "codepoint": "U+F420",
+    "char": "",
+    "parse": {
+      "initial": "gh",
+      "final": "a"
+    }
+  },
+  "gho": {
+    "codepoint": "U+F421",
+    "char": "",
+    "parse": {
+      "initial": "gh",
+      "final": "o"
+    }
+  },
+  "ghe": {
+    "codepoint": "U+F422",
+    "char": "",
+    "parse": {
+      "initial": "gh",
+      "final": "e"
+    }
+  },
+  "ghi": {
+    "codepoint": "U+F423",
+    "char": "",
+    "parse": {
+      "initial": "gh",
+      "final": "i"
+    }
+  },
+  "ghu": {
+    "codepoint": "U+F424",
+    "char": "",
+    "parse": {
+      "initial": "gh",
+      "final": "u"
+    }
+  },
+  "ghau": {
+    "codepoint": "U+F425",
+    "char": "",
+    "parse": {
+      "initial": "gh",
+      "final": "au"
+    }
+  },
+  "ghou": {
+    "codepoint": "U+F426",
+    "char": "",
+    "parse": {
+      "initial": "gh",
+      "final": "ou"
+    }
+  },
+  "gheu": {
+    "codepoint": "U+F427",
+    "char": "",
+    "parse": {
+      "initial": "gh",
+      "final": "eu"
+    }
+  },
+  "ghiu": {
+    "codepoint": "U+F428",
+    "char": "",
+    "parse": {
+      "initial": "gh",
+      "final": "iu"
+    }
+  },
+  "ghaq": {
+    "codepoint": "U+F429",
+    "char": "",
+    "parse": {
+      "initial": "gh",
+      "final": "aq"
+    }
+  },
+  "ghoq": {
+    "codepoint": "U+F42A",
+    "char": "",
+    "parse": {
+      "initial": "gh",
+      "final": "oq"
+    }
+  },
+  "gheq": {
+    "codepoint": "U+F42B",
+    "char": "",
+    "parse": {
+      "initial": "gh",
+      "final": "eq"
+    }
+  },
+  "ghiq": {
+    "codepoint": "U+F42C",
+    "char": "",
+    "parse": {
+      "initial": "gh",
+      "final": "iq"
+    }
+  },
+  "ghae": {
+    "codepoint": "U+F42D",
+    "char": "",
+    "parse": {
+      "initial": "gh",
+      "final": "ae"
+    }
+  },
+  "ghoe": {
+    "codepoint": "U+F42E",
+    "char": "",
+    "parse": {
+      "initial": "gh",
+      "final": "oe"
+    }
+  },
+  "ghen": {
+    "codepoint": "U+F42F",
+    "char": "",
+    "parse": {
+      "initial": "gh",
+      "final": "en"
+    }
+  },
+  "ghie": {
+    "codepoint": "U+F430",
+    "char": "",
+    "parse": {
+      "initial": "gh",
+      "final": "ie"
+    }
+  },
+  "ghan": {
+    "codepoint": "U+F431",
+    "char": "",
+    "parse": {
+      "initial": "gh",
+      "final": "an"
+    }
+  },
+  "ghon": {
+    "codepoint": "U+F432",
+    "char": "",
+    "parse": {
+      "initial": "gh",
+      "final": "on"
+    }
+  },
+  "gheon": {
+    "codepoint": "U+F433",
+    "char": "",
+    "parse": {
+      "initial": "gh",
+      "final": "eon"
+    }
+  },
+  "ghin": {
+    "codepoint": "U+F434",
+    "char": "",
+    "parse": {
+      "initial": "gh",
+      "final": "in"
+    }
+  },
+  "ghy": {
+    "codepoint": "U+F435",
+    "char": "",
+    "parse": {
+      "initial": "gh",
+      "final": "y"
+    }
+  },
+  "ghaon": {
+    "codepoint": "U+F436",
+    "char": "",
+    "parse": {
+      "initial": "gh",
+      "final": "aon"
+    }
+  },
+  "ghr": {
+    "codepoint": "U+F437",
+    "char": "",
+    "parse": {
+      "initial": "gh",
+      "final": "r"
+    }
+  },
+  "gh-q": {
+    "codepoint": "U+F438",
+    "char": "",
+    "parse": {
+      "initial": "gh",
+      "final": "-q"
+    }
+  },
+  "gh-n": {
+    "codepoint": "U+F439",
+    "char": "",
+    "parse": {
+      "initial": "gh",
+      "final": "-n"
+    }
+  },
+  "nka": {
+    "codepoint": "U+F440",
+    "char": "",
+    "parse": {
+      "initial": "nk",
+      "final": "a"
+    }
+  },
+  "nko": {
+    "codepoint": "U+F441",
+    "char": "",
+    "parse": {
+      "initial": "nk",
+      "final": "o"
+    }
+  },
+  "nke": {
+    "codepoint": "U+F442",
+    "char": "",
+    "parse": {
+      "initial": "nk",
+      "final": "e"
+    }
+  },
+  "nki": {
+    "codepoint": "U+F443",
+    "char": "",
+    "parse": {
+      "initial": "nk",
+      "final": "i"
+    }
+  },
+  "nku": {
+    "codepoint": "U+F444",
+    "char": "",
+    "parse": {
+      "initial": "nk",
+      "final": "u"
+    }
+  },
+  "nkau": {
+    "codepoint": "U+F445",
+    "char": "",
+    "parse": {
+      "initial": "nk",
+      "final": "au"
+    }
+  },
+  "nkou": {
+    "codepoint": "U+F446",
+    "char": "",
+    "parse": {
+      "initial": "nk",
+      "final": "ou"
+    }
+  },
+  "nkeu": {
+    "codepoint": "U+F447",
+    "char": "",
+    "parse": {
+      "initial": "nk",
+      "final": "eu"
+    }
+  },
+  "nkiu": {
+    "codepoint": "U+F448",
+    "char": "",
+    "parse": {
+      "initial": "nk",
+      "final": "iu"
+    }
+  },
+  "nkaq": {
+    "codepoint": "U+F449",
+    "char": "",
+    "parse": {
+      "initial": "nk",
+      "final": "aq"
+    }
+  },
+  "nkoq": {
+    "codepoint": "U+F44A",
+    "char": "",
+    "parse": {
+      "initial": "nk",
+      "final": "oq"
+    }
+  },
+  "nkeq": {
+    "codepoint": "U+F44B",
+    "char": "",
+    "parse": {
+      "initial": "nk",
+      "final": "eq"
+    }
+  },
+  "nkiq": {
+    "codepoint": "U+F44C",
+    "char": "",
+    "parse": {
+      "initial": "nk",
+      "final": "iq"
+    }
+  },
+  "nkae": {
+    "codepoint": "U+F44D",
+    "char": "",
+    "parse": {
+      "initial": "nk",
+      "final": "ae"
+    }
+  },
+  "nkoe": {
+    "codepoint": "U+F44E",
+    "char": "",
+    "parse": {
+      "initial": "nk",
+      "final": "oe"
+    }
+  },
+  "nken": {
+    "codepoint": "U+F44F",
+    "char": "",
+    "parse": {
+      "initial": "nk",
+      "final": "en"
+    }
+  },
+  "nkie": {
+    "codepoint": "U+F450",
+    "char": "",
+    "parse": {
+      "initial": "nk",
+      "final": "ie"
+    }
+  },
+  "nkan": {
+    "codepoint": "U+F451",
+    "char": "",
+    "parse": {
+      "initial": "nk",
+      "final": "an"
+    }
+  },
+  "nkon": {
+    "codepoint": "U+F452",
+    "char": "",
+    "parse": {
+      "initial": "nk",
+      "final": "on"
+    }
+  },
+  "nkeon": {
+    "codepoint": "U+F453",
+    "char": "",
+    "parse": {
+      "initial": "nk",
+      "final": "eon"
+    }
+  },
+  "nkin": {
+    "codepoint": "U+F454",
+    "char": "",
+    "parse": {
+      "initial": "nk",
+      "final": "in"
+    }
+  },
+  "nky": {
+    "codepoint": "U+F455",
+    "char": "",
+    "parse": {
+      "initial": "nk",
+      "final": "y"
+    }
+  },
+  "nkaon": {
+    "codepoint": "U+F456",
+    "char": "",
+    "parse": {
+      "initial": "nk",
+      "final": "aon"
+    }
+  },
+  "nkr": {
+    "codepoint": "U+F457",
+    "char": "",
+    "parse": {
+      "initial": "nk",
+      "final": "r"
+    }
+  },
+  "nk-q": {
+    "codepoint": "U+F458",
+    "char": "",
+    "parse": {
+      "initial": "nk",
+      "final": "-q"
+    }
+  },
+  "nk-n": {
+    "codepoint": "U+F459",
+    "char": "",
+    "parse": {
+      "initial": "nk",
+      "final": "-n"
+    }
+  },
+  "nga": {
+    "codepoint": "U+F460",
+    "char": "",
+    "parse": {
+      "initial": "ng",
+      "final": "a"
+    }
+  },
+  "ngo": {
+    "codepoint": "U+F461",
+    "char": "",
+    "parse": {
+      "initial": "ng",
+      "final": "o"
+    }
+  },
+  "nge": {
+    "codepoint": "U+F462",
+    "char": "",
+    "parse": {
+      "initial": "ng",
+      "final": "e"
+    }
+  },
+  "ngi": {
+    "codepoint": "U+F463",
+    "char": "",
+    "parse": {
+      "initial": "ng",
+      "final": "i"
+    }
+  },
+  "ngu": {
+    "codepoint": "U+F464",
+    "char": "",
+    "parse": {
+      "initial": "ng",
+      "final": "u"
+    }
+  },
+  "ngau": {
+    "codepoint": "U+F465",
+    "char": "",
+    "parse": {
+      "initial": "ng",
+      "final": "au"
+    }
+  },
+  "ngou": {
+    "codepoint": "U+F466",
+    "char": "",
+    "parse": {
+      "initial": "ng",
+      "final": "ou"
+    }
+  },
+  "ngeu": {
+    "codepoint": "U+F467",
+    "char": "",
+    "parse": {
+      "initial": "ng",
+      "final": "eu"
+    }
+  },
+  "ngiu": {
+    "codepoint": "U+F468",
+    "char": "",
+    "parse": {
+      "initial": "ng",
+      "final": "iu"
+    }
+  },
+  "ngaq": {
+    "codepoint": "U+F469",
+    "char": "",
+    "parse": {
+      "initial": "ng",
+      "final": "aq"
+    }
+  },
+  "ngoq": {
+    "codepoint": "U+F46A",
+    "char": "",
+    "parse": {
+      "initial": "ng",
+      "final": "oq"
+    }
+  },
+  "ngeq": {
+    "codepoint": "U+F46B",
+    "char": "",
+    "parse": {
+      "initial": "ng",
+      "final": "eq"
+    }
+  },
+  "ngiq": {
+    "codepoint": "U+F46C",
+    "char": "",
+    "parse": {
+      "initial": "ng",
+      "final": "iq"
+    }
+  },
+  "ngae": {
+    "codepoint": "U+F46D",
+    "char": "",
+    "parse": {
+      "initial": "ng",
+      "final": "ae"
+    }
+  },
+  "ngoe": {
+    "codepoint": "U+F46E",
+    "char": "",
+    "parse": {
+      "initial": "ng",
+      "final": "oe"
+    }
+  },
+  "ngen": {
+    "codepoint": "U+F46F",
+    "char": "",
+    "parse": {
+      "initial": "ng",
+      "final": "en"
+    }
+  },
+  "ngie": {
+    "codepoint": "U+F470",
+    "char": "",
+    "parse": {
+      "initial": "ng",
+      "final": "ie"
+    }
+  },
+  "ngan": {
+    "codepoint": "U+F471",
+    "char": "",
+    "parse": {
+      "initial": "ng",
+      "final": "an"
+    }
+  },
+  "ngon": {
+    "codepoint": "U+F472",
+    "char": "",
+    "parse": {
+      "initial": "ng",
+      "final": "on"
+    }
+  },
+  "ngeon": {
+    "codepoint": "U+F473",
+    "char": "",
+    "parse": {
+      "initial": "ng",
+      "final": "eon"
+    }
+  },
+  "ngin": {
+    "codepoint": "U+F474",
+    "char": "",
+    "parse": {
+      "initial": "ng",
+      "final": "in"
+    }
+  },
+  "ngy": {
+    "codepoint": "U+F475",
+    "char": "",
+    "parse": {
+      "initial": "ng",
+      "final": "y"
+    }
+  },
+  "ngaon": {
+    "codepoint": "U+F476",
+    "char": "",
+    "parse": {
+      "initial": "ng",
+      "final": "aon"
+    }
+  },
+  "ngr": {
+    "codepoint": "U+F477",
+    "char": "",
+    "parse": {
+      "initial": "ng",
+      "final": "r"
+    }
+  },
+  "ng-q": {
+    "codepoint": "U+F478",
+    "char": "",
+    "parse": {
+      "initial": "ng",
+      "final": "-q"
+    }
+  },
+  "ng-n": {
+    "codepoint": "U+F479",
+    "char": "",
+    "parse": {
+      "initial": "ng",
+      "final": "-n"
+    }
+  },
+  "zeroa": {
+    "codepoint": "U+F480",
+    "char": "",
+    "parse": {
+      "initial": "zero",
+      "final": "a"
+    }
+  },
+  "zeroo": {
+    "codepoint": "U+F481",
+    "char": "",
+    "parse": {
+      "initial": "zero",
+      "final": "o"
+    }
+  },
+  "zeroe": {
+    "codepoint": "U+F482",
+    "char": "",
+    "parse": {
+      "initial": "zero",
+      "final": "e"
+    }
+  },
+  "zeroi": {
+    "codepoint": "U+F483",
+    "char": "",
+    "parse": {
+      "initial": "zero",
+      "final": "i"
+    }
+  },
+  "zerou": {
+    "codepoint": "U+F484",
+    "char": "",
+    "parse": {
+      "initial": "zero",
+      "final": "u"
+    }
+  },
+  "zeroau": {
+    "codepoint": "U+F485",
+    "char": "",
+    "parse": {
+      "initial": "zero",
+      "final": "au"
+    }
+  },
+  "zeroou": {
+    "codepoint": "U+F486",
+    "char": "",
+    "parse": {
+      "initial": "zero",
+      "final": "ou"
+    }
+  },
+  "zeroeu": {
+    "codepoint": "U+F487",
+    "char": "",
+    "parse": {
+      "initial": "zero",
+      "final": "eu"
+    }
+  },
+  "zeroiu": {
+    "codepoint": "U+F488",
+    "char": "",
+    "parse": {
+      "initial": "zero",
+      "final": "iu"
+    }
+  },
+  "zeroaq": {
+    "codepoint": "U+F489",
+    "char": "",
+    "parse": {
+      "initial": "zero",
+      "final": "aq"
+    }
+  },
+  "zerooq": {
+    "codepoint": "U+F48A",
+    "char": "",
+    "parse": {
+      "initial": "zero",
+      "final": "oq"
+    }
+  },
+  "zeroeq": {
+    "codepoint": "U+F48B",
+    "char": "",
+    "parse": {
+      "initial": "zero",
+      "final": "eq"
+    }
+  },
+  "zeroiq": {
+    "codepoint": "U+F48C",
+    "char": "",
+    "parse": {
+      "initial": "zero",
+      "final": "iq"
+    }
+  },
+  "zeroae": {
+    "codepoint": "U+F48D",
+    "char": "",
+    "parse": {
+      "initial": "zero",
+      "final": "ae"
+    }
+  },
+  "zerooe": {
+    "codepoint": "U+F48E",
+    "char": "",
+    "parse": {
+      "initial": "zero",
+      "final": "oe"
+    }
+  },
+  "zeroen": {
+    "codepoint": "U+F48F",
+    "char": "",
+    "parse": {
+      "initial": "zero",
+      "final": "en"
+    }
+  },
+  "zeroie": {
+    "codepoint": "U+F490",
+    "char": "",
+    "parse": {
+      "initial": "zero",
+      "final": "ie"
+    }
+  },
+  "zeroan": {
+    "codepoint": "U+F491",
+    "char": "",
+    "parse": {
+      "initial": "zero",
+      "final": "an"
+    }
+  },
+  "zeroon": {
+    "codepoint": "U+F492",
+    "char": "",
+    "parse": {
+      "initial": "zero",
+      "final": "on"
+    }
+  },
+  "zeroeon": {
+    "codepoint": "U+F493",
+    "char": "",
+    "parse": {
+      "initial": "zero",
+      "final": "eon"
+    }
+  },
+  "zeroin": {
+    "codepoint": "U+F494",
+    "char": "",
+    "parse": {
+      "initial": "zero",
+      "final": "in"
+    }
+  },
+  "zeroy": {
+    "codepoint": "U+F495",
+    "char": "",
+    "parse": {
+      "initial": "zero",
+      "final": "y"
+    }
+  },
+  "zeroaon": {
+    "codepoint": "U+F496",
+    "char": "",
+    "parse": {
+      "initial": "zero",
+      "final": "aon"
+    }
+  },
+  "zeror": {
+    "codepoint": "U+F497",
+    "char": "",
+    "parse": {
+      "initial": "zero",
+      "final": "r"
+    }
+  },
+  "zero-q": {
+    "codepoint": "U+F498",
+    "char": "",
+    "parse": {
+      "initial": "zero",
+      "final": "-q"
+    }
+  },
+  "zero-n": {
+    "codepoint": "U+F499",
+    "char": "",
+    "parse": {
+      "initial": "zero",
+      "final": "-n"
+    }
+  },
+  "ia": {
+    "codepoint": "U+F4A0",
+    "char": "",
+    "parse": {
+      "initial": "i",
+      "final": "a"
+    }
+  },
+  "io": {
+    "codepoint": "U+F4A1",
+    "char": "",
+    "parse": {
+      "initial": "i",
+      "final": "o"
+    }
+  },
+  "ie": {
+    "codepoint": "U+F4A2",
+    "char": "",
+    "parse": {
+      "initial": "i",
+      "final": "e"
+    }
+  },
+  "ii": {
+    "codepoint": "U+F4A3",
+    "char": "",
+    "parse": {
+      "initial": "i",
+      "final": "i"
+    }
+  },
+  "iu": {
+    "codepoint": "U+F4A4",
+    "char": "",
+    "parse": {
+      "initial": "i",
+      "final": "u"
+    }
+  },
+  "iau": {
+    "codepoint": "U+F4A5",
+    "char": "",
+    "parse": {
+      "initial": "i",
+      "final": "au"
+    }
+  },
+  "iou": {
+    "codepoint": "U+F4A6",
+    "char": "",
+    "parse": {
+      "initial": "i",
+      "final": "ou"
+    }
+  },
+  "ieu": {
+    "codepoint": "U+F4A7",
+    "char": "",
+    "parse": {
+      "initial": "i",
+      "final": "eu"
+    }
+  },
+  "iiu": {
+    "codepoint": "U+F4A8",
+    "char": "",
+    "parse": {
+      "initial": "i",
+      "final": "iu"
+    }
+  },
+  "iaq": {
+    "codepoint": "U+F4A9",
+    "char": "",
+    "parse": {
+      "initial": "i",
+      "final": "aq"
+    }
+  },
+  "ioq": {
+    "codepoint": "U+F4AA",
+    "char": "",
+    "parse": {
+      "initial": "i",
+      "final": "oq"
+    }
+  },
+  "ieq": {
+    "codepoint": "U+F4AB",
+    "char": "",
+    "parse": {
+      "initial": "i",
+      "final": "eq"
+    }
+  },
+  "iiq": {
+    "codepoint": "U+F4AC",
+    "char": "",
+    "parse": {
+      "initial": "i",
+      "final": "iq"
+    }
+  },
+  "iae": {
+    "codepoint": "U+F4AD",
+    "char": "",
+    "parse": {
+      "initial": "i",
+      "final": "ae"
+    }
+  },
+  "ioe": {
+    "codepoint": "U+F4AE",
+    "char": "",
+    "parse": {
+      "initial": "i",
+      "final": "oe"
+    }
+  },
+  "ien": {
+    "codepoint": "U+F4AF",
+    "char": "",
+    "parse": {
+      "initial": "i",
+      "final": "en"
+    }
+  },
+  "iie": {
+    "codepoint": "U+F4B0",
+    "char": "",
+    "parse": {
+      "initial": "i",
+      "final": "ie"
+    }
+  },
+  "ian": {
+    "codepoint": "U+F4B1",
+    "char": "",
+    "parse": {
+      "initial": "i",
+      "final": "an"
+    }
+  },
+  "ion": {
+    "codepoint": "U+F4B2",
+    "char": "",
+    "parse": {
+      "initial": "i",
+      "final": "on"
+    }
+  },
+  "ieon": {
+    "codepoint": "U+F4B3",
+    "char": "",
+    "parse": {
+      "initial": "i",
+      "final": "eon"
+    }
+  },
+  "iin": {
+    "codepoint": "U+F4B4",
+    "char": "",
+    "parse": {
+      "initial": "i",
+      "final": "in"
+    }
+  },
+  "iy": {
+    "codepoint": "U+F4B5",
+    "char": "",
+    "parse": {
+      "initial": "i",
+      "final": "y"
+    }
+  },
+  "iaon": {
+    "codepoint": "U+F4B6",
+    "char": "",
+    "parse": {
+      "initial": "i",
+      "final": "aon"
+    }
+  },
+  "ir": {
+    "codepoint": "U+F4B7",
+    "char": "",
+    "parse": {
+      "initial": "i",
+      "final": "r"
+    }
+  },
+  "i-q": {
+    "codepoint": "U+F4B8",
+    "char": "",
+    "parse": {
+      "initial": "i",
+      "final": "-q"
+    }
+  },
+  "i-n": {
+    "codepoint": "U+F4B9",
+    "char": "",
+    "parse": {
+      "initial": "i",
+      "final": "-n"
+    }
+  },
+  "ya": {
+    "codepoint": "U+F4C0",
+    "char": "",
+    "parse": {
+      "initial": "y",
+      "final": "a"
+    }
+  },
+  "yo": {
+    "codepoint": "U+F4C1",
+    "char": "",
+    "parse": {
+      "initial": "y",
+      "final": "o"
+    }
+  },
+  "ye": {
+    "codepoint": "U+F4C2",
+    "char": "",
+    "parse": {
+      "initial": "y",
+      "final": "e"
+    }
+  },
+  "yi": {
+    "codepoint": "U+F4C3",
+    "char": "",
+    "parse": {
+      "initial": "y",
+      "final": "i"
+    }
+  },
+  "yu": {
+    "codepoint": "U+F4C4",
+    "char": "",
+    "parse": {
+      "initial": "y",
+      "final": "u"
+    }
+  },
+  "yau": {
+    "codepoint": "U+F4C5",
+    "char": "",
+    "parse": {
+      "initial": "y",
+      "final": "au"
+    }
+  },
+  "you": {
+    "codepoint": "U+F4C6",
+    "char": "",
+    "parse": {
+      "initial": "y",
+      "final": "ou"
+    }
+  },
+  "yeu": {
+    "codepoint": "U+F4C7",
+    "char": "",
+    "parse": {
+      "initial": "y",
+      "final": "eu"
+    }
+  },
+  "yiu": {
+    "codepoint": "U+F4C8",
+    "char": "",
+    "parse": {
+      "initial": "y",
+      "final": "iu"
+    }
+  },
+  "yaq": {
+    "codepoint": "U+F4C9",
+    "char": "",
+    "parse": {
+      "initial": "y",
+      "final": "aq"
+    }
+  },
+  "yoq": {
+    "codepoint": "U+F4CA",
+    "char": "",
+    "parse": {
+      "initial": "y",
+      "final": "oq"
+    }
+  },
+  "yeq": {
+    "codepoint": "U+F4CB",
+    "char": "",
+    "parse": {
+      "initial": "y",
+      "final": "eq"
+    }
+  },
+  "yiq": {
+    "codepoint": "U+F4CC",
+    "char": "",
+    "parse": {
+      "initial": "y",
+      "final": "iq"
+    }
+  },
+  "yae": {
+    "codepoint": "U+F4CD",
+    "char": "",
+    "parse": {
+      "initial": "y",
+      "final": "ae"
+    }
+  },
+  "yoe": {
+    "codepoint": "U+F4CE",
+    "char": "",
+    "parse": {
+      "initial": "y",
+      "final": "oe"
+    }
+  },
+  "yen": {
+    "codepoint": "U+F4CF",
+    "char": "",
+    "parse": {
+      "initial": "y",
+      "final": "en"
+    }
+  },
+  "yie": {
+    "codepoint": "U+F4D0",
+    "char": "",
+    "parse": {
+      "initial": "y",
+      "final": "ie"
+    }
+  },
+  "yan": {
+    "codepoint": "U+F4D1",
+    "char": "",
+    "parse": {
+      "initial": "y",
+      "final": "an"
+    }
+  },
+  "yon": {
+    "codepoint": "U+F4D2",
+    "char": "",
+    "parse": {
+      "initial": "y",
+      "final": "on"
+    }
+  },
+  "yeon": {
+    "codepoint": "U+F4D3",
+    "char": "",
+    "parse": {
+      "initial": "y",
+      "final": "eon"
+    }
+  },
+  "yin": {
+    "codepoint": "U+F4D4",
+    "char": "",
+    "parse": {
+      "initial": "y",
+      "final": "in"
+    }
+  },
+  "yy": {
+    "codepoint": "U+F4D5",
+    "char": "",
+    "parse": {
+      "initial": "y",
+      "final": "y"
+    }
+  },
+  "yaon": {
+    "codepoint": "U+F4D6",
+    "char": "",
+    "parse": {
+      "initial": "y",
+      "final": "aon"
+    }
+  },
+  "yr": {
+    "codepoint": "U+F4D7",
+    "char": "",
+    "parse": {
+      "initial": "y",
+      "final": "r"
+    }
+  },
+  "y-q": {
+    "codepoint": "U+F4D8",
+    "char": "",
+    "parse": {
+      "initial": "y",
+      "final": "-q"
+    }
+  },
+  "y-n": {
+    "codepoint": "U+F4D9",
+    "char": "",
+    "parse": {
+      "initial": "y",
+      "final": "-n"
+    }
+  },
+  "ua": {
+    "codepoint": "U+F4E0",
+    "char": "",
+    "parse": {
+      "initial": "u",
+      "final": "a"
+    }
+  },
+  "uo": {
+    "codepoint": "U+F4E1",
+    "char": "",
+    "parse": {
+      "initial": "u",
+      "final": "o"
+    }
+  },
+  "ue": {
+    "codepoint": "U+F4E2",
+    "char": "",
+    "parse": {
+      "initial": "u",
+      "final": "e"
+    }
+  },
+  "ui": {
+    "codepoint": "U+F4E3",
+    "char": "",
+    "parse": {
+      "initial": "u",
+      "final": "i"
+    }
+  },
+  "uu": {
+    "codepoint": "U+F4E4",
+    "char": "",
+    "parse": {
+      "initial": "u",
+      "final": "u"
+    }
+  },
+  "uau": {
+    "codepoint": "U+F4E5",
+    "char": "",
+    "parse": {
+      "initial": "u",
+      "final": "au"
+    }
+  },
+  "uou": {
+    "codepoint": "U+F4E6",
+    "char": "",
+    "parse": {
+      "initial": "u",
+      "final": "ou"
+    }
+  },
+  "ueu": {
+    "codepoint": "U+F4E7",
+    "char": "",
+    "parse": {
+      "initial": "u",
+      "final": "eu"
+    }
+  },
+  "uiu": {
+    "codepoint": "U+F4E8",
+    "char": "",
+    "parse": {
+      "initial": "u",
+      "final": "iu"
+    }
+  },
+  "uaq": {
+    "codepoint": "U+F4E9",
+    "char": "",
+    "parse": {
+      "initial": "u",
+      "final": "aq"
+    }
+  },
+  "uoq": {
+    "codepoint": "U+F4EA",
+    "char": "",
+    "parse": {
+      "initial": "u",
+      "final": "oq"
+    }
+  },
+  "ueq": {
+    "codepoint": "U+F4EB",
+    "char": "",
+    "parse": {
+      "initial": "u",
+      "final": "eq"
+    }
+  },
+  "uiq": {
+    "codepoint": "U+F4EC",
+    "char": "",
+    "parse": {
+      "initial": "u",
+      "final": "iq"
+    }
+  },
+  "uae": {
+    "codepoint": "U+F4ED",
+    "char": "",
+    "parse": {
+      "initial": "u",
+      "final": "ae"
+    }
+  },
+  "uoe": {
+    "codepoint": "U+F4EE",
+    "char": "",
+    "parse": {
+      "initial": "u",
+      "final": "oe"
+    }
+  },
+  "uen": {
+    "codepoint": "U+F4EF",
+    "char": "",
+    "parse": {
+      "initial": "u",
+      "final": "en"
+    }
+  },
+  "uie": {
+    "codepoint": "U+F4F0",
+    "char": "",
+    "parse": {
+      "initial": "u",
+      "final": "ie"
+    }
+  },
+  "uan": {
+    "codepoint": "U+F4F1",
+    "char": "",
+    "parse": {
+      "initial": "u",
+      "final": "an"
+    }
+  },
+  "uon": {
+    "codepoint": "U+F4F2",
+    "char": "",
+    "parse": {
+      "initial": "u",
+      "final": "on"
+    }
+  },
+  "ueon": {
+    "codepoint": "U+F4F3",
+    "char": "",
+    "parse": {
+      "initial": "u",
+      "final": "eon"
+    }
+  },
+  "uin": {
+    "codepoint": "U+F4F4",
+    "char": "",
+    "parse": {
+      "initial": "u",
+      "final": "in"
+    }
+  },
+  "uy": {
+    "codepoint": "U+F4F5",
+    "char": "",
+    "parse": {
+      "initial": "u",
+      "final": "y"
+    }
+  },
+  "uaon": {
+    "codepoint": "U+F4F6",
+    "char": "",
+    "parse": {
+      "initial": "u",
+      "final": "aon"
+    }
+  },
+  "ur": {
+    "codepoint": "U+F4F7",
+    "char": "",
+    "parse": {
+      "initial": "u",
+      "final": "r"
+    }
+  },
+  "u-q": {
+    "codepoint": "U+F4F8",
+    "char": "",
+    "parse": {
+      "initial": "u",
+      "final": "-q"
+    }
+  },
+  "u-n": {
+    "codepoint": "U+F4F9",
+    "char": "",
+    "parse": {
+      "initial": "u",
+      "final": "-n"
+    }
+  },
+  "wa": {
+    "codepoint": "U+F500",
+    "char": "",
+    "parse": {
+      "initial": "w",
+      "final": "a"
+    }
+  },
+  "wo": {
+    "codepoint": "U+F501",
+    "char": "",
+    "parse": {
+      "initial": "w",
+      "final": "o"
+    }
+  },
+  "we": {
+    "codepoint": "U+F502",
+    "char": "",
+    "parse": {
+      "initial": "w",
+      "final": "e"
+    }
+  },
+  "wi": {
+    "codepoint": "U+F503",
+    "char": "",
+    "parse": {
+      "initial": "w",
+      "final": "i"
+    }
+  },
+  "wu": {
+    "codepoint": "U+F504",
+    "char": "",
+    "parse": {
+      "initial": "w",
+      "final": "u"
+    }
+  },
+  "wau": {
+    "codepoint": "U+F505",
+    "char": "",
+    "parse": {
+      "initial": "w",
+      "final": "au"
+    }
+  },
+  "wou": {
+    "codepoint": "U+F506",
+    "char": "",
+    "parse": {
+      "initial": "w",
+      "final": "ou"
+    }
+  },
+  "weu": {
+    "codepoint": "U+F507",
+    "char": "",
+    "parse": {
+      "initial": "w",
+      "final": "eu"
+    }
+  },
+  "wiu": {
+    "codepoint": "U+F508",
+    "char": "",
+    "parse": {
+      "initial": "w",
+      "final": "iu"
+    }
+  },
+  "waq": {
+    "codepoint": "U+F509",
+    "char": "",
+    "parse": {
+      "initial": "w",
+      "final": "aq"
+    }
+  },
+  "woq": {
+    "codepoint": "U+F50A",
+    "char": "",
+    "parse": {
+      "initial": "w",
+      "final": "oq"
+    }
+  },
+  "weq": {
+    "codepoint": "U+F50B",
+    "char": "",
+    "parse": {
+      "initial": "w",
+      "final": "eq"
+    }
+  },
+  "wiq": {
+    "codepoint": "U+F50C",
+    "char": "",
+    "parse": {
+      "initial": "w",
+      "final": "iq"
+    }
+  },
+  "wae": {
+    "codepoint": "U+F50D",
+    "char": "",
+    "parse": {
+      "initial": "w",
+      "final": "ae"
+    }
+  },
+  "woe": {
+    "codepoint": "U+F50E",
+    "char": "",
+    "parse": {
+      "initial": "w",
+      "final": "oe"
+    }
+  },
+  "wen": {
+    "codepoint": "U+F50F",
+    "char": "",
+    "parse": {
+      "initial": "w",
+      "final": "en"
+    }
+  },
+  "wie": {
+    "codepoint": "U+F510",
+    "char": "",
+    "parse": {
+      "initial": "w",
+      "final": "ie"
+    }
+  },
+  "wan": {
+    "codepoint": "U+F511",
+    "char": "",
+    "parse": {
+      "initial": "w",
+      "final": "an"
+    }
+  },
+  "won": {
+    "codepoint": "U+F512",
+    "char": "",
+    "parse": {
+      "initial": "w",
+      "final": "on"
+    }
+  },
+  "weon": {
+    "codepoint": "U+F513",
+    "char": "",
+    "parse": {
+      "initial": "w",
+      "final": "eon"
+    }
+  },
+  "win": {
+    "codepoint": "U+F514",
+    "char": "",
+    "parse": {
+      "initial": "w",
+      "final": "in"
+    }
+  },
+  "wy": {
+    "codepoint": "U+F515",
+    "char": "",
+    "parse": {
+      "initial": "w",
+      "final": "y"
+    }
+  },
+  "waon": {
+    "codepoint": "U+F516",
+    "char": "",
+    "parse": {
+      "initial": "w",
+      "final": "aon"
+    }
+  },
+  "wr": {
+    "codepoint": "U+F517",
+    "char": "",
+    "parse": {
+      "initial": "w",
+      "final": "r"
+    }
+  },
+  "w-q": {
+    "codepoint": "U+F518",
+    "char": "",
+    "parse": {
+      "initial": "w",
+      "final": "-q"
+    }
+  },
+  "w-n": {
+    "codepoint": "U+F519",
+    "char": "",
+    "parse": {
+      "initial": "w",
+      "final": "-n"
+    }
+  }
+}

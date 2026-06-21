@@ -1,0 +1,202 @@
+{
+  "initials": {
+    "ph": {
+      "codepoint": "U+F021",
+      "char": "",
+      "component_slot": 0
+    },
+    "p": {
+      "codepoint": "U+F022",
+      "char": "",
+      "component_slot": 1
+    },
+    "b": {
+      "codepoint": "U+F023",
+      "char": "",
+      "component_slot": 2
+    },
+    "f": {
+      "codepoint": "U+F024",
+      "char": "",
+      "component_slot": 3
+    },
+    "v": {
+      "codepoint": "U+F025",
+      "char": "",
+      "component_slot": 4
+    },
+    "mh": {
+      "codepoint": "U+F026",
+      "char": "",
+      "component_slot": 5
+    },
+    "m": {
+      "codepoint": "U+F027",
+      "char": "",
+      "component_slot": 6
+    },
+    "th": {
+      "codepoint": "U+F028",
+      "char": "",
+      "component_slot": 7
+    },
+    "t": {
+      "codepoint": "U+F029",
+      "char": "",
+      "component_slot": 8
+    },
+    "d": {
+      "codepoint": "U+F02A",
+      "char": "",
+      "component_slot": 9
+    },
+    "lh": {
+      "codepoint": "U+F02B",
+      "char": "",
+      "component_slot": 10
+    },
+    "l": {
+      "codepoint": "U+F02C",
+      "char": "",
+      "component_slot": 11
+    },
+    "ch": {
+      "codepoint": "U+F02D",
+      "char": "",
+      "component_slot": 12
+    },
+    "c": {
+      "codepoint": "U+F02E",
+      "char": "",
+      "component_slot": 13
+    },
+    "j": {
+      "codepoint": "U+F02F",
+      "char": "",
+      "component_slot": 14
+    },
+    "sh": {
+      "codepoint": "U+F030",
+      "char": "",
+      "component_slot": 15
+    },
+    "zh": {
+      "codepoint": "U+F031",
+      "char": "",
+      "component_slot": 16
+    },
+    "nh": {
+      "codepoint": "U+F032",
+      "char": "",
+      "component_slot": 17
+    },
+    "n": {
+      "codepoint": "U+F033",
+      "char": "",
+      "component_slot": 18
+    },
+    "tsh": {
+      "codepoint": "U+F034",
+      "char": "",
+      "component_slot": 19
+    },
+    "ts": {
+      "codepoint": "U+F035",
+      "char": "",
+      "component_slot": 20
+    },
+    "dz": {
+      "codepoint": "U+F036",
+      "char": "",
+      "component_slot": 21
+    },
+    "s": {
+      "codepoint": "U+F037",
+      "char": "",
+      "component_slot": 22
+    },
+    "z": {
+      "codepoint": "U+F038",
+      "char": "",
+      "component_slot": 23
+    },
+    "nyh": {
+      "codepoint": "U+F039",
+      "char": "",
+      "component_slot": 24
+    },
+    "ny": {
+      "codepoint": "U+F03A",
+      "char": "",
+      "component_slot": 25
+    },
+    "kh": {
+      "codepoint": "U+F03B",
+      "char": "",
+      "component_slot": 26
+    },
+    "k": {
+      "codepoint": "U+F03C",
+      "char": "",
+      "component_slot": 27
+    },
+    "g": {
+      "codepoint": "U+F03D",
+      "char": "",
+      "component_slot": 28
+    }
+  },
+  "medials": [
+    {
+      "key": "i",
+      "label": "齐齿呼"
+    },
+    {
+      "key": "u",
+      "label": "合口呼"
+    },
+    {
+      "key": "iu",
+      "label": "撮口呼"
+    },
+    {
+      "key": "r",
+      "label": "翘舌"
+    }
+  ],
+  "tones": [
+    {
+      "key": "ping",
+      "mark": "-"
+    },
+    {
+      "key": "shang",
+      "mark": "'"
+    },
+    {
+      "key": "qu",
+      "mark": "\\"
+    },
+    {
+      "key": "ru",
+      "mark": "<",
+      "note": "entering tone; often represented by -q final"
+    },
+    {
+      "key": "sandhi",
+      "mark": "-x"
+    },
+    {
+      "key": "sandhi-dot",
+      "mark": "-·"
+    }
+  ],
+  "grammar": {
+    "tsy": {
+      "codepoint": "U+F3CA",
+      "char": "",
+      "note": "adverbializer suffix; annotated on ngven.org and in Untitled.rtf as U+F3CA",
+      "grid_match": "g+oq"
+    }
+  }
+}

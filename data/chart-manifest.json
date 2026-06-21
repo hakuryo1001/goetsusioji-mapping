@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "source": "goetsusioji-reference/pics/1.png, 2.png, 3.png",
+    "description": "Wu Xiaozi (Goetsuese) phoneme tables transcribed from reference charts"
+  },
+  "initials": [
+    { "key": "ph", "group": "兵", "note": "aspirated p" },
+    { "key": "p", "group": "兵", "note": "voiceless p" },
+    { "key": "b", "group": "兵", "note": "voiced p" },
+    { "key": "f", "group": "弗", "note": "voiceless f" },
+    { "key": "v", "group": "弗", "note": "voiced f" },
+    { "key": "mh", "group": "矛", "note": "yin m" },
+    { "key": "m", "group": "矛", "note": "voiced m" },
+    { "key": "th", "group": "刀", "note": "aspirated t" },
+    { "key": "t", "group": "刀", "note": "voiceless t" },
+    { "key": "d", "group": "刀", "note": "voiced t" },
+    { "key": "lh", "group": "力", "note": "yin l" },
+    { "key": "l", "group": "力", "note": "voiced l" },
+    { "key": "ch", "group": "斤", "note": "aspirated c(i), implicit i" },
+    { "key": "c", "group": "斤", "note": "voiceless c(i)" },
+    { "key": "j", "group": "斤", "note": "voiced c(i)" },
+    { "key": "sh", "group": "兴", "note": "voiceless sh(i)" },
+    { "key": "zh", "group": "兴", "note": "voiced sh(i)" },
+    { "key": "nh", "group": "拿", "note": "yin n" },
+    { "key": "n", "group": "拿", "note": "voiced n" },
+    { "key": "tsh", "group": "子", "note": "aspirated ts" },
+    { "key": "ts", "group": "子", "note": "voiceless ts" },
+    { "key": "dz", "group": "子", "note": "voiced ts" },
+    { "key": "s", "group": "式", "note": "voiceless s" },
+    { "key": "z", "group": "式", "note": "voiced s" },
+    { "key": "nyh", "group": "女", "note": "yin ny" },
+    { "key": "ny", "group": "女", "note": "voiced ny" },
+    { "key": "kh", "group": "工", "note": "aspirated k" },
+    { "key": "k", "group": "工", "note": "voiceless k" },
+    { "key": "g", "group": "工", "note": "voiced k" },
+    { "key": "h", "group": "奥", "note": "voiceless h" },
+    { "key": "null", "group": "奥", "note": "zero onset before vowel" },
+    { "key": "gh", "group": "奥", "note": "voiced h" },
+    { "key": "nk", "group": "午", "note": "yin ng" },
+    { "key": "ng", "group": "午", "note": "voiced ng" },
+    { "key": "zero", "group": "零聲母", "note": "zero initial marker" },
+    { "key": "i", "group": "云", "note": "glide i / y onset" },
+    { "key": "y", "group": "云", "note": "voiced i onset" },
+    { "key": "u", "group": "危", "note": "glide u / w onset" },
+    { "key": "w", "group": "危", "note": "voiced u onset" }
+  ],
+  "finals": [
+    { "key": "a", "note": "basic" },
+    { "key": "o", "note": "basic" },
+    { "key": "e", "note": "basic" },
+    { "key": "i", "note": "basic" },
+    { "key": "u", "note": "basic" },
+    { "key": "au", "note": "diphthong" },
+    { "key": "ou", "note": "diphthong" },
+    { "key": "eu", "note": "diphthong" },
+    { "key": "iu", "note": "diphthong" },
+    { "key": "aq", "note": "checked" },
+    { "key": "oq", "note": "checked" },
+    { "key": "eq", "note": "checked" },
+    { "key": "iq", "note": "checked" },
+    { "key": "ae", "note": "ae(n) in chart" },
+    { "key": "oe", "note": "oe(n) in chart" },
+    { "key": "en", "note": "nasal" },
+    { "key": "ie", "note": "ie(n) in chart" },
+    { "key": "an", "note": "nasal" },
+    { "key": "on", "note": "nasal" },
+    { "key": "eon", "note": "nasal" },
+    { "key": "in", "note": "nasal" },
+    { "key": "y", "note": "null final / syllabic" },
+    { "key": "aon", "note": "nasal diphthong" },
+    { "key": "r", "note": "loanword l/r coda" },
+    { "key": "-q", "note": "glottal coda component" },
+    { "key": "-n", "note": "nasal/rhotic coda component" }
+  ],
+  "medials": [
+    { "key": "i", "label": "齐齿呼" },
+    { "key": "u", "label": "合口呼" },
+    { "key": "iu", "label": "撮口呼" },
+    { "key": "r", "label": "翘舌" }
+  ],
+  "tones": [
+    { "key": "ping", "mark": "-" },
+    { "key": "shang", "mark": "'" },
+    { "key": "qu", "mark": "\\" },
+    { "key": "ru", "mark": "<", "note": "entering tone; often represented by -q final" },
+    { "key": "sandhi", "mark": "-x" },
+    { "key": "sandhi-dot", "mark": "-·" }
+  ],
+  "compose": {
+    "simple": "initial above final",
+    "with_medial": "initial top-left, medial bottom-left, final right",
+    "implicit_i_initials": ["ch", "c", "j", "sh", "zh"],
+    "compound_finals": {
+      "aeq": ["ae", "-q"],
+      "oeq": ["oe", "-q"],
+      "eoq": ["eon", "-q"],
+      "ai": ["a", "i"],
+      "ei": ["e", "i"]
+    },
+    "notes": [
+      "Compound finals use bottom + right layout per chart 3 rule 4.",
+      "Medial iu does not distinguish yu; use iu medial + u final per rule 5."
+    ]
+  },
+  "grammar_markers": [
+    {
+      "key": "tsy",
+      "note": "adverbializer suffix; annotated on ngven.org and in Untitled.rtf as U+F3CA",
+      "codepoint": "U+F3CA"
+    }
+  ]
+}

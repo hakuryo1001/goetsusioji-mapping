@@ -1,0 +1,6 @@
+{
+  // Use Goetsu PUA glyphs in this project only (overrides global Jyutcitzi stack).
+  // Requires goetsusioji.ttf installed — see .vscode/font-setup.md
+  "editor.fontFamily": "'Goetsusioji', 'Source Han Serif SC', 'Source Han Serif CN', 'SourceHanSerifCN', monospace",
+  "terminal.integrated.fontFamily": "'Goetsusioji', 'Source Han Serif SC', 'Source Han Serif CN', 'SourceHanSerifCN', monospace"
+}
