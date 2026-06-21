@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
-"""Build Goetsuese romanization → PUA mapping from font grid + chart manifest."""
+"""Build full Goetsuese romanization → PUA mapping from hand-fill + font syllable grid."""
 
 from __future__ import annotations
 
+import importlib.util
 import json
 import sys
 from pathlib import Path
@@ -13,7 +14,10 @@ ROOT = Path(__file__).resolve().parents[1]
 REF = ROOT.parent / "goetsusioji-reference"
 FONT_PATH = REF / "goetsusioji.ttf"
 MANIFEST_PATH = ROOT / "data" / "chart-manifest.json"
+HANDFILL_PATH = ROOT / "data" / "chart-tables-handfill.md"
 OUT_DIR = ROOT / "mapping"
+
+COMPONENT_RANGE = range(0xF500, 0xF546)
 
 
 def load_manifest() -> dict:
@@ -21,8 +25,18 @@ def load_manifest() -> dict:
         return json.load(f)
 
 
+def load_hand_curated() -> dict:
+    spec = importlib.util.spec_from_file_location(
+        "parse_handfill", ROOT / "scripts" / "parse_handfill.py"
+    )
+    if spec is None or spec.loader is None:
+        raise RuntimeError("could not load parse_handfill.py")
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    return mod.parse_handfill(HANDFILL_PATH)
+
+
 def enumerate_grid(cmap: dict[int, str]) -> tuple[list[int], dict[int, dict[int, int]]]:
-    """Return ordered row bases and {row_base: {col: codepoint}}."""
     pua = sorted(cp for cp in cmap if 0xF021 <= cp <= 0xF545)
     rows: list[int] = []
     grid: dict[int, dict[int, int]] = {}
@@ -46,8 +60,18 @@ def char_str(cp: int) -> str:
     return chr(cp)
 
 
+def entry_from_component(key: str, comp: dict, kind: str) -> dict:
+    return {
+        "codepoint": comp["codepoint"],
+        "char": comp["char"],
+        "kind": kind,
+        "key": key,
+    }
+
+
 def build() -> dict:
     manifest = load_manifest()
+    hand = load_hand_curated()
     initials = [x["key"] for x in manifest["initials"]]
     finals = [x["key"] for x in manifest["finals"]]
 
@@ -55,21 +79,30 @@ def build() -> dict:
     cmap = font.getBestCmap()
     row_bases, grid = enumerate_grid(cmap)
 
-    # Row 0 (U+F020 block): standalone initial component glyphs F021–F03D.
-    # These use sequential slots (including col indices 26–29), not the 26-col syllable grid.
     component_initials: dict[str, dict] = {}
-    component_cps = [cp for cp in sorted(cmap) if 0xF021 <= cp <= 0xF03D]
-    for i, cp in enumerate(component_cps):
-        if i >= len(initials):
-            break
-        key = initials[i]
-        component_initials[key] = {
-            "codepoint": cp_str(cp),
-            "char": char_str(cp),
-            "component_slot": i,
-        }
+    for key in initials:
+        comp = hand["initials"].get(key)
+        if comp:
+            component_initials[key] = {**comp}
 
-    # Syllable rows: one row per initial, columns are finals
+    component_finals: dict[str, dict] = {}
+    for key in finals:
+        comp = hand["finals"].get(key)
+        if comp:
+            component_finals[key] = {**comp}
+
+    component_medials: dict[str, dict] = {}
+    for medial in manifest.get("medials", []):
+        key = medial["key"]
+        comp = hand["medials"].get(key)
+        if comp:
+            component_medials[key] = {
+                **comp,
+                "label": medial.get("label"),
+            }
+
+    # Chart grid: row = initial (manifest order), column = final (manifest order).
+    # Each cell is a pre-composed syllable glyph in the font (not computed from components).
     syllable_rows = row_bases[1 : 1 + len(initials)]
     syllables: dict[str, dict] = {}
     syllable_by_cp: dict[str, str] = {}
@@ -97,7 +130,6 @@ def build() -> dict:
             syllables[key] = entry
             syllable_by_cp[cp_str(cp)] = key
 
-    # Overflow rows beyond the 39 initial syllable rows
     overflow: list[dict] = []
     used_rows = set(row_bases[: 1 + len(initials)])
     for row_base in row_bases:
@@ -108,17 +140,16 @@ def build() -> dict:
                 {
                     "codepoint": cp_str(cp),
                     "char": char_str(cp),
+                    "role": "component_table" if cp in COMPONENT_RANGE else "overflow",
                     "grid": {"row": cp_str(row_base), "col": col},
                     "syllable_key": syllable_by_cp.get(cp_str(cp)),
                 }
             )
 
-    # Parse romanization strings like "taon" by longest-match on initials then finals
     def split_syllable(text: str) -> tuple[str, str] | None:
         text = text.strip().lower()
         if not text:
             return None
-        best: tuple[str, str] | None = None
         for ini in sorted(initials, key=len, reverse=True):
             if not text.startswith(ini):
                 continue
@@ -128,21 +159,52 @@ def build() -> dict:
                     return ini, fin
         return None
 
+    # Full romanization → glyph table (the main lookup surface).
     romanization_lookup: dict[str, dict] = {}
     romanization_unparsed: list[str] = []
 
-    # Build from syllable keys without separator
     for key, entry in syllables.items():
         ini, fin = entry["initial"], entry["final"]
         compact = ini + fin
-        if compact not in romanization_lookup:
-            romanization_lookup[compact] = {
-                "codepoint": entry["codepoint"],
-                "char": entry["char"],
-                "parse": {"initial": ini, "final": fin},
+        romanization_lookup[compact] = {
+            "codepoint": entry["codepoint"],
+            "char": entry["char"],
+            "kind": "syllable",
+            "parse": {"initial": ini, "final": fin},
+        }
+
+    # Standalone onset components (chart 1 — initial-only forms like ph, not pha).
+    for key, comp in component_initials.items():
+        if key not in romanization_lookup:
+            romanization_lookup[key] = {
+                **entry_from_component(key, comp, "initial"),
+                "note": "initial-only component; not a composed syllable",
             }
 
-    # Multi-syllable words from reference RTF (space-separated)
+    # Standalone rime components (chart 2).
+    for key, comp in component_finals.items():
+        if key not in romanization_lookup:
+            romanization_lookup[key] = {
+                **entry_from_component(key, comp, "final"),
+                "note": "final-only component",
+            }
+
+    grammar: dict[str, dict] = {}
+    for marker in manifest.get("grammar_markers", []):
+        cp = int(marker["codepoint"].replace("U+", ""), 16)
+        grammar[marker["key"]] = {
+            "codepoint": cp_str(cp),
+            "char": char_str(cp),
+            "note": marker.get("note", ""),
+            "grid_match": syllable_by_cp.get(cp_str(cp)),
+        }
+        romanization_lookup[marker["key"]] = {
+            "codepoint": cp_str(cp),
+            "char": char_str(cp),
+            "kind": "grammar",
+            "note": marker.get("note", ""),
+        }
+
     reference_words = {
         "taon nyie": ["taon", "nyie"],
         "taon nyiq": ["taon", "nyiq"],
@@ -167,34 +229,53 @@ def build() -> dict:
                         "mapping": syllables.get(syl_key),
                     }
                 )
+            elif part in romanization_lookup:
+                parsed.append(
+                    {
+                        "romanization": part,
+                        "mapping": romanization_lookup[part],
+                    }
+                )
             else:
                 parsed.append({"romanization": part, "parse": None})
                 romanization_unparsed.append(part)
         reference_parses[phrase] = parsed
 
-    grammar = {}
-    for marker in manifest.get("grammar_markers", []):
-        cp = int(marker["codepoint"].replace("U+", ""), 16)
-        grammar[marker["key"]] = {
-            "codepoint": cp_str(cp),
-            "char": char_str(cp),
-            "note": marker.get("note", ""),
-            "grid_match": syllable_by_cp.get(cp_str(cp)),
-        }
+    missing_components = [
+        f"initial:{k}" for k in initials if k not in component_initials
+    ] + [f"final:{k}" for k in finals if k not in component_finals]
+
+    by_kind = {"syllable": 0, "initial": 0, "final": 0, "grammar": 0}
+    for entry in romanization_lookup.values():
+        by_kind[entry.get("kind", "syllable")] = by_kind.get(entry.get("kind", "syllable"), 0) + 1
 
     return {
         "meta": {
             "font": "../goetsusioji-reference/goetsusioji.ttf",
+            "handfill_source": "data/chart-tables-handfill.md",
+            "derivation": (
+                "Components from hand-fill (U+F500..F545). "
+                "Composed syllables from font grid rows/cols indexed by manifest initial×final order (U+F040..F4F9)."
+            ),
             "pua_range": "U+F021..U+F545",
+            "syllable_grid": "U+F040..U+F4F9",
+            "component_table": "U+F500..U+F545",
             "total_pua_glyphs": len([cp for cp in cmap if 0xF021 <= cp <= 0xF545]),
             "grid_rows": len(row_bases),
             "initial_count": len(initials),
             "final_count": len(finals),
             "syllable_entries": len(syllables),
+            "romanization_entries": len(romanization_lookup),
+            "romanization_by_kind": by_kind,
+            "component_initials": len(component_initials),
+            "component_finals": len(component_finals),
             "missing_cells": missing,
+            "missing_components": missing_components,
+            "handfill_warnings": hand.get("warnings", []),
             "unparsed_reference_syllables": sorted(set(romanization_unparsed)),
         },
         "initials": component_initials,
+        "finals": component_finals,
         "finals_order": finals,
         "initials_order": initials,
         "syllables": syllables,
@@ -203,7 +284,7 @@ def build() -> dict:
         "overflow": overflow,
         "reference_parses": reference_parses,
         "compose": manifest.get("compose", {}),
-        "medials": manifest.get("medials", []),
+        "medials": component_medials or manifest.get("medials", []),
         "tones": manifest.get("tones", []),
     }
 
@@ -216,37 +297,15 @@ def main() -> int:
     with full_path.open("w", encoding="utf-8") as f:
         json.dump(mapping, f, ensure_ascii=False, indent=2)
 
-    # Convenience extracts
-    syllables_path = OUT_DIR / "syllables.json"
-    with syllables_path.open("w", encoding="utf-8") as f:
-        json.dump(mapping["syllables"], f, ensure_ascii=False, indent=2)
-
-    romanization_path = OUT_DIR / "romanization.json"
-    with romanization_path.open("w", encoding="utf-8") as f:
-        json.dump(mapping["romanization"], f, ensure_ascii=False, indent=2)
-
-    components_path = OUT_DIR / "components.json"
-    with components_path.open("w", encoding="utf-8") as f:
-        json.dump(
-            {
-                "initials": mapping["initials"],
-                "medials": mapping["medials"],
-                "tones": mapping["tones"],
-                "grammar": mapping["grammar"],
-            },
-            f,
-            ensure_ascii=False,
-            indent=2,
-        )
-
+    meta = mapping["meta"]
     print(f"Wrote {full_path}")
-    print(f"  syllables: {mapping['meta']['syllable_entries']}")
-    print(f"  components: {len(mapping['initials'])}")
-    print(f"  romanization keys: {len(mapping['romanization'])}")
-    if mapping["meta"]["missing_cells"]:
-        print(f"  missing cells: {len(mapping['meta']['missing_cells'])}")
-    if mapping["meta"]["unparsed_reference_syllables"]:
-        print(f"  unparsed reference: {mapping['meta']['unparsed_reference_syllables']}")
+    print(f"  romanization entries: {meta['romanization_entries']} {meta['romanization_by_kind']}")
+    print(f"  syllables: {meta['syllable_entries']}")
+    print(f"  components: {meta['component_initials']} initials, {meta['component_finals']} finals")
+    if meta["missing_components"]:
+        print(f"  missing components: {meta['missing_components']}")
+    if meta["handfill_warnings"]:
+        print(f"  handfill warnings: {meta['handfill_warnings']}")
     return 0
 
 

@@ -36,7 +36,23 @@ class GoetsueseMapper:
         return self.syllables.get(f"{initial}+{final}")
 
     def from_romanization(self, text: str) -> dict | None:
-        return self.romanization.get(text.strip().lower())
+        key = text.strip().lower()
+        if key in self.romanization:
+            return self.romanization[key]
+        split = self.split_syllable(key)
+        if split:
+            ini, fin = split
+            return self.romanization.get(ini + fin) or self.syllables.get(f"{ini}+{fin}")
+        return None
+
+    def component(self, kind: str, key: str) -> dict | None:
+        """Look up a standalone initial or final component glyph."""
+        key = key.strip().lower()
+        if kind == "initial":
+            return self.data.get("initials", {}).get(key)
+        if kind == "final":
+            return self.data.get("finals", {}).get(key)
+        return None
 
     def grammar_marker(self, key: str) -> dict | None:
         return self.grammar.get(key)
@@ -49,34 +65,19 @@ class GoetsueseMapper:
             if token in self.grammar:
                 out.append({"token": token, "type": "grammar", **self.grammar[token]})
                 continue
-            parsed = self.split_syllable(token)
-            if parsed:
-                ini, fin = parsed
-                mapping = self.syllable(ini, fin)
-                out.append(
-                    {
-                        "token": token,
-                        "type": "syllable",
-                        "parse": {"initial": ini, "final": fin},
-                        "mapping": mapping,
-                    }
-                )
-            else:
-                direct = self.from_romanization(token)
-                out.append(
-                    {
-                        "token": token,
-                        "type": "syllable" if direct else "unknown",
-                        "mapping": direct,
-                    }
-                )
+            direct = self.from_romanization(token)
+            if direct:
+                kind = direct.get("kind", "syllable")
+                out.append({"token": token, "type": kind, "mapping": direct})
+                continue
+            out.append({"token": token, "type": "unknown", "mapping": None})
         return out
 
     def transliterate_text(self, phrase: str) -> str:
         chars: list[str] = []
         for item in self.transliterate_words(phrase):
             mapping = item.get("mapping")
-            if isinstance(mapping, dict) and "char" in mapping:
+            if isinstance(mapping, dict) and mapping.get("char"):
                 chars.append(mapping["char"])
             elif item.get("char"):
                 chars.append(item["char"])

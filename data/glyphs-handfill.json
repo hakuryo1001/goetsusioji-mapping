@@ -1,0 +1,4431 @@
+{
+  "meta": {
+    "font": "goetsusioji.ttf",
+    "pua_range": "U+F021..U+F545",
+    "total_range_slots": 1317,
+    "glyphs_in_font": 1085,
+    "empty_slots_in_range": 232,
+    "instructions": "Fill romanization for each entry. Keys are codepoints; char is the glyph (use Goetsusioji font in your editor).",
+    "filled_from_chart": 63,
+    "chart_source": "data/chart-tables-handfill.md",
+    "shared_glyphs": [
+      "U+F50F",
+      "U+F527",
+      "U+F529",
+      "U+F531",
+      "U+F539",
+      "U+F540"
+    ]
+  },
+  "glyphs": {
+    "U+F021": {
+      "char": "",
+      "romanization": "a"
+    },
+    "U+F022": {
+      "char": "",
+      "romanization": "aq"
+    },
+    "U+F023": {
+      "char": "",
+      "romanization": "o"
+    },
+    "U+F024": {
+      "char": "",
+      "romanization": "oq"
+    },
+    "U+F025": {
+      "char": "",
+      "romanization": "e"
+    },
+    "U+F026": {
+      "char": "",
+      "romanization": "eq"
+    },
+    "U+F027": {
+      "char": "",
+      "romanization": "i"
+    },
+    "U+F028": {
+      "char": "",
+      "romanization": "iq"
+    },
+    "U+F029": {
+      "char": "",
+      "romanization": "u"
+    },
+    "U+F02A": {
+      "char": "",
+      "romanization": "y"
+    },
+    "U+F02B": {
+      "char": "",
+      "romanization": "ae"
+    },
+    "U+F02C": {
+      "char": "",
+      "romanization": "in"
+    },
+    "U+F02D": {
+      "char": "",
+      "romanization": "ie"
+    },
+    "U+F02E": {
+      "char": "",
+      "romanization": "au"
+    },
+    "U+F02F": {
+      "char": "",
+      "romanization": "ou"
+    },
+    "U+F030": {
+      "char": "",
+      "romanization": "eu"
+    },
+    "U+F031": {
+      "char": "",
+      "romanization": "iu"
+    },
+    "U+F032": {
+      "char": "",
+      "romanization": "oe"
+    },
+    "U+F033": {
+      "char": "",
+      "romanization": "an"
+    },
+    "U+F034": {
+      "char": "",
+      "romanization": "on"
+    },
+    "U+F035": {
+      "char": "",
+      "romanization": "en"
+    },
+    "U+F036": {
+      "char": "",
+      "romanization": "in"
+    },
+    "U+F037": {
+      "char": "",
+      "romanization": "aon"
+    },
+    "U+F038": {
+      "char": "",
+      "romanization": "eon"
+    },
+    "U+F039": {
+      "char": "",
+      "romanization": "r"
+    },
+    "U+F03A": {
+      "char": "",
+      "romanization": "n"
+    },
+    "U+F03B": {
+      "char": "",
+      "romanization": "q"
+    },
+    "U+F03C": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F03D": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F040": {
+      "char": "",
+      "romanization": "ph"
+    },
+    "U+F041": {
+      "char": "",
+      "romanization": "pha"
+    },
+    "U+F042": {
+      "char": "",
+      "romanization": "phaq"
+    },
+    "U+F043": {
+      "char": "",
+      "romanization": "pho"
+    },
+    "U+F044": {
+      "char": "",
+      "romanization": "phoq"
+    },
+    "U+F045": {
+      "char": "",
+      "romanization": "phe"
+    },
+    "U+F046": {
+      "char": "",
+      "romanization": "pheq"
+    },
+    "U+F047": {
+      "char": "",
+      "romanization": "phi"
+    },
+    "U+F048": {
+      "char": "",
+      "romanization": "phiq"
+    },
+    "U+F049": {
+      "char": "",
+      "romanization": "phu"
+    },
+    "U+F04A": {
+      "char": "",
+      "romanization": "phy"
+    },
+    "U+F04B": {
+      "char": "",
+      "romanization": "phae"
+    },
+    "U+F04C": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F04D": {
+      "char": "",
+      "romanization": "phie"
+    },
+    "U+F04E": {
+      "char": "",
+      "romanization": "phau"
+    },
+    "U+F04F": {
+      "char": "",
+      "romanization": "phou"
+    },
+    "U+F050": {
+      "char": "",
+      "romanization": "pheu"
+    },
+    "U+F051": {
+      "char": "",
+      "romanization": "phiu"
+    },
+    "U+F052": {
+      "char": "",
+      "romanization": "phoe"  
+    },
+    "U+F053": {
+      "char": "",
+      "romanization": "phan"
+    },
+    "U+F054": {
+      "char": "",
+      "romanization": "phon"
+    },
+    "U+F055": {
+      "char": "",
+      "romanization": "phen"
+    },
+    "U+F056": {
+      "char": "",
+      "romanization": "phin"  
+    },
+    "U+F057": {
+      "char": "",
+      "romanization": "phaon"
+    },
+    "U+F058": {
+      "char": "",
+      "romanization": "pheon"
+    },
+    "U+F059": {
+      "char": "",
+      "romanization": "phr"
+    },
+    "U+F060": {
+      "char": "",
+      "romanization": "p"
+    },
+    "U+F061": {
+      "char": "",
+      "romanization": "pa"
+    },
+    "U+F062": {
+      "char": "",
+      "romanization": "paq"
+    },
+    "U+F063": {
+      "char": "",
+      "romanization": "po"
+    },
+    "U+F064": {
+      "char": "",
+      "romanization": "poq"  
+    },
+    "U+F065": {
+      "char": "",
+      "romanization": "pe"
+    },
+    "U+F066": {
+      "char": "",
+      "romanization": "peq"
+    },
+    "U+F067": {
+      "char": "",
+      "romanization": "pi"
+    },
+    "U+F068": {
+      "char": "",
+      "romanization": "piq"
+    },
+    "U+F069": {
+      "char": "",
+      "romanization": "pu"
+    },
+    "U+F06A": {
+      "char": "",
+      "romanization": "py"
+    },
+    "U+F06B": {
+      "char": "",
+      "romanization": "pae"
+    },
+    "U+F06C": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F06D": {
+      "char": "",
+      "romanization": "pie"
+    },
+    "U+F06E": {
+      "char": "",
+      "romanization": "pau"
+    },
+    "U+F06F": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F070": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F071": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F072": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F073": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F074": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F075": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F076": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F077": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F078": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F079": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F080": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F081": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F082": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F083": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F084": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F085": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F086": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F087": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F088": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F089": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F08A": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F08B": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F08C": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F08D": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F08E": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F08F": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F090": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F091": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F092": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F093": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F094": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F095": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F096": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F097": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F098": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F099": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0A0": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0A1": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0A2": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0A3": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0A4": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0A5": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0A6": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0A7": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0A8": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0A9": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0AA": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0AB": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0AC": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0AD": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0AE": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0AF": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0B0": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0B1": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0B2": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0B3": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0B4": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0B5": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0B6": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0B7": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0B8": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0B9": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0C0": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0C1": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0C2": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0C3": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0C4": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0C5": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0C6": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0C7": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0C8": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0C9": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0CA": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0CB": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0CC": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0CD": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0CE": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0CF": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0D0": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0D1": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0D2": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0D3": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0D4": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0D5": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0D6": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0D7": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0D8": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0D9": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0E0": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0E1": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0E2": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0E3": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0E4": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0E5": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0E6": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0E7": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0E8": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0E9": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0EA": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0EB": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0EC": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0ED": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0EE": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0EF": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0F0": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0F1": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0F2": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0F3": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0F4": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0F5": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0F6": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0F7": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0F8": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F0F9": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F100": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F101": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F102": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F103": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F104": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F105": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F106": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F107": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F108": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F109": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F10A": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F10B": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F10C": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F10D": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F10E": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F10F": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F110": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F111": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F112": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F113": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F114": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F115": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F116": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F117": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F118": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F119": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F120": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F121": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F122": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F123": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F124": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F125": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F126": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F127": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F128": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F129": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F12A": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F12B": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F12C": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F12D": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F12E": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F12F": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F130": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F131": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F132": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F133": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F134": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F135": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F136": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F137": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F138": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F139": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F140": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F141": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F142": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F143": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F144": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F145": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F146": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F147": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F148": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F149": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F14A": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F14B": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F14C": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F14D": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F14E": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F14F": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F150": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F151": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F152": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F153": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F154": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F155": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F156": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F157": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F158": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F159": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F160": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F161": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F162": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F163": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F164": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F165": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F166": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F167": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F168": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F169": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F16A": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F16B": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F16C": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F16D": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F16E": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F16F": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F170": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F171": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F172": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F173": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F174": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F175": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F176": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F177": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F178": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F179": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F180": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F181": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F182": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F183": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F184": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F185": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F186": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F187": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F188": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F189": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F18A": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F18B": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F18C": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F18D": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F18E": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F18F": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F190": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F191": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F192": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F193": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F194": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F195": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F196": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F197": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F198": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F199": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1A0": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1A1": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1A2": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1A3": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1A4": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1A5": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1A6": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1A7": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1A8": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1A9": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1AA": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1AB": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1AC": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1AD": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1AE": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1AF": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1B0": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1B1": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1B2": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1B3": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1B4": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1B5": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1B6": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1B7": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1B8": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1B9": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1C0": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1C1": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1C2": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1C3": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1C4": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1C5": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1C6": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1C7": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1C8": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1C9": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1CA": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1CB": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1CC": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1CD": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1CE": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1CF": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1D0": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1D1": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1D2": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1D3": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1D4": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1D5": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1D6": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1D7": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1D8": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1D9": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1E0": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1E1": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1E2": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1E3": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1E4": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1E5": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1E6": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1E7": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1E8": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1E9": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1EA": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1EB": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1EC": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1ED": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1EE": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1EF": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1F0": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1F1": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1F2": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1F3": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1F4": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1F5": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1F6": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1F7": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1F8": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F1F9": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F200": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F201": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F202": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F203": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F204": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F205": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F206": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F207": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F208": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F209": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F20A": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F20B": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F20C": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F20D": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F20E": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F20F": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F210": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F211": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F212": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F213": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F214": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F215": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F216": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F217": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F218": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F219": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F220": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F221": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F222": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F223": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F224": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F225": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F226": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F227": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F228": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F229": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F22A": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F22B": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F22C": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F22D": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F22E": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F22F": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F230": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F231": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F232": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F233": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F234": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F235": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F236": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F237": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F238": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F239": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F240": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F241": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F242": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F243": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F244": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F245": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F246": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F247": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F248": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F249": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F24A": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F24B": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F24C": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F24D": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F24E": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F24F": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F250": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F251": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F252": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F253": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F254": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F255": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F256": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F257": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F258": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F259": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F260": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F261": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F262": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F263": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F264": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F265": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F266": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F267": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F268": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F269": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F26A": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F26B": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F26C": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F26D": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F26E": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F26F": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F270": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F271": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F272": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F273": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F274": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F275": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F276": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F277": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F278": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F279": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F280": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F281": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F282": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F283": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F284": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F285": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F286": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F287": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F288": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F289": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F28A": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F28B": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F28C": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F28D": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F28E": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F28F": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F290": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F291": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F292": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F293": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F294": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F295": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F296": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F297": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F298": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F299": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2A0": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2A1": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2A2": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2A3": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2A4": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2A5": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2A6": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2A7": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2A8": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2A9": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2AA": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2AB": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2AC": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2AD": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2AE": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2AF": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2B0": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2B1": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2B2": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2B3": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2B4": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2B5": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2B6": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2B7": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2B8": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2B9": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2C0": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2C1": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2C2": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2C3": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2C4": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2C5": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2C6": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2C7": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2C8": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2C9": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2CA": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2CB": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2CC": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2CD": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2CE": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2CF": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2D0": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2D1": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2D2": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2D3": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2D4": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2D5": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2D6": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2D7": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2D8": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2D9": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2E0": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2E1": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2E2": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2E3": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2E4": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2E5": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2E6": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2E7": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2E8": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2E9": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2EA": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2EB": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2EC": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2ED": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2EE": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2EF": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2F0": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2F1": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2F2": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2F3": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2F4": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2F5": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2F6": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2F7": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2F8": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F2F9": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F300": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F301": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F302": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F303": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F304": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F305": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F306": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F307": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F308": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F309": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F30A": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F30B": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F30C": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F30D": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F30E": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F30F": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F310": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F311": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F312": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F313": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F314": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F315": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F316": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F317": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F318": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F319": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F320": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F321": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F322": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F323": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F324": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F325": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F326": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F327": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F328": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F329": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F32A": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F32B": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F32C": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F32D": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F32E": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F32F": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F330": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F331": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F332": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F333": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F334": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F335": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F336": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F337": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F338": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F339": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F340": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F341": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F342": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F343": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F344": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F345": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F346": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F347": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F348": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F349": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F34A": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F34B": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F34C": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F34D": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F34E": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F34F": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F350": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F351": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F352": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F353": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F354": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F355": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F356": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F357": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F358": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F359": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F360": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F361": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F362": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F363": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F364": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F365": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F366": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F367": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F368": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F369": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F36A": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F36B": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F36C": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F36D": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F36E": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F36F": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F370": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F371": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F372": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F373": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F374": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F375": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F376": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F377": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F378": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F379": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F380": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F381": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F382": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F383": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F384": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F385": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F386": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F387": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F388": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F389": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F38A": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F38B": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F38C": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F38D": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F38E": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F38F": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F390": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F391": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F392": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F393": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F394": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F395": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F396": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F397": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F398": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F399": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3A0": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3A1": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3A2": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3A3": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3A4": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3A5": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3A6": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3A7": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3A8": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3A9": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3AA": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3AB": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3AC": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3AD": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3AE": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3AF": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3B0": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3B1": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3B2": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3B3": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3B4": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3B5": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3B6": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3B7": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3B8": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3B9": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3C0": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3C1": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3C2": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3C3": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3C4": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3C5": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3C6": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3C7": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3C8": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3C9": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3CA": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3CB": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3CC": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3CD": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3CE": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3CF": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3D0": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3D1": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3D2": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3D3": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3D4": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3D5": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3D6": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3D7": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3D8": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3D9": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3E0": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3E1": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3E2": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3E3": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3E4": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3E5": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3E6": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3E7": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3E8": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3E9": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3EA": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3EB": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3EC": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3ED": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3EE": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3EF": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3F0": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3F1": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3F2": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3F3": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3F4": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3F5": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3F6": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3F7": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3F8": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F3F9": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F400": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F401": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F402": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F403": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F404": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F405": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F406": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F407": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F408": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F409": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F40A": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F40B": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F40C": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F40D": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F40E": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F40F": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F410": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F411": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F412": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F413": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F414": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F415": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F416": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F417": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F418": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F419": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F420": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F421": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F422": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F423": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F424": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F425": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F426": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F427": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F428": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F429": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F42A": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F42B": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F42C": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F42D": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F42E": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F42F": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F430": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F431": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F432": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F433": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F434": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F435": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F436": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F437": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F438": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F439": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F440": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F441": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F442": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F443": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F444": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F445": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F446": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F447": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F448": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F449": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F44A": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F44B": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F44C": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F44D": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F44E": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F44F": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F450": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F451": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F452": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F453": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F454": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F455": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F456": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F457": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F458": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F459": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F460": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F461": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F462": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F463": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F464": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F465": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F466": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F467": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F468": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F469": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F46A": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F46B": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F46C": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F46D": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F46E": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F46F": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F470": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F471": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F472": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F473": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F474": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F475": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F476": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F477": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F478": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F479": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F480": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F481": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F482": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F483": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F484": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F485": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F486": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F487": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F488": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F489": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F48A": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F48B": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F48C": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F48D": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F48E": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F48F": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F490": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F491": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F492": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F493": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F494": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F495": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F496": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F497": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F498": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F499": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4A0": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4A1": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4A2": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4A3": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4A4": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4A5": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4A6": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4A7": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4A8": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4A9": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4AA": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4AB": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4AC": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4AD": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4AE": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4AF": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4B0": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4B1": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4B2": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4B3": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4B4": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4B5": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4B6": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4B7": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4B8": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4B9": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4C0": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4C1": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4C2": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4C3": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4C4": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4C5": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4C6": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4C7": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4C8": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4C9": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4CA": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4CB": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4CC": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4CD": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4CE": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4CF": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4D0": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4D1": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4D2": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4D3": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4D4": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4D5": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4D6": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4D7": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4D8": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4D9": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4E0": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4E1": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4E2": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4E3": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4E4": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4E5": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4E6": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4E7": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4E8": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4E9": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4EA": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4EB": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4EC": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4ED": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4EE": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4EF": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4F0": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4F1": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4F2": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4F3": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4F4": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4F5": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4F6": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4F7": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4F8": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F4F9": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F500": {
+      "char": "",
+      "romanization": "ph",
+      "role": "initial"
+    },
+    "U+F501": {
+      "char": "",
+      "romanization": "p",
+      "role": "initial"
+    },
+    "U+F502": {
+      "char": "",
+      "romanization": "b",
+      "role": "initial"
+    },
+    "U+F503": {
+      "char": "",
+      "romanization": "f",
+      "role": "initial"
+    },
+    "U+F504": {
+      "char": "",
+      "romanization": "v",
+      "role": "initial"
+    },
+    "U+F505": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F506": {
+      "char": "",
+      "romanization": "th",
+      "role": "initial"
+    },
+    "U+F507": {
+      "char": "",
+      "romanization": "t",
+      "role": "initial"
+    },
+    "U+F508": {
+      "char": "",
+      "romanization": "d",
+      "role": "initial"
+    },
+    "U+F509": {
+      "char": "",
+      "romanization": "l",
+      "role": "initial"
+    },
+    "U+F50A": {
+      "char": "",
+      "romanization": "n",
+      "role": "initial"
+    },
+    "U+F50B": {
+      "char": "",
+      "romanization": "kh",
+      "role": "initial"
+    },
+    "U+F50C": {
+      "char": "",
+      "romanization": "k",
+      "role": "initial"
+    },
+    "U+F50D": {
+      "char": "",
+      "romanization": "g",
+      "role": "initial"
+    },
+    "U+F50E": {
+      "char": "",
+      "romanization": "h",
+      "role": "initial"
+    },
+    "U+F50F": {
+      "char": "",
+      "romanization": "zero | null",
+      "role": "initial",
+      "notes": "zero (initial); null (initial)"
+    },
+    "U+F510": {
+      "char": "",
+      "romanization": "gh",
+      "role": "initial"
+    },
+    "U+F511": {
+      "char": "",
+      "romanization": "ng",
+      "role": "initial"
+    },
+    "U+F512": {
+      "char": "",
+      "romanization": "ch(i)",
+      "role": "initial"
+    },
+    "U+F513": {
+      "char": "",
+      "romanization": "c(i)",
+      "role": "initial"
+    },
+    "U+F514": {
+      "char": "",
+      "romanization": "j(i)",
+      "role": "initial"
+    },
+    "U+F515": {
+      "char": "",
+      "romanization": "sh(i)",
+      "role": "initial"
+    },
+    "U+F516": {
+      "char": "",
+      "romanization": "zh(i)",
+      "role": "initial"
+    },
+    "U+F517": {
+      "char": "",
+      "romanization": "tsh",
+      "role": "initial"
+    },
+    "U+F518": {
+      "char": "",
+      "romanization": "ts",
+      "role": "initial"
+    },
+    "U+F519": {
+      "char": "",
+      "romanization": "dz",
+      "role": "initial"
+    },
+    "U+F51A": {
+      "char": "",
+      "romanization": "s",
+      "role": "initial"
+    },
+    "U+F51B": {
+      "char": "",
+      "romanization": "z",
+      "role": "initial"
+    },
+    "U+F51C": {
+      "char": "",
+      "romanization": "ny",
+      "role": "initial"
+    },
+    "U+F51D": {
+      "char": "",
+      "romanization": "i",
+      "role": "initial"
+    },
+    "U+F51E": {
+      "char": "",
+      "romanization": "u",
+      "role": "initial"
+    },
+    "U+F51F": {
+      "char": "",
+      "romanization": "lh",
+      "role": "initial"
+    },
+    "U+F520": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F521": {
+      "char": "",
+      "romanization": "a",
+      "role": "final"
+    },
+    "U+F522": {
+      "char": "",
+      "romanization": "aq",
+      "role": "final"
+    },
+    "U+F523": {
+      "char": "",
+      "romanization": "o",
+      "role": "final"
+    },
+    "U+F524": {
+      "char": "",
+      "romanization": "oq",
+      "role": "final"
+    },
+    "U+F525": {
+      "char": "",
+      "romanization": "e",
+      "role": "final"
+    },
+    "U+F526": {
+      "char": "",
+      "romanization": "eq",
+      "role": "final"
+    },
+    "U+F527": {
+      "char": "",
+      "romanization": "i",
+      "role": "final | medial",
+      "notes": "i (final); i (medial)"
+    },
+    "U+F528": {
+      "char": "",
+      "romanization": "iq",
+      "role": "final"
+    },
+    "U+F529": {
+      "char": "",
+      "romanization": "u",
+      "role": "final | medial",
+      "notes": "u (final); u (medial)"
+    },
+    "U+F52A": {
+      "char": "",
+      "romanization": "y",
+      "role": "final"
+    },
+    "U+F52B": {
+      "char": "",
+      "romanization": "ae(n)",
+      "role": "final"
+    },
+    "U+F52C": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F52D": {
+      "char": "",
+      "romanization": "ie(n)",
+      "role": "final"
+    },
+    "U+F52E": {
+      "char": "",
+      "romanization": "au",
+      "role": "final"
+    },
+    "U+F52F": {
+      "char": "",
+      "romanization": "ou",
+      "role": "final"
+    },
+    "U+F530": {
+      "char": "",
+      "romanization": "eu",
+      "role": "final"
+    },
+    "U+F531": {
+      "char": "",
+      "romanization": "iu",
+      "role": "final | medial",
+      "notes": "iu (final); iu (medial)"
+    },
+    "U+F532": {
+      "char": "",
+      "romanization": "oe(n)",
+      "role": "final"
+    },
+    "U+F533": {
+      "char": "",
+      "romanization": "an",
+      "role": "final"
+    },
+    "U+F534": {
+      "char": "",
+      "romanization": "on",
+      "role": "final"
+    },
+    "U+F535": {
+      "char": "",
+      "romanization": "en",
+      "role": "final"
+    },
+    "U+F536": {
+      "char": "",
+      "romanization": "in",
+      "role": "final"
+    },
+    "U+F537": {
+      "char": "",
+      "romanization": "aon",
+      "role": "final"
+    },
+    "U+F538": {
+      "char": "",
+      "romanization": "eon",
+      "role": "final"
+    },
+    "U+F539": {
+      "char": "",
+      "romanization": "r",
+      "role": "final | medial",
+      "notes": "r (final); r (medial)"
+    },
+    "U+F53A": {
+      "char": "",
+      "romanization": "-n",
+      "role": "final"
+    },
+    "U+F53B": {
+      "char": "",
+      "romanization": "-q",
+      "role": "final"
+    },
+    "U+F53C": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F53D": {
+      "char": "",
+      "romanization": ""
+    },
+    "U+F540": {
+      "char": "",
+      "romanization": "mh | m",
+      "role": "initial",
+      "notes": "mh (initial); m (initial)"
+    },
+    "U+F541": {
+      "char": "",
+      "romanization": "nh",
+      "role": "initial"
+    },
+    "U+F542": {
+      "char": "",
+      "romanization": "nk",
+      "role": "initial"
+    },
+    "U+F543": {
+      "char": "",
+      "romanization": "nyh",
+      "role": "initial"
+    },
+    "U+F544": {
+      "char": "",
+      "romanization": "y",
+      "role": "initial"
+    },
+    "U+F545": {
+      "char": "",
+      "romanization": "w",
+      "role": "initial"
+    }
+  }
+}

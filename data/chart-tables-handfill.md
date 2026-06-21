@@ -201,7 +201,7 @@ Each row = one romanization → **initial-only glyph** (no final).
 | romanization | glyph | codepoint | notes |
 | ------------ | ----- | --------- | ----- |
 | nk           |      |           |       |
-| ng           |       |          |       |
+| ng           |      |           |       |
 
 
 #### 危
@@ -236,7 +236,7 @@ Here: final **component** glyphs only (may include bound endings **-q** / **-n**
 | romanization | glyph | example hanzi | codepoint | notes |
 | ------------ | ----- | ------------- | --------- | ----- |
 | a            |      | 派             |           |       |
-| o            |      | 瓦             |           |       |
+| o            |     | 瓦             |           |       |
 | e            |      | 卑             |           |       |
 | i            |      | 以             |           |       |
 | u            |      | 无             |           |       |
@@ -744,8 +744,6 @@ Use these to validate Section 1 vs Section 4:
 
 When this file has glyphs pasted, we can run a small script to:
 
-1. Parse `[ ]` → glyph characters and build `mapping/hand-curated.json`
-2. Derive any remaining composed slots by cross-checking the font grid
-3. Replace the incorrect auto-mapping in `mapping/goetsuese-mapping.json`
+1. Parse hand-fill and rebuild `mapping/goetsuese-mapping.json`
 
 **Do not** use the current auto-mapping for initials — start from this hand-fill.

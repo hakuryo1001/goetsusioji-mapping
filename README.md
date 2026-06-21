@@ -57,21 +57,24 @@ m.transliterate_text("taon nyie")
 m.grammar_marker("tsy")       # adverbial suffix → U+F3CA
 ```
 
-## Output files
+## Output
 
-| File | Contents |
-|------|----------|
-| `mapping/goetsuese-mapping.json` | Full mapping + metadata |
-| `mapping/syllables.json` | `{initial}+{final}` → codepoint |
-| `mapping/romanization.json` | compact syllable string → codepoint |
-| `mapping/components.json` | initial components, medials, tones, grammar |
+One generated file — everything else is input or source:
 
-## Coverage
+| File | Role |
+|------|------|
+| `data/chart-manifest.json` | **Input** — initial/final lists, chart structure |
+| `data/chart-tables-handfill.md` | **Source** — your hand-transcribed glyphs |
+| `mapping/goetsuese-mapping.json` | **Output** — the only mapping file (romanization, syllables, components, metadata) |
 
+Inside `goetsuese-mapping.json`:
+
+- `romanization` — lookup table (`"taon"` → glyph, `"ph"` → component, etc.)
+- `syllables` — `{initial}+{final}` grid entries
+- `initials` / `finals` — component glyphs from your hand-fill
+- `meta` — build stats and warnings
 - **1,014** syllable cells (39 initials × 26 finals)
-- **29** standalone initial component glyphs
-- **Grammar**: `tsy` → `U+F3CA` (from reference RTF / ngven.org)
-- **Overflow** rows (`U+F500`+) — extra glyphs not on the main syllable grid (see full JSON)
+- **39** hand-curated initial components, **26** finals
 
 ## Caveats
 

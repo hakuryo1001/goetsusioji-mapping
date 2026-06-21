@@ -34,11 +34,14 @@ def main() -> int:
     if grammar.get("codepoint") != "U+F3CA":
         errors.append(f"grammar tsy: expected U+F3CA, got {grammar.get('codepoint')}")
 
-    if len(data["initials"]) != 29:
-        errors.append(f"expected 29 component initials, got {len(data['initials'])}")
-
+    if len(data["initials"]) != 39:
+        errors.append(f"expected 39 component initials, got {len(data['initials'])}")
     if data["meta"]["syllable_entries"] != 1014:
         errors.append(f"expected 1014 syllables, got {data['meta']['syllable_entries']}")
+    if data["meta"].get("romanization_entries", 0) < 1014:
+        errors.append(
+            f"expected at least 1014 romanization entries, got {data['meta'].get('romanization_entries')}"
+        )
 
     # Reference RTF sample decode
     rtf_cps = ["U+F182", "U+F0AA", "U+F396"]

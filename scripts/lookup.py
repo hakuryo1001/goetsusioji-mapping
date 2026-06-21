@@ -18,13 +18,16 @@ def main() -> int:
     parser.add_argument("text", nargs="?", help="Romanization text (space-separated syllables)")
     parser.add_argument("--json", action="store_true", help="Print structured JSON")
     parser.add_argument("--syllable", help="Look up one syllable, e.g. le or t+aon")
+    parser.add_argument("--component", choices=["initial", "final"], help="With --syllable: look up standalone component")
     parser.add_argument("--grammar", help="Look up grammar marker, e.g. tsy")
     args = parser.parse_args()
 
     mapper = GoetsueseMapper()
 
     if args.syllable:
-        if "+" in args.syllable:
+        if args.component:
+            result = mapper.component(args.component, args.syllable)
+        elif "+" in args.syllable:
             ini, fin = args.syllable.split("+", 1)
             result = mapper.syllable(ini, fin)
         else:
