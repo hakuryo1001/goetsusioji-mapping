@@ -1,7 +1,7 @@
 # Goetsu Xiaozi (吳小字) — hand-fill chart tables
 
 > **Purpose:** Faithful transcription of `pics/1.png`, `pics/2.png`, `pics/3.png`.
-> Paste Goetsu glyphs into every `**[ ]`** cell. Optionally add `**U+XXXX**` in the codepoint column.
+> Paste Goetsu glyphs into every `**[ ]`** cell. Optionally add `**U+XXXX`** in the codepoint column.
 >
 > **Important:** Chart 1 glyphs are **initial-only** (no final), e.g. `ph` = onset alone, **not** `pha`.
 > Composed syllables like `pha` belong in **Section 4** (or chart 3 examples).
@@ -52,9 +52,9 @@ Each row = one romanization → **initial-only glyph** (no final).
 
 | romanization | glyph | codepoint | notes             |
 | ------------ | ----- | --------- | ----------------- |
-| ph           |   |           | aspirated; ° mark |
+| ph           |      |           | aspirated; ° mark |
 | p            |      |           | voiceless         |
-| b            |  |           | voiced; ' mark    |
+| b            |      |           | voiced; ' mark    |
 
 
 #### 刀
@@ -72,9 +72,9 @@ Each row = one romanization → **initial-only glyph** (no final).
 
 | romanization | glyph | codepoint | notes             |
 | ------------ | ----- | --------- | ----------------- |
-| ch(i)        |    |           | implicit medial i |
-| c(i)         |    |           |                   |
-| j(i)         |    |           |                   |
+| ch(i)        |      |           | implicit medial i |
+| c(i)         |      |           |                   |
+| j(i)         |      |           |                   |
 
 
 #### 子
@@ -82,9 +82,9 @@ Each row = one romanization → **initial-only glyph** (no final).
 
 | romanization | glyph | codepoint | notes |
 | ------------ | ----- | --------- | ----- |
-| tsh          |    |           |       |
-| ts           |    |           |       |
-| dz           |    |           |       |
+| tsh          |      |           |       |
+| ts           |      |           |       |
+| dz           |      |           |       |
 
 
 #### 工
@@ -92,9 +92,9 @@ Each row = one romanization → **initial-only glyph** (no final).
 
 | romanization | glyph | codepoint | notes |
 | ------------ | ----- | --------- | ----- |
-| kh           |    |           |       |
-| k            |    |           |       |
-| g            |    |           |       |
+| kh           |      |           |       |
+| k            |      |           |       |
+| g            |      |           |       |
 
 
 #### 零聲母
@@ -102,7 +102,7 @@ Each row = one romanization → **initial-only glyph** (no final).
 
 | romanization | glyph | codepoint | notes        |
 | ------------ | ----- | --------- | ------------ |
-| …            |    |           | zero initial |
+| …            |      |           | zero initial |
 
 
 ---
@@ -114,8 +114,8 @@ Each row = one romanization → **initial-only glyph** (no final).
 
 | romanization | glyph | codepoint | notes |
 | ------------ | ----- | --------- | ----- |
-| f            |   |           |       |
-| v            |    |           |       |
+| f            |      |           |       |
+| v            |      |           |       |
 
 
 #### 兴
@@ -123,8 +123,8 @@ Each row = one romanization → **initial-only glyph** (no final).
 
 | romanization | glyph | codepoint | notes             |
 | ------------ | ----- | --------- | ----------------- |
-| sh(i)        |   |           | implicit medial i |
-| zh(i)        |    |           |                   |
+| sh(i)        |      |           | implicit medial i |
+| zh(i)        |      |           |                   |
 
 
 #### 式
@@ -132,8 +132,8 @@ Each row = one romanization → **initial-only glyph** (no final).
 
 | romanization | glyph | codepoint | notes |
 | ------------ | ----- | --------- | ----- |
-| s            |    |           |       |
-| z            |   |           |       |
+| s            |      |           |       |
+| z            |      |           |       |
 
 
 #### 奥
@@ -141,9 +141,9 @@ Each row = one romanization → **initial-only glyph** (no final).
 
 | romanization | glyph | codepoint | notes                                  |
 | ------------ | ----- | --------- | -------------------------------------- |
-| h            |   |           |                                        |
-| …            |    |           | blank / null onset (chart empty label) |
-| gh           |    |           |                                        |
+| h            |      |           |                                        |
+| …            |      |           | blank / null onset (chart empty label) |
+| gh           |      |           |                                        |
 
 
 #### 云
@@ -151,8 +151,8 @@ Each row = one romanization → **initial-only glyph** (no final).
 
 | romanization | glyph | codepoint | notes |
 | ------------ | ----- | --------- | ----- |
-| i            |    |           |       |
-| y            |    |           |       |
+| i            |      |           |       |
+| y            |      |           |       |
 
 
 ---
@@ -164,8 +164,8 @@ Each row = one romanization → **initial-only glyph** (no final).
 
 | romanization | glyph | codepoint | notes                     |
 | ------------ | ----- | --------- | ------------------------- |
-| mh           |    |           | yin m; ° on voiced series |
-| m            |    |           |                           |
+| mh           |      |           | yin m; ° on voiced series |
+| m            |      |           |                           |
 
 
 #### 力
@@ -173,8 +173,8 @@ Each row = one romanization → **initial-only glyph** (no final).
 
 | romanization | glyph | codepoint | notes |
 | ------------ | ----- | --------- | ----- |
-| lh           |    |           |       |
-| l            |    |           |       |
+| lh           |      |           |       |
+| l            |      |           |       |
 
 
 #### 拿
@@ -182,8 +182,8 @@ Each row = one romanization → **initial-only glyph** (no final).
 
 | romanization | glyph | codepoint | notes |
 | ------------ | ----- | --------- | ----- |
-| nh           |   |           |       |
-| n            |   |           |       |
+| nh           |      |           |       |
+| n            |      |           |       |
 
 
 #### 女
@@ -191,8 +191,8 @@ Each row = one romanization → **initial-only glyph** (no final).
 
 | romanization | glyph | codepoint | notes |
 | ------------ | ----- | --------- | ----- |
-| nyh          |   |           |       |
-| ny           |    |           |       |
+| nyh          |      |           |       |
+| ny           |      |           |       |
 
 
 #### 午
@@ -200,8 +200,8 @@ Each row = one romanization → **initial-only glyph** (no final).
 
 | romanization | glyph | codepoint | notes |
 | ------------ | ----- | --------- | ----- |
-| nk           |    |           |       |
-| ng           |    |           |       |
+| nk           |      |           |       |
+| ng           |       |          |       |
 
 
 #### 危
@@ -209,8 +209,8 @@ Each row = one romanization → **initial-only glyph** (no final).
 
 | romanization | glyph | codepoint | notes           |
 | ------------ | ----- | --------- | --------------- |
-| u            |    |           | onset u / glide |
-| w            |    |           |                 |
+| u            |      |           | onset u / glide |
+| w            |      |           |                 |
 
 
 ---
@@ -235,11 +235,11 @@ Here: final **component** glyphs only (may include bound endings **-q** / **-n**
 
 | romanization | glyph | example hanzi | codepoint | notes |
 | ------------ | ----- | ------------- | --------- | ----- |
-| a            | [ ]   | 派             |           |       |
-| o            | [ ]   | 瓦             |           |       |
-| e            | [ ]   | 卑             |           |       |
-| i            | [ ]   | 以             |           |       |
-| u            | [ ]   | 无             |           |       |
+| a            |      | 派             |           |       |
+| o            |      | 瓦             |           |       |
+| e            |      | 卑             |           |       |
+| i            |      | 以             |           |       |
+| u            |      | 无             |           |       |
 
 
 ### Row 2
@@ -247,10 +247,10 @@ Here: final **component** glyphs only (may include bound endings **-q** / **-n**
 
 | romanization       | glyph | example hanzi | codepoint | notes |
 | ------------------ | ----- | ------------- | --------- | ----- |
-| au                 | [ ]   | 号             |           |       |
-| ou                 | [ ]   | 多             |           |       |
-| eu                 | [ ]   | 久             |           |       |
-| iu                 | [ ]   | 雨             |           |       |
+| au                 |      | 号             |           |       |
+| ou                 |      | 多             |           |       |
+| eu                 |      | 久             |           |       |
+| iu                 |      | 雨             |           |       |
 | *(empty in chart)* |       |               |           |       |
 
 
@@ -259,11 +259,11 @@ Here: final **component** glyphs only (may include bound endings **-q** / **-n**
 
 | romanization | glyph | example hanzi | codepoint | notes            |
 | ------------ | ----- | ------------- | --------- | ---------------- |
-| aq           | [ ]   | 乏             |           |                  |
-| oq           | [ ]   | 显             |           |                  |
-| eq           | [ ]   | 出             |           |                  |
-| iq           | [ ]   | 亦             |           |                  |
-| **-q**       | [ ]   | 促化/塞韻尾        |           | coda component く |
+| aq           |      | 乏             |           |                  |
+| oq           |      | 显             |           |                  |
+| eq           |      | 出             |           |                  |
+| iq           |      | 亦             |           |                  |
+| **-q**       |      | 促化/塞韻尾        |           | coda component く |
 
 
 ### Row 4
@@ -271,11 +271,11 @@ Here: final **component** glyphs only (may include bound endings **-q** / **-n**
 
 | romanization | glyph | example hanzi | codepoint | notes            |
 | ------------ | ----- | ------------- | --------- | ---------------- |
-| ae(n)        | [ ]   | 万             |           |                  |
-| oe(n)        | [ ]   | 寒             |           |                  |
-| en           | [ ]   | 文             |           |                  |
-| ie(n)        | [ ]   | 建             |           |                  |
-| **-n**       | [ ]   | 児化/鼻韻尾        |           | coda component レ |
+| ae(n)        |      | 万             |           |                  |
+| oe(n)        |      | 寒             |           |                  |
+| en           |      | 文             |           |                  |
+| ie(n)        |      | 建             |           |                  |
+| **-n**       |      | 児化/鼻韻尾        |           | coda component レ |
 
 
 ### Row 5
@@ -283,11 +283,11 @@ Here: final **component** glyphs only (may include bound endings **-q** / **-n**
 
 | romanization | glyph | example hanzi | codepoint | notes                 |
 | ------------ | ----- | ------------- | --------- | --------------------- |
-| an           | [ ]   | 良             |           |                       |
-| on           | [ ]   | 从             |           |                       |
-| eon          | [ ]   | 能             |           |                       |
-| in           | [ ]   | 刃             |           |                       |
-| y            | [ ]   | 私（空韵）         |           | null / syllabic final |
+| an           |      | 良             |           |                       |
+| on           |      | 从             |           |                       |
+| eon          |      | 能             |           |                       |
+| in           |      | 刃             |           |                       |
+| y            |      | 私（空韵）         |           | null / syllabic final |
 
 
 ### Row 6
@@ -295,11 +295,11 @@ Here: final **component** glyphs only (may include bound endings **-q** / **-n**
 
 | romanization | glyph | example hanzi | codepoint | notes                     |
 | ------------ | ----- | ------------- | --------- | ------------------------- |
-| aon          | [ ]   | 亡             |           |                           |
+| aon          |      | 亡             |           |                           |
 | *(empty)*    |       |               |           |                           |
 | *(empty)*    |       |               |           |                           |
 | *(empty)*    |       |               |           |                           |
-| r            | [ ]   | 而             |           | loanword l/r; dedicated ㄞ |
+| r            |      | 而             |           | loanword l/r; dedicated ㄞ |
 
 
 ---
@@ -313,10 +313,10 @@ Here: final **component** glyphs only (may include bound endings **-q** / **-n**
 
 | romanization | glyph | label (chart) | codepoint | notes |
 | ------------ | ----- | ------------- | --------- | ----- |
-| i            | [ ]   | 以（齊齒呼）        |           |       |
-| u            | [ ]   | 无（合口呼）        |           |       |
-| iu           | [ ]   | 雨（撮口呼）        |           |       |
-| r            | [ ]   | 而（翹舌）         |           |       |
+| i            |      | 以（齊齒呼）        |           |       |
+| u            |      | 无（合口呼）        |           |       |
+| iu           |      | 雨（撮口呼）        |           |       |
+| r            |      | 而（翹舌）         |           |       |
 
 
 ---
