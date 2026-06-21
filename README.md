@@ -1,23 +1,24 @@
-# Goetsuese Typer
+# Goetsusioji Mapping
 
-Romanization → PUA glyph mapping for **Wu Xiaozi** (Goetsuese / 吴小字), built from:
+Romanization → PUA glyph mapping for **Wu Xiaozi** (Goetsuese / 吴小字).
 
-- `goetsusioji-reference/goetsusioji.ttf` — font grid (`U+F021`–`U+F545`)
-- `goetsusioji-reference/pics/1.png` — initials (聲母表)
-- `goetsusioji-reference/pics/2.png` — finals (韻母表)
-- `goetsusioji-reference/pics/3.png` — medials, tones, composition rules
+## Current status — hand-curate first
 
-## How the encoding works
+The auto-generated `mapping/goetsuese-mapping.json` **mis-identified** component glyphs (e.g. treated finals as initials). We are rebuilding from the chart pictures by hand.
 
-The font stores glyphs on a **26-column syllable grid**:
+**Start here:** [`data/chart-tables-handfill.md`](data/chart-tables-handfill.md)
 
-- **Columns** = finals (`a`, `o`, `e`, …, `aon`, `r`, `-q`, `-n`) — 26 slots
-- **Rows** (from `U+F040` upward) = initials (`ph`, `p`, `b`, …, `w`) — 39 rows
-- **Component row** (`U+F021`–`U+F03D`) = standalone initial glyphs (first 29 initials from the chart)
+1. Open that file with goetsusioji font enabled (see [`.vscode/font-setup.md`](.vscode/font-setup.md))
+2. Paste glyphs from `pics/1.png`, `pics/2.png`, `pics/3.png` into each `[ ]` cell
+3. When Sections 1–2 (and optionally 4) are filled, we parse it into a correct JSON mapping
 
-A syllable like `taon` is parsed as initial `t` + final `aon`, then looked up at grid row `t`, column `aon`.
+Reference images: [`pics/1.png`](pics/1.png) · [`pics/2.png`](pics/2.png) · [`pics/3.png`](pics/3.png)
 
-Composition rules (initial above final; medial left; compound finals) describe how glyphs are **drawn**, but in this font each syllable cell is a **single precomposed PUA character**.
+---
+
+## Legacy auto-mapping (untrusted)
+
+The scripts below produced a first-pass grid guess. **Do not rely on it for initials/components** until hand-fill is done.
 
 ## Editor font (this project only)
 
