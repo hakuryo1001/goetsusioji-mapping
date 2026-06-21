@@ -173,8 +173,8 @@ Each row = one romanization → **initial-only glyph** (no final).
 
 | romanization | glyph | codepoint | notes |
 | ------------ | ----- | --------- | ----- |
-| lh           | [ ]   |           |       |
-| l            | [ ]   |           |       |
+| lh           |    |           |       |
+| l            |    |           |       |
 
 
 #### 拿
@@ -182,8 +182,8 @@ Each row = one romanization → **initial-only glyph** (no final).
 
 | romanization | glyph | codepoint | notes |
 | ------------ | ----- | --------- | ----- |
-| nh           | [ ]   |           |       |
-| n            | [ ]   |           |       |
+| nh           |   |           |       |
+| n            |   |           |       |
 
 
 #### 女
@@ -191,8 +191,8 @@ Each row = one romanization → **initial-only glyph** (no final).
 
 | romanization | glyph | codepoint | notes |
 | ------------ | ----- | --------- | ----- |
-| nyh          | [ ]   |           |       |
-| ny           | [ ]   |           |       |
+| nyh          |   |           |       |
+| ny           |    |           |       |
 
 
 #### 午
@@ -200,8 +200,8 @@ Each row = one romanization → **initial-only glyph** (no final).
 
 | romanization | glyph | codepoint | notes |
 | ------------ | ----- | --------- | ----- |
-| nk           | [ ]   |           |       |
-| ng           | [ ]   |           |       |
+| nk           |    |           |       |
+| ng           |    |           |       |
 
 
 #### 危
@@ -209,8 +209,8 @@ Each row = one romanization → **initial-only glyph** (no final).
 
 | romanization | glyph | codepoint | notes           |
 | ------------ | ----- | --------- | --------------- |
-| u            | [ ]   |           | onset u / glide |
-| w            | [ ]   |           |                 |
+| u            |    |           | onset u / glide |
+| w            |    |           |                 |
 
 
 ---
