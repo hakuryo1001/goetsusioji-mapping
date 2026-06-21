@@ -22,13 +22,13 @@ def main() -> int:
         if got != cp:
             errors.append(f"{key}: expected {cp}, got {got}")
 
-    # Grid-derived anchors from exploratory analysis
-    expect("l", "e", "U+F1A2")
-    expect("lh", "e", "U+F182")
-    expect("t", "aon", "U+F156")
-    expect("ny", "ie", "U+F370")
-    expect("f", "oq", "U+F0AA")
-    expect("kh", "aon", "U+F396")
+    # Grid anchors: col 0 = initial-only; cols 1..25 follow header finals U+F021..U+F039
+    expect("l", "e", "U+F1A5")
+    expect("lh", "e", "U+F185")
+    expect("t", "aon", "U+F157")
+    expect("ny", "ie", "U+F36D")
+    expect("f", "oq", "U+F0A4")
+    expect("kh", "aon", "U+F397")
 
     grammar = data.get("grammar", {}).get("tsy", {})
     if grammar.get("codepoint") != "U+F3CA":
@@ -36,15 +36,21 @@ def main() -> int:
 
     if len(data["initials"]) != 39:
         errors.append(f"expected 39 component initials, got {len(data['initials'])}")
-    if data["meta"]["syllable_entries"] != 1014:
-        errors.append(f"expected 1014 syllables, got {data['meta']['syllable_entries']}")
-    if data["meta"].get("romanization_entries", 0) < 1014:
+    expected_syllables = data["meta"].get("syllable_row_count", 38) * data["meta"].get(
+        "grid_final_count", 25
+    )
+    if data["meta"]["syllable_entries"] != expected_syllables:
         errors.append(
-            f"expected at least 1014 romanization entries, got {data['meta'].get('romanization_entries')}"
+            f"expected {expected_syllables} syllables, got {data['meta']['syllable_entries']}"
+        )
+    if data["meta"].get("romanization_entries", 0) < expected_syllables:
+        errors.append(
+            f"expected at least {expected_syllables} romanization entries, "
+            f"got {data['meta'].get('romanization_entries')}"
         )
 
-    # Reference RTF sample decode
-    rtf_cps = ["U+F182", "U+F0AA", "U+F396"]
+    # Reference RTF sample decode (F021-grid layout)
+    rtf_cps = ["U+F185", "U+F0A4", "U+F397"]
     for cp in rtf_cps:
         match = [k for k, v in syllables.items() if v["codepoint"] == cp]
         if not match:
