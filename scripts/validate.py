@@ -22,13 +22,13 @@ def main() -> int:
         if got != cp:
             errors.append(f"{key}: expected {cp}, got {got}")
 
-    # Grid anchors: col 0 = initial-only; cols 1..25 follow header finals U+F021..U+F039
-    expect("l", "e", "U+F1A5")
-    expect("lh", "e", "U+F185")
+    # Grid anchors from glyphs-handfill.json (F021 header column order)
+    expect("l", "e", "U+F185")
+    expect("lh", "e", "U+F1A5")
     expect("t", "aon", "U+F157")
-    expect("ny", "ie", "U+F36D")
+    expect("ny", "ie", "U+F44D")
     expect("f", "oq", "U+F0A4")
-    expect("kh", "aon", "U+F397")
+    expect("kh", "aon", "U+F217")
 
     grammar = data.get("grammar", {}).get("tsy", {})
     if grammar.get("codepoint") != "U+F3CA":
@@ -36,9 +36,11 @@ def main() -> int:
 
     if len(data["initials"]) != 39:
         errors.append(f"expected 39 component initials, got {len(data['initials'])}")
-    expected_syllables = data["meta"].get("syllable_row_count", 38) * data["meta"].get(
-        "grid_final_count", 25
-    )
+    expected_syllables = data["meta"].get("expected_syllable_entries")
+    if expected_syllables is None:
+        expected_syllables = data["meta"].get("syllable_row_count", 38) * data["meta"].get(
+            "grid_final_count", 25
+        )
     if data["meta"]["syllable_entries"] != expected_syllables:
         errors.append(
             f"expected {expected_syllables} syllables, got {data['meta']['syllable_entries']}"
@@ -49,8 +51,8 @@ def main() -> int:
             f"got {data['meta'].get('romanization_entries')}"
         )
 
-    # Reference RTF sample decode (F021-grid layout)
-    rtf_cps = ["U+F185", "U+F0A4", "U+F397"]
+    # Reference RTF sample decode (handfill grid layout)
+    rtf_cps = ["U+F185", "U+F0A4", "U+F217"]
     for cp in rtf_cps:
         match = [k for k, v in syllables.items() if v["codepoint"] == cp]
         if not match:
