@@ -1,0 +1,1050 @@
+{
+  "meta": {
+    "source": [
+      "goetsusioji-mapping/pics/3.png",
+      "data/chart-tables-handfill.md#section-3",
+      "data/glyphs-handfill-with-chinese.json",
+      "data/chart-manifest.json"
+    ],
+    "description": "Spelling / composition rules (拼寫規則) for Goetsusioji.",
+    "generated_by": "scripts/build_spelling_compose_rules.py",
+    "component_glyph_range": "U+F500..U+F545",
+    "precomposed_syllable_grid": "U+F040..U+F4F9",
+    "programmatic_readiness": {
+      "summary": "Mostly yes for parsing and component lookup; not yet for rendering composed glyphs outside the precomposed grid.",
+      "ready": [
+        "Component glyph lookup by initial/final/medial key",
+        "Layout selection (simple / with_medial / compound_final)",
+        "Implicit-i suppression for 斤/兴 initials",
+        "Compound final decomposition (aeq, oeq, eoq, ai, ei)",
+        "Precomposed grid lookup for plain initial+final (no medial)"
+      ],
+      "gaps": [
+        "Medial syllables (tiau, tuan, etc.) are not in the 39×26 precomposed grid",
+        "No fully composed example codepoints filled in chart-tables-handfill.md §3.3",
+        "Font may lack pre-built ligatures for arbitrary component stacks",
+        "Tone marks have no assigned component codepoints yet",
+        "Romanization keys hn/hq in handfill are coda components -n/-q"
+      ]
+    }
+  },
+  "rules_zh_full": {
+    "title": "拼寫規則",
+    "rules": [
+      {
+        "id": 1,
+        "title_zh": "一般字音",
+        "title_en": "Simple syllable (initial + final)",
+        "text_zh": "聲母符號和韻母符號拼合起來就可以表達一個字音，拼寫時聲母在上，韻母在下。",
+        "example_zh": "個(keq)：聲母 k「工」+ 韻母 eq「出」",
+        "layout": "simple"
+      },
+      {
+        "id": 2,
+        "title_zh": "含有介音的字音",
+        "title_en": "Syllable with medial",
+        "text_zh": "拼寫時聲母在上，介母在其下，韻母在介母之右。",
+        "example_zh": "鳥(tiau)：聲母 t + 介母 i + 韻母 au",
+        "layout": "with_medial"
+      },
+      {
+        "id": 3,
+        "title_zh": "聲母斤組與興組",
+        "title_en": "Implicit-i initials (斤 / 兴 groups)",
+        "text_zh": "ch(i)、c(i)、j(i) 和 sh(i)、zh(i) 視為已含介母 i，因此不用再標出介音 i。",
+        "example_zh": "向(shian)：sh + an（省略介母 i 符號）",
+        "layout": "simple",
+        "implicit_i_initials": [
+          "ch",
+          "c",
+          "j",
+          "sh",
+          "zh"
+        ]
+      },
+      {
+        "id": 4,
+        "title_zh": "表述各地方言時",
+        "title_en": "Dialectal / decomposed finals",
+        "text_zh": "aeq、oeq、eoq、ai、ei 等有專門寫法（下+右布局），同時按照介音字的方式進行拼寫。",
+        "example_zh": "襪(maeq)：m + aeq（万 + く）",
+        "layout": "compound_final",
+        "compound_finals": [
+          "aeq",
+          "oeq",
+          "eoq",
+          "ai",
+          "ei"
+        ],
+        "chart_hanzi_notation": {
+          "aeq": "万く",
+          "oeq": "寒く",
+          "eoq": "能く",
+          "ai": "兀万",
+          "ei": "工万"
+        }
+      },
+      {
+        "id": 5,
+        "title_zh": "撮口音 iu",
+        "title_en": "Rounded medial iu (no yu distinction)",
+        "text_zh": "由於目前撮口音 iu 基本上不區分尖團，所以不再單獨設立 yu 韻母；如需表記，記音為「厶𠄎」（handfill: 云+兀）。",
+        "layout": "simple",
+        "note": "Normal iu-medial syllables use medial iu (U+F531) + final; this rule is only for explicit yu marking."
+      }
+    ]
+  },
+  "layouts": {
+    "simple": {
+      "description_zh": "声母在上，韵母在下",
+      "description_en": "initial above final",
+      "slot_order": [
+        "top",
+        "bottom"
+      ],
+      "slot_roles": {
+        "top": "initial",
+        "bottom": "final"
+      }
+    },
+    "with_medial": {
+      "description_zh": "声母在上，介母在其下，韵母在介母之右",
+      "description_en": "initial top-left; medial below initial; final to the right",
+      "slot_order": [
+        "top",
+        "bottom_left",
+        "right"
+      ],
+      "slot_roles": {
+        "top": "initial",
+        "bottom_left": "medial",
+        "right": "final"
+      }
+    },
+    "compound_final": {
+      "description_zh": "韵母两部分：下+右",
+      "description_en": "final split into bottom + right parts",
+      "slot_order": [
+        "bottom",
+        "right"
+      ],
+      "slot_roles": {
+        "bottom": "final_part_1",
+        "right": "final_part_2"
+      }
+    },
+    "initial_with_compound_final": {
+      "description_zh": "声母在上；韵母用下+右拼合（无介母）",
+      "description_en": "initial on top; decomposed final below and right",
+      "slot_order": [
+        "top",
+        "bottom",
+        "right"
+      ],
+      "slot_roles": {
+        "top": "initial",
+        "bottom": "final_part_1",
+        "right": "final_part_2"
+      }
+    },
+    "with_medial_and_compound_final": {
+      "description_zh": "声母在上，介母在其下，复合韵母在右侧",
+      "description_en": "initial top; medial below; compound final on the right",
+      "slot_order": [
+        "top",
+        "bottom_left",
+        "right_bottom",
+        "right_top"
+      ],
+      "slot_roles": {
+        "top": "initial",
+        "bottom_left": "medial",
+        "right_bottom": "final_part_1",
+        "right_top": "final_part_2"
+      },
+      "note": "Inferred from rules 2+4; verify when §3.3 examples are filled."
+    }
+  },
+  "components": {
+    "initials": {
+      "ph": {
+        "codepoint": "U+F500",
+        "char": "",
+        "romanization": "ph",
+        "role": "initial"
+      },
+      "p": {
+        "codepoint": "U+F501",
+        "char": "",
+        "romanization": "p",
+        "role": "initial"
+      },
+      "b": {
+        "codepoint": "U+F502",
+        "char": "",
+        "romanization": "b",
+        "role": "initial"
+      },
+      "f": {
+        "codepoint": "U+F503",
+        "char": "",
+        "romanization": "f",
+        "role": "initial"
+      },
+      "v": {
+        "codepoint": "U+F504",
+        "char": "",
+        "romanization": "v",
+        "role": "initial"
+      },
+      "th": {
+        "codepoint": "U+F506",
+        "char": "",
+        "romanization": "th",
+        "role": "initial"
+      },
+      "t": {
+        "codepoint": "U+F507",
+        "char": "",
+        "romanization": "t",
+        "role": "initial"
+      },
+      "d": {
+        "codepoint": "U+F508",
+        "char": "",
+        "romanization": "d",
+        "role": "initial"
+      },
+      "l": {
+        "codepoint": "U+F509",
+        "char": "",
+        "romanization": "l",
+        "role": "initial"
+      },
+      "n": {
+        "codepoint": "U+F50A",
+        "char": "",
+        "romanization": "n",
+        "role": "initial"
+      },
+      "kh": {
+        "codepoint": "U+F50B",
+        "char": "",
+        "romanization": "kh",
+        "role": "initial"
+      },
+      "k": {
+        "codepoint": "U+F50C",
+        "char": "",
+        "romanization": "k",
+        "role": "initial"
+      },
+      "g": {
+        "codepoint": "U+F50D",
+        "char": "",
+        "romanization": "g",
+        "role": "initial"
+      },
+      "h": {
+        "codepoint": "U+F50E",
+        "char": "",
+        "romanization": "h",
+        "role": "initial"
+      },
+      "zero": {
+        "codepoint": "U+F50F",
+        "char": "",
+        "romanization": "zero | null",
+        "role": "initial",
+        "notes": "zero (initial); null (initial)"
+      },
+      "null": {
+        "codepoint": "U+F50F",
+        "char": "",
+        "romanization": "zero | null",
+        "role": "initial",
+        "notes": "zero (initial); null (initial)"
+      },
+      "gh": {
+        "codepoint": "U+F510",
+        "char": "",
+        "romanization": "gh",
+        "role": "initial"
+      },
+      "ng": {
+        "codepoint": "U+F511",
+        "char": "",
+        "romanization": "ng",
+        "role": "initial"
+      },
+      "ch": {
+        "codepoint": "U+F512",
+        "char": "",
+        "romanization": "ch(i)",
+        "role": "initial"
+      },
+      "c": {
+        "codepoint": "U+F513",
+        "char": "",
+        "romanization": "c(i)",
+        "role": "initial"
+      },
+      "j": {
+        "codepoint": "U+F514",
+        "char": "",
+        "romanization": "j(i)",
+        "role": "initial"
+      },
+      "sh": {
+        "codepoint": "U+F515",
+        "char": "",
+        "romanization": "sh(i)",
+        "role": "initial"
+      },
+      "zh": {
+        "codepoint": "U+F516",
+        "char": "",
+        "romanization": "zh(i)",
+        "role": "initial"
+      },
+      "tsh": {
+        "codepoint": "U+F517",
+        "char": "",
+        "romanization": "tsh",
+        "role": "initial"
+      },
+      "ts": {
+        "codepoint": "U+F518",
+        "char": "",
+        "romanization": "ts",
+        "role": "initial"
+      },
+      "dz": {
+        "codepoint": "U+F519",
+        "char": "",
+        "romanization": "dz",
+        "role": "initial"
+      },
+      "s": {
+        "codepoint": "U+F51A",
+        "char": "",
+        "romanization": "s",
+        "role": "initial"
+      },
+      "z": {
+        "codepoint": "U+F51B",
+        "char": "",
+        "romanization": "z",
+        "role": "initial"
+      },
+      "ny": {
+        "codepoint": "U+F51C",
+        "char": "",
+        "romanization": "ny",
+        "role": "initial"
+      },
+      "i": {
+        "codepoint": "U+F51D",
+        "char": "",
+        "romanization": "i",
+        "role": "initial"
+      },
+      "u": {
+        "codepoint": "U+F51E",
+        "char": "",
+        "romanization": "u",
+        "role": "initial"
+      },
+      "lh": {
+        "codepoint": "U+F51F",
+        "char": "",
+        "romanization": "lh",
+        "role": "initial"
+      },
+      "mh": {
+        "codepoint": "U+F540",
+        "char": "",
+        "romanization": "mh | m",
+        "role": "initial",
+        "notes": "mh (initial); m (initial)"
+      },
+      "m": {
+        "codepoint": "U+F540",
+        "char": "",
+        "romanization": "mh | m",
+        "role": "initial",
+        "notes": "mh (initial); m (initial)"
+      },
+      "nh": {
+        "codepoint": "U+F541",
+        "char": "",
+        "romanization": "nh",
+        "role": "initial"
+      },
+      "nk": {
+        "codepoint": "U+F542",
+        "char": "",
+        "romanization": "nk",
+        "role": "initial"
+      },
+      "nyh": {
+        "codepoint": "U+F543",
+        "char": "",
+        "romanization": "nyh",
+        "role": "initial"
+      },
+      "y": {
+        "codepoint": "U+F544",
+        "char": "",
+        "romanization": "y",
+        "role": "initial"
+      },
+      "w": {
+        "codepoint": "U+F545",
+        "char": "",
+        "romanization": "w",
+        "role": "initial"
+      }
+    },
+    "finals": {
+      "a": {
+        "codepoint": "U+F521",
+        "char": "",
+        "romanization": "a",
+        "role": "final"
+      },
+      "aq": {
+        "codepoint": "U+F522",
+        "char": "",
+        "romanization": "aq",
+        "role": "final"
+      },
+      "o": {
+        "codepoint": "U+F523",
+        "char": "",
+        "romanization": "o",
+        "role": "final"
+      },
+      "oq": {
+        "codepoint": "U+F524",
+        "char": "",
+        "romanization": "oq",
+        "role": "final"
+      },
+      "e": {
+        "codepoint": "U+F525",
+        "char": "",
+        "romanization": "e",
+        "role": "final"
+      },
+      "eq": {
+        "codepoint": "U+F526",
+        "char": "",
+        "romanization": "eq",
+        "role": "final"
+      },
+      "i": {
+        "codepoint": "U+F527",
+        "char": "",
+        "romanization": "i",
+        "role": "final | medial",
+        "notes": "i (final); i (medial)"
+      },
+      "iq": {
+        "codepoint": "U+F528",
+        "char": "",
+        "romanization": "iq",
+        "role": "final"
+      },
+      "u": {
+        "codepoint": "U+F529",
+        "char": "",
+        "romanization": "u",
+        "role": "final | medial",
+        "notes": "u (final); u (medial)"
+      },
+      "y": {
+        "codepoint": "U+F52A",
+        "char": "",
+        "romanization": "y",
+        "role": "final"
+      },
+      "ae": {
+        "codepoint": "U+F52B",
+        "char": "",
+        "romanization": "ae(n)",
+        "role": "final"
+      },
+      "ie": {
+        "codepoint": "U+F52D",
+        "char": "",
+        "romanization": "ie(n)",
+        "role": "final"
+      },
+      "au": {
+        "codepoint": "U+F52E",
+        "char": "",
+        "romanization": "au",
+        "role": "final"
+      },
+      "ou": {
+        "codepoint": "U+F52F",
+        "char": "",
+        "romanization": "ou",
+        "role": "final"
+      },
+      "eu": {
+        "codepoint": "U+F530",
+        "char": "",
+        "romanization": "eu",
+        "role": "final"
+      },
+      "iu": {
+        "codepoint": "U+F531",
+        "char": "",
+        "romanization": "iu",
+        "role": "final | medial",
+        "notes": "iu (final); iu (medial)"
+      },
+      "oe": {
+        "codepoint": "U+F532",
+        "char": "",
+        "romanization": "oe(n)",
+        "role": "final"
+      },
+      "an": {
+        "codepoint": "U+F533",
+        "char": "",
+        "romanization": "an",
+        "role": "final"
+      },
+      "on": {
+        "codepoint": "U+F534",
+        "char": "",
+        "romanization": "on",
+        "role": "final"
+      },
+      "en": {
+        "codepoint": "U+F535",
+        "char": "",
+        "romanization": "en",
+        "role": "final"
+      },
+      "in": {
+        "codepoint": "U+F536",
+        "char": "",
+        "romanization": "in",
+        "role": "final"
+      },
+      "aon": {
+        "codepoint": "U+F537",
+        "char": "",
+        "romanization": "aon",
+        "role": "final"
+      },
+      "eon": {
+        "codepoint": "U+F538",
+        "char": "",
+        "romanization": "eon",
+        "role": "final"
+      },
+      "r": {
+        "codepoint": "U+F539",
+        "char": "",
+        "romanization": "r",
+        "role": "final | medial",
+        "notes": "r (final); r (medial)"
+      },
+      "-n": {
+        "codepoint": "U+F53A",
+        "char": "",
+        "romanization": "hn",
+        "role": "final"
+      },
+      "-q": {
+        "codepoint": "U+F53B",
+        "char": "",
+        "romanization": "hq",
+        "role": "final"
+      }
+    },
+    "medials": {
+      "i": {
+        "codepoint": "U+F527",
+        "char": "",
+        "romanization": "i",
+        "role": "final | medial",
+        "notes": "i (final); i (medial)"
+      },
+      "u": {
+        "codepoint": "U+F529",
+        "char": "",
+        "romanization": "u",
+        "role": "final | medial",
+        "notes": "u (final); u (medial)"
+      },
+      "iu": {
+        "codepoint": "U+F531",
+        "char": "",
+        "romanization": "iu",
+        "role": "final | medial",
+        "notes": "iu (final); iu (medial)"
+      },
+      "r": {
+        "codepoint": "U+F539",
+        "char": "",
+        "romanization": "r",
+        "role": "final | medial",
+        "notes": "r (final); r (medial)"
+      }
+    },
+    "dual_final_medial": {
+      "i": {
+        "codepoint": "U+F527",
+        "char": "",
+        "romanization": "i",
+        "role": "final | medial",
+        "notes": "i (final); i (medial)"
+      },
+      "u": {
+        "codepoint": "U+F529",
+        "char": "",
+        "romanization": "u",
+        "role": "final | medial",
+        "notes": "u (final); u (medial)"
+      },
+      "iu": {
+        "codepoint": "U+F531",
+        "char": "",
+        "romanization": "iu",
+        "role": "final | medial",
+        "notes": "iu (final); iu (medial)"
+      },
+      "r": {
+        "codepoint": "U+F539",
+        "char": "",
+        "romanization": "r",
+        "role": "final | medial",
+        "notes": "r (final); r (medial)"
+      }
+    },
+    "romanization_aliases": {
+      "ch(i)": "ch",
+      "c(i)": "c",
+      "j(i)": "j",
+      "sh(i)": "sh",
+      "zh(i)": "zh",
+      "ae(n)": "ae",
+      "oe(n)": "oe",
+      "ie(n)": "ie",
+      "zero | null": "zero",
+      "mh | m": "mh",
+      "hn": "-n",
+      "hq": "-q"
+    },
+    "coda_keys": {
+      "-q": "hq in handfill (U+F53B, く coda)",
+      "-n": "hn in handfill (U+F53A, レ coda)"
+    }
+  },
+  "initials_order": [
+    "ph",
+    "p",
+    "b",
+    "f",
+    "v",
+    "mh",
+    "m",
+    "th",
+    "t",
+    "d",
+    "lh",
+    "l",
+    "ch",
+    "c",
+    "j",
+    "sh",
+    "zh",
+    "nh",
+    "n",
+    "tsh",
+    "ts",
+    "dz",
+    "s",
+    "z",
+    "nyh",
+    "ny",
+    "kh",
+    "k",
+    "g",
+    "h",
+    "null",
+    "gh",
+    "nk",
+    "ng",
+    "zero",
+    "i",
+    "y",
+    "u",
+    "w"
+  ],
+  "finals_order": [
+    "a",
+    "o",
+    "e",
+    "i",
+    "u",
+    "au",
+    "ou",
+    "eu",
+    "iu",
+    "aq",
+    "oq",
+    "eq",
+    "iq",
+    "ae",
+    "oe",
+    "en",
+    "ie",
+    "an",
+    "on",
+    "eon",
+    "in",
+    "y",
+    "aon",
+    "r",
+    "-q",
+    "-n"
+  ],
+  "implicit_i_initials": [
+    "ch",
+    "c",
+    "j",
+    "sh",
+    "zh"
+  ],
+  "compound_finals": {
+    "aeq": {
+      "parts": [
+        "ae",
+        "-q"
+      ],
+      "layout": "bottom_right",
+      "bottom": {
+        "codepoint": "U+F52B",
+        "char": "",
+        "romanization": "ae(n)",
+        "role": "final"
+      },
+      "right": {
+        "codepoint": "U+F53B",
+        "char": "",
+        "romanization": "hq",
+        "role": "final"
+      },
+      "complete": true
+    },
+    "oeq": {
+      "parts": [
+        "oe",
+        "-q"
+      ],
+      "layout": "bottom_right",
+      "bottom": {
+        "codepoint": "U+F532",
+        "char": "",
+        "romanization": "oe(n)",
+        "role": "final"
+      },
+      "right": {
+        "codepoint": "U+F53B",
+        "char": "",
+        "romanization": "hq",
+        "role": "final"
+      },
+      "complete": true
+    },
+    "eoq": {
+      "parts": [
+        "eon",
+        "-q"
+      ],
+      "layout": "bottom_right",
+      "bottom": {
+        "codepoint": "U+F538",
+        "char": "",
+        "romanization": "eon",
+        "role": "final"
+      },
+      "right": {
+        "codepoint": "U+F53B",
+        "char": "",
+        "romanization": "hq",
+        "role": "final"
+      },
+      "complete": true
+    },
+    "ai": {
+      "parts": [
+        "a",
+        "i"
+      ],
+      "layout": "bottom_right",
+      "bottom": {
+        "codepoint": "U+F521",
+        "char": "",
+        "romanization": "a",
+        "role": "final"
+      },
+      "right": {
+        "codepoint": "U+F527",
+        "char": "",
+        "romanization": "i",
+        "role": "final | medial",
+        "notes": "i (final); i (medial)"
+      },
+      "complete": true
+    },
+    "ei": {
+      "parts": [
+        "e",
+        "i"
+      ],
+      "layout": "bottom_right",
+      "bottom": {
+        "codepoint": "U+F525",
+        "char": "",
+        "romanization": "e",
+        "role": "final"
+      },
+      "right": {
+        "codepoint": "U+F527",
+        "char": "",
+        "romanization": "i",
+        "role": "final | medial",
+        "notes": "i (final); i (medial)"
+      },
+      "complete": true
+    }
+  },
+  "medials_meta": [
+    {
+      "key": "i",
+      "label": "齐齿呼"
+    },
+    {
+      "key": "u",
+      "label": "合口呼"
+    },
+    {
+      "key": "iu",
+      "label": "撮口呼"
+    },
+    {
+      "key": "r",
+      "label": "翘舌"
+    }
+  ],
+  "tones": [
+    {
+      "key": "ping",
+      "mark": "-"
+    },
+    {
+      "key": "shang",
+      "mark": "'"
+    },
+    {
+      "key": "qu",
+      "mark": "\\"
+    },
+    {
+      "key": "ru",
+      "mark": "<",
+      "note": "entering tone; often represented by -q final"
+    },
+    {
+      "key": "sandhi",
+      "mark": "-x"
+    },
+    {
+      "key": "sandhi-dot",
+      "mark": "-·"
+    }
+  ],
+  "compose_algorithm": {
+    "description": "Suggested parse → layout → glyph slots pipeline",
+    "steps": [
+      "Normalize romanization (lowercase; expand ae(n)→ae etc.)",
+      "If entire string matches precomposed grid (initial+final, no medial), use grid glyph",
+      "Match longest initial from initials_order",
+      "If remainder starts with medial key (iu before i) AND initial not in implicit_i_initials, consume medial",
+      "If initial in implicit_i_initials and remainder starts with i, treat i as part of palatalized onset",
+      "Match remainder as final: compound_finals keys first, else finals_order longest-first",
+      "Select layout from parse shape",
+      "Map each slot to component codepoint"
+    ],
+    "medial_detection_order": [
+      "iu",
+      "i",
+      "u",
+      "r"
+    ],
+    "prefer_precomposed_grid_when": "no explicit medial AND final is not compound AND grid cell exists"
+  },
+  "examples": [
+    {
+      "romanization": "keq",
+      "hanzi": "個",
+      "rule": 1,
+      "parse": {
+        "initial": "k",
+        "final": "eq"
+      },
+      "layout": "simple",
+      "slots": {
+        "top": {
+          "codepoint": "U+F50C",
+          "char": "",
+          "romanization": "k",
+          "role": "initial"
+        },
+        "bottom": {
+          "codepoint": "U+F526",
+          "char": "",
+          "romanization": "eq",
+          "role": "final"
+        }
+      },
+      "ready": true
+    },
+    {
+      "romanization": "tiau",
+      "hanzi": "鳥",
+      "rule": 2,
+      "parse": {
+        "initial": "t",
+        "medial": "i",
+        "final": "au"
+      },
+      "layout": "with_medial",
+      "slots": {
+        "top": {
+          "codepoint": "U+F507",
+          "char": "",
+          "romanization": "t",
+          "role": "initial"
+        },
+        "bottom_left": {
+          "codepoint": "U+F527",
+          "char": "",
+          "romanization": "i",
+          "role": "final | medial",
+          "notes": "i (final); i (medial)"
+        },
+        "right": {
+          "codepoint": "U+F52E",
+          "char": "",
+          "romanization": "au",
+          "role": "final"
+        }
+      },
+      "ready": true
+    },
+    {
+      "romanization": "shian",
+      "hanzi": "向",
+      "rule": 3,
+      "parse": {
+        "initial": "sh",
+        "medial": null,
+        "medial_phonemic": "i",
+        "final": "an"
+      },
+      "layout": "simple",
+      "note": "sh contains implicit i; do not render i medial glyph",
+      "slots": {
+        "top": {
+          "codepoint": "U+F515",
+          "char": "",
+          "romanization": "sh(i)",
+          "role": "initial"
+        },
+        "bottom": {
+          "codepoint": "U+F533",
+          "char": "",
+          "romanization": "an",
+          "role": "final"
+        }
+      },
+      "ready": true
+    },
+    {
+      "romanization": "maeq",
+      "hanzi": "襪",
+      "rule": 4,
+      "parse": {
+        "initial": "m",
+        "final": "aeq",
+        "final_decomposition": [
+          "ae",
+          "-q"
+        ]
+      },
+      "layout": "initial_with_compound_final",
+      "slots": {
+        "top": {
+          "codepoint": "U+F540",
+          "char": "",
+          "romanization": "mh | m",
+          "role": "initial",
+          "notes": "mh (initial); m (initial)"
+        },
+        "bottom": {
+          "codepoint": "U+F52B",
+          "char": "",
+          "romanization": "ae(n)",
+          "role": "final"
+        },
+        "right": {
+          "codepoint": "U+F53B",
+          "char": "",
+          "romanization": "hq",
+          "role": "final"
+        }
+      },
+      "ready": true
+    },
+    {
+      "romanization": "yu",
+      "hanzi": null,
+      "rule": 5,
+      "parse": {
+        "note": "Optional explicit yu marking when 尖團 distinction is needed",
+        "components_phonemic": [
+          "y",
+          "i"
+        ]
+      },
+      "layout": "simple",
+      "chart_notation": "厶𠄎",
+      "handfill_notation": "云+兀",
+      "slots": {
+        "top": {
+          "codepoint": "U+F52A",
+          "char": "",
+          "romanization": "y",
+          "role": "final"
+        },
+        "bottom": {
+          "codepoint": "U+F527",
+          "char": "",
+          "romanization": "i",
+          "role": "final | medial",
+          "notes": "i (final); i (medial)"
+        }
+      },
+      "ready": true
+    }
+  ]
+}
