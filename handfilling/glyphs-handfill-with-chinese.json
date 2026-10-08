@@ -15,7 +15,8 @@
       "U+F531",
       "U+F539",
       "U+F540"
-    ]
+    ],
+    "note": "Hand-edited source of truth. Edit glyphs and chart here; run scripts/build.py to regenerate mapping/goetsusioji.json."
   },
   "glyphs": {
     "U+F021": {
@@ -6144,14 +6145,14 @@
     "U+F503": {
       "char": "",
       "romanization": "f",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "弗",
       "visually similar orthography": "",
       "role": "initial"
     },
     "U+F504": {
       "char": "",
       "romanization": "v",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "弗ﾞ",
       "visually similar orthography": "",
       "role": "initial"
     },
@@ -6164,70 +6165,70 @@
     "U+F506": {
       "char": "",
       "romanization": "th",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "刀ﾟ",
       "visually similar orthography": "",
       "role": "initial"
     },
     "U+F507": {
       "char": "",
       "romanization": "t",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "刀",
       "visually similar orthography": "",
       "role": "initial"
     },
     "U+F508": {
       "char": "",
       "romanization": "d",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "刀ﾞ",
       "visually similar orthography": "",
       "role": "initial"
     },
     "U+F509": {
       "char": "",
       "romanization": "l",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "力",
       "visually similar orthography": "",
       "role": "initial"
     },
     "U+F50A": {
       "char": "",
       "romanization": "n",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "拿",
       "visually similar orthography": "",
       "role": "initial"
     },
     "U+F50B": {
       "char": "",
       "romanization": "kh",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "工ﾟ",
       "visually similar orthography": "",
       "role": "initial"
     },
     "U+F50C": {
       "char": "",
       "romanization": "k",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "工",
       "visually similar orthography": "",
       "role": "initial"
     },
     "U+F50D": {
       "char": "",
       "romanization": "g",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "工ﾞ",
       "visually similar orthography": "",
       "role": "initial"
     },
     "U+F50E": {
       "char": "",
       "romanization": "h",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "奧ﾟ",
       "visually similar orthography": "",
       "role": "initial"
     },
     "U+F50F": {
       "char": "",
       "romanization": "zero | null",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "奧",
       "visually similar orthography": "",
       "role": "initial",
       "notes": "zero (initial); null (initial)"
@@ -6235,112 +6236,112 @@
     "U+F510": {
       "char": "",
       "romanization": "gh",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "奧ﾞ",
       "visually similar orthography": "",
       "role": "initial"
     },
     "U+F511": {
       "char": "",
       "romanization": "ng",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "午",
       "visually similar orthography": "",
       "role": "initial"
     },
     "U+F512": {
       "char": "",
       "romanization": "ch(i)",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "斤ﾟ",
       "visually similar orthography": "",
       "role": "initial"
     },
     "U+F513": {
       "char": "",
       "romanization": "c(i)",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "斤",
       "visually similar orthography": "",
       "role": "initial"
     },
     "U+F514": {
       "char": "",
       "romanization": "j(i)",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "斤ﾞ",
       "visually similar orthography": "",
       "role": "initial"
     },
     "U+F515": {
       "char": "",
       "romanization": "sh(i)",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "兴",
       "visually similar orthography": "",
       "role": "initial"
     },
     "U+F516": {
       "char": "",
       "romanization": "zh(i)",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "兴ﾞ",
       "visually similar orthography": "",
       "role": "initial"
     },
     "U+F517": {
       "char": "",
       "romanization": "tsh",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "子ﾟ",
       "visually similar orthography": "",
       "role": "initial"
     },
     "U+F518": {
       "char": "",
       "romanization": "ts",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "子",
       "visually similar orthography": "",
       "role": "initial"
     },
     "U+F519": {
       "char": "",
       "romanization": "dz",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "子ﾞ",
       "visually similar orthography": "",
       "role": "initial"
     },
     "U+F51A": {
       "char": "",
       "romanization": "s",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "式",
       "visually similar orthography": "",
       "role": "initial"
     },
     "U+F51B": {
       "char": "",
       "romanization": "z",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "式ﾞ",
       "visually similar orthography": "",
       "role": "initial"
     },
     "U+F51C": {
       "char": "",
       "romanization": "ny",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "女",
       "visually similar orthography": "",
       "role": "initial"
     },
     "U+F51D": {
       "char": "",
       "romanization": "i",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "云",
       "visually similar orthography": "",
       "role": "initial"
     },
     "U+F51E": {
       "char": "",
       "romanization": "u",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "危",
       "visually similar orthography": "",
       "role": "initial"
     },
     "U+F51F": {
       "char": "",
       "romanization": "lh",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "力ﾟ",
       "visually similar orthography": "",
       "role": "initial"
     },
@@ -6353,49 +6354,49 @@
     "U+F521": {
       "char": "",
       "romanization": "a",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "派",
       "visually similar orthography": "",
       "role": "final"
     },
     "U+F522": {
       "char": "",
       "romanization": "aq",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "乏",
       "visually similar orthography": "",
       "role": "final"
     },
     "U+F523": {
       "char": "",
       "romanization": "o",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "瓦",
       "visually similar orthography": "",
       "role": "final"
     },
     "U+F524": {
       "char": "",
       "romanization": "oq",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "昱",
       "visually similar orthography": "",
       "role": "final"
     },
     "U+F525": {
       "char": "",
       "romanization": "e",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "卑",
       "visually similar orthography": "",
       "role": "final"
     },
     "U+F526": {
       "char": "",
       "romanization": "eq",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "出",
       "visually similar orthography": "",
       "role": "final"
     },
     "U+F527": {
       "char": "",
       "romanization": "i",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "以",
       "visually similar orthography": "",
       "role": "final | medial",
       "notes": "i (final); i (medial)"
@@ -6403,14 +6404,14 @@
     "U+F528": {
       "char": "",
       "romanization": "iq",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "亦",
       "visually similar orthography": "",
       "role": "final"
     },
     "U+F529": {
       "char": "",
       "romanization": "u",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "无",
       "visually similar orthography": "",
       "role": "final | medial",
       "notes": "u (final); u (medial)"
@@ -6418,14 +6419,14 @@
     "U+F52A": {
       "char": "",
       "romanization": "y",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "厶",
       "visually similar orthography": "",
       "role": "final"
     },
     "U+F52B": {
       "char": "",
       "romanization": "ae(n)",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "万",
       "visually similar orthography": "",
       "role": "final"
     },
@@ -6438,35 +6439,35 @@
     "U+F52D": {
       "char": "",
       "romanization": "ie(n)",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "建",
       "visually similar orthography": "",
       "role": "final"
     },
     "U+F52E": {
       "char": "",
       "romanization": "au",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "号",
       "visually similar orthography": "",
       "role": "final"
     },
     "U+F52F": {
       "char": "",
       "romanization": "ou",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "多",
       "visually similar orthography": "",
       "role": "final"
     },
     "U+F530": {
       "char": "",
       "romanization": "eu",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "久",
       "visually similar orthography": "",
       "role": "final"
     },
     "U+F531": {
       "char": "",
       "romanization": "iu",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "雨",
       "visually similar orthography": "",
       "role": "final | medial",
       "notes": "iu (final); iu (medial)"
@@ -6474,56 +6475,56 @@
     "U+F532": {
       "char": "",
       "romanization": "oe(n)",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "寒",
       "visually similar orthography": "",
       "role": "final"
     },
     "U+F533": {
       "char": "",
       "romanization": "an",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "良",
       "visually similar orthography": "",
       "role": "final"
     },
     "U+F534": {
       "char": "",
       "romanization": "on",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "从",
       "visually similar orthography": "",
       "role": "final"
     },
     "U+F535": {
       "char": "",
       "romanization": "en",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "文",
       "visually similar orthography": "",
       "role": "final"
     },
     "U+F536": {
       "char": "",
       "romanization": "in",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "刃",
       "visually similar orthography": "",
       "role": "final"
     },
     "U+F537": {
       "char": "",
       "romanization": "aon",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "亡",
       "visually similar orthography": "",
       "role": "final"
     },
     "U+F538": {
       "char": "",
       "romanization": "eon",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "能",
       "visually similar orthography": "",
       "role": "final"
     },
     "U+F539": {
       "char": "",
       "romanization": "r",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "而",
       "visually similar orthography": "",
       "role": "final | medial",
       "notes": "r (final); r (medial)"
@@ -6531,14 +6532,14 @@
     "U+F53A": {
       "char": "",
       "romanization": "hn",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "レ",
       "visually similar orthography": "",
       "role": "final"
     },
     "U+F53B": {
       "char": "",
       "romanization": "hq",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "く",
       "visually similar orthography": "",
       "role": "final"
     },
@@ -6557,7 +6558,7 @@
     "U+F540": {
       "char": "",
       "romanization": "mh | m",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "矛ﾟ",
       "visually similar orthography": "",
       "role": "initial",
       "notes": "mh (initial); m (initial)"
@@ -6565,37 +6566,494 @@
     "U+F541": {
       "char": "",
       "romanization": "nh",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "拿ﾟ",
       "visually similar orthography": "",
       "role": "initial"
     },
     "U+F542": {
       "char": "",
       "romanization": "nk",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "午ﾟ",
       "visually similar orthography": "",
       "role": "initial"
     },
     "U+F543": {
       "char": "",
       "romanization": "nyh",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "女ﾟ",
       "visually similar orthography": "",
       "role": "initial"
     },
     "U+F544": {
       "char": "",
       "romanization": "y",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "云",
       "visually similar orthography": "",
       "role": "initial"
     },
     "U+F545": {
       "char": "",
       "romanization": "w",
-      "chinese character only orthography": "",
+      "chinese character only orthography": "危",
       "visually similar orthography": "",
       "role": "initial"
+    }
+  },
+  "chart": {
+    "meta": {
+      "source": "pics/1.png, pics/2.png, pics/3.png",
+      "description": "Wu Xiaozi (Goetsuese) phoneme tables and spelling rules from the reference charts"
+    },
+    "initials": [
+      {
+        "key": "ph",
+        "group": "兵",
+        "note": "aspirated p"
+      },
+      {
+        "key": "p",
+        "group": "兵",
+        "note": "voiceless p"
+      },
+      {
+        "key": "b",
+        "group": "兵",
+        "note": "voiced p"
+      },
+      {
+        "key": "f",
+        "group": "弗",
+        "note": "voiceless f"
+      },
+      {
+        "key": "v",
+        "group": "弗",
+        "note": "voiced f"
+      },
+      {
+        "key": "mh",
+        "group": "矛",
+        "note": "yin m"
+      },
+      {
+        "key": "m",
+        "group": "矛",
+        "note": "voiced m"
+      },
+      {
+        "key": "th",
+        "group": "刀",
+        "note": "aspirated t"
+      },
+      {
+        "key": "t",
+        "group": "刀",
+        "note": "voiceless t"
+      },
+      {
+        "key": "d",
+        "group": "刀",
+        "note": "voiced t"
+      },
+      {
+        "key": "lh",
+        "group": "力",
+        "note": "yin l"
+      },
+      {
+        "key": "l",
+        "group": "力",
+        "note": "voiced l"
+      },
+      {
+        "key": "ch",
+        "group": "斤",
+        "note": "aspirated c(i), implicit i"
+      },
+      {
+        "key": "c",
+        "group": "斤",
+        "note": "voiceless c(i)"
+      },
+      {
+        "key": "j",
+        "group": "斤",
+        "note": "voiced c(i)"
+      },
+      {
+        "key": "sh",
+        "group": "兴",
+        "note": "voiceless sh(i)"
+      },
+      {
+        "key": "zh",
+        "group": "兴",
+        "note": "voiced sh(i)"
+      },
+      {
+        "key": "nh",
+        "group": "拿",
+        "note": "yin n"
+      },
+      {
+        "key": "n",
+        "group": "拿",
+        "note": "voiced n"
+      },
+      {
+        "key": "tsh",
+        "group": "子",
+        "note": "aspirated ts"
+      },
+      {
+        "key": "ts",
+        "group": "子",
+        "note": "voiceless ts"
+      },
+      {
+        "key": "dz",
+        "group": "子",
+        "note": "voiced ts"
+      },
+      {
+        "key": "s",
+        "group": "式",
+        "note": "voiceless s"
+      },
+      {
+        "key": "z",
+        "group": "式",
+        "note": "voiced s"
+      },
+      {
+        "key": "nyh",
+        "group": "女",
+        "note": "yin ny"
+      },
+      {
+        "key": "ny",
+        "group": "女",
+        "note": "voiced ny"
+      },
+      {
+        "key": "kh",
+        "group": "工",
+        "note": "aspirated k"
+      },
+      {
+        "key": "k",
+        "group": "工",
+        "note": "voiceless k"
+      },
+      {
+        "key": "g",
+        "group": "工",
+        "note": "voiced k"
+      },
+      {
+        "key": "h",
+        "group": "奥",
+        "note": "voiceless h"
+      },
+      {
+        "key": "null",
+        "group": "奥",
+        "note": "zero onset before vowel"
+      },
+      {
+        "key": "gh",
+        "group": "奥",
+        "note": "voiced h"
+      },
+      {
+        "key": "nk",
+        "group": "午",
+        "note": "yin ng"
+      },
+      {
+        "key": "ng",
+        "group": "午",
+        "note": "voiced ng"
+      },
+      {
+        "key": "zero",
+        "group": "零聲母",
+        "note": "zero initial marker"
+      },
+      {
+        "key": "i",
+        "group": "云",
+        "note": "glide i / y onset"
+      },
+      {
+        "key": "y",
+        "group": "云",
+        "note": "voiced i onset"
+      },
+      {
+        "key": "u",
+        "group": "危",
+        "note": "glide u / w onset"
+      },
+      {
+        "key": "w",
+        "group": "危",
+        "note": "voiced u onset"
+      }
+    ],
+    "finals": [
+      {
+        "key": "a",
+        "note": "basic"
+      },
+      {
+        "key": "o",
+        "note": "basic"
+      },
+      {
+        "key": "e",
+        "note": "basic"
+      },
+      {
+        "key": "i",
+        "note": "basic"
+      },
+      {
+        "key": "u",
+        "note": "basic"
+      },
+      {
+        "key": "au",
+        "note": "diphthong"
+      },
+      {
+        "key": "ou",
+        "note": "diphthong"
+      },
+      {
+        "key": "eu",
+        "note": "diphthong"
+      },
+      {
+        "key": "iu",
+        "note": "diphthong"
+      },
+      {
+        "key": "aq",
+        "note": "checked"
+      },
+      {
+        "key": "oq",
+        "note": "checked"
+      },
+      {
+        "key": "eq",
+        "note": "checked"
+      },
+      {
+        "key": "iq",
+        "note": "checked"
+      },
+      {
+        "key": "ae",
+        "note": "ae(n) in chart"
+      },
+      {
+        "key": "oe",
+        "note": "oe(n) in chart"
+      },
+      {
+        "key": "en",
+        "note": "nasal"
+      },
+      {
+        "key": "ie",
+        "note": "ie(n) in chart"
+      },
+      {
+        "key": "an",
+        "note": "nasal"
+      },
+      {
+        "key": "on",
+        "note": "nasal"
+      },
+      {
+        "key": "eon",
+        "note": "nasal"
+      },
+      {
+        "key": "in",
+        "note": "nasal"
+      },
+      {
+        "key": "y",
+        "note": "null final / syllabic"
+      },
+      {
+        "key": "aon",
+        "note": "nasal diphthong"
+      },
+      {
+        "key": "r",
+        "note": "loanword l/r coda"
+      }
+    ],
+    "codas": [
+      {
+        "key": "-q",
+        "han": "く",
+        "note": "促化/塞韻尾; appended after a syllable (後加)"
+      },
+      {
+        "key": "-n",
+        "han": "レ",
+        "note": "兒化/鼻韻尾; appended after a syllable (後加)"
+      }
+    ],
+    "medials": [
+      {
+        "key": "i",
+        "label": "齊齒呼",
+        "han": "以"
+      },
+      {
+        "key": "u",
+        "label": "合口呼",
+        "han": "无"
+      },
+      {
+        "key": "iu",
+        "label": "撮口呼",
+        "han": "雨"
+      },
+      {
+        "key": "r",
+        "label": "翹舌",
+        "han": "而"
+      }
+    ],
+    "tones": [
+      {
+        "key": "ping",
+        "category": "平",
+        "mark": "-",
+        "note": "level; often unmarked"
+      },
+      {
+        "key": "shang",
+        "category": "上",
+        "mark": "'",
+        "note": "rising"
+      },
+      {
+        "key": "qu",
+        "category": "去",
+        "mark": "`",
+        "note": "departing"
+      },
+      {
+        "key": "ru",
+        "category": "入",
+        "mark": "-q",
+        "note": "entering; expressed via checked final / coda"
+      },
+      {
+        "key": "sandhi",
+        "category": "变调",
+        "mark": "-x",
+        "note": "sandhi; glyph U+F03C (へ) tentatively"
+      },
+      {
+        "key": "sandhi-dot",
+        "category": "变调",
+        "mark": "-·",
+        "note": "sandhi middle dot; glyph U+F03D (ケ) tentatively"
+      }
+    ],
+    "implicit_i_initials": [
+      "ch",
+      "c",
+      "j",
+      "sh",
+      "zh"
+    ],
+    "compound_finals": {
+      "aeq": [
+        "ae",
+        "-q"
+      ],
+      "oeq": [
+        "oe",
+        "-q"
+      ],
+      "eoq": [
+        "eon",
+        "-q"
+      ],
+      "ai": [
+        "a",
+        "i"
+      ],
+      "ei": [
+        "e",
+        "i"
+      ]
+    },
+    "coda_attachments": {
+      "aoq": [
+        "aon",
+        "-q"
+      ],
+      "iuq": [
+        "iu",
+        "-q"
+      ]
+    },
+    "grammar_markers": [
+      {
+        "key": "tsy",
+        "note": "adverbializer suffix; annotated on ngven.org and in Untitled.rtf as U+F3CA",
+        "codepoint": "U+F3CA"
+      }
+    ],
+    "decisions": {
+      "fricative_han_diacritic": {
+        "decision": "handfill_convention",
+        "detail": "Chart 1 draws ゜ on Goetsu glyphs for f/s/sh/h. Han progenitor spellings keep unmarked 弗/式/兴 for f/s/sh; h uses 奧ﾟ. Do not rewrite Han to match glyph diacritics."
+      },
+      "final_y_han": {
+        "decision": "厶",
+        "detail": "Chart 2 labels y as 私(空韻); Han spelling uses glyph-shape 厶 (handfill)."
+      },
+      "aoq": {
+        "decision": "aon + -q",
+        "detail": "Chart 2 example writes aoq as aon-glyph + く (後加), not a+o+-q."
+      },
+      "eoq": {
+        "decision": "eon + -q",
+        "detail": "Chart 3 / manifest: eoq = eon + く."
+      },
+      "yu_rule5": {
+        "decision": "grid_yu_or_y+u",
+        "detail": "No separate yu final in normal use (use medial iu). When marked explicitly, prefer grid syllable yu (U+F4A9, Han 云无) as y-initial + u-final; do not invent CSS stacking."
+      },
+      "shian": {
+        "decision": "shan_grid_block",
+        "detail": "Rule 3: shian is written as the shan head block (no separate i). Alias shan → shian for lookup."
+      },
+      "U+F03C_U+F03D": {
+        "decision": "tentative_sandhi_marks",
+        "detail": "Header slots carry Han へ / ケ with empty romanization; treated as tentative sandhi mark glyphs for -x / -·. Not used in syllable goetsu."
+      },
+      "beside_block_glyph": {
+        "decision": "header_row",
+        "detail": "Finals/codas placed beside a head block use header-row glyphs U+F021–U+F03B (e.g. au=U+F02E, -q=U+F03B), not U+F5xx component pieces."
+      },
+      "empty_grid_column": {
+        "decision": "intentionally_unused",
+        "detail": "Empty romanization slots are unused chart cells (notably col 0x0C and sparse empties). Not mapped to syllables."
+      }
     }
   }
 }

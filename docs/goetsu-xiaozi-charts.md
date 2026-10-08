@@ -16,18 +16,19 @@ Faithful, maximal-detail readable replica of the three reference charts.
 - **Chinese origin** is the chart’s example / group Han character (what the red glyph is derived from).
 - **Codepoint** is the mapped PUA slot in [`handfilling/glyphs-handfill-with-chinese.json`](../handfilling/glyphs-handfill-with-chinese.json).
   Chart-1 initials/finals prefer `U+F500`… where available; syllable-grid duplicates may also exist.
-- This file is a **human-readable chart**. Curated data stays in `handfilling/`;
-  generated Chinese *hints* live in `derived/` (see [`derived/README.md`](../derived/README.md)).
-- Hand-fill worksheet (incomplete placeholders): [`data/chart-tables-handfill.md`](../data/chart-tables-handfill.md).
+- This file is a **human-readable chart**. Hand-edited source: `handfilling/`.
+  Canonical typer table: [`mapping/goetsusioji.json`](../mapping/goetsusioji.json) (from `python3 scripts/build.py`).
+- **Siauzy** is always canonical font glyphs (never CSS-stacked).
+  **Han** is the progenitor-hanzi spelling (man'yōgana-style teaching layer).
 
-### Chart vs Chinese-hint conventions
+### Chart vs Han-spelling conventions
 
-| Topic | On these charts | In handfill / `derived` Chinese hints |
+| Topic | On these charts | In Han spelling |
 | --- | --- | --- |
 | Final `y` | **私（空韻）** | **厶** |
 | Final `oq` | **昱** | **昱** |
-| Fricatives `f` / `s` / `sh` | Pic 1 draws **゜** on the Goetsu glyphs | Hints use unmarked 弗 / 式 / 兴 |
-| `h` | **゜** on glyph | Hint 奧ﾟ |
+| Fricatives `f` / `s` / `sh` | Pic 1 draws **゜** on the Goetsu glyphs | Unmarked 弗 / 式 / 兴 |
+| `h` | **゜** on glyph | 奧ﾟ |
 
 ---
 
@@ -257,9 +258,9 @@ Each cell on the chart: **romanization** (top-left) · **Goetsu glyph** (red) ·
 
 聲母在上，韻母在下。
 
-| Syllable | Chart Han | Composed Goetsu | Codepoint | Decomposition |
-| --- | --- | --- | --- | --- |
-| `keq` | 個 |  | `U+F226` | k + eq |
+| Syllable | Chart Han | Siauzy | Codepoint(s) | Han spelling | Decomposition |
+| --- | --- | --- | --- | --- | --- |
+| `keq` | 個 |  | `U+F226` | 工出 | k + eq |
 
 Component glyphs: `k`= (`U+F50C`); `eq`= (`U+F526`)
 
@@ -267,9 +268,9 @@ Component glyphs: `k`= (`U+F50C`); `eq`= (`U+F526`)
 
 聲母在上；介母在聲母之下；韻母在介母之右。
 
-| Syllable | Chart Han | Composed Goetsu | Codepoint | Decomposition |
-| --- | --- | --- | --- | --- |
-| `tiau` | 鳥 | *(no single fused PUA glyph in export)* | — | t + i + au |
+| Syllable | Chart Han | Siauzy | Codepoint(s) | Han spelling | Decomposition |
+| --- | --- | --- | --- | --- | --- |
+| `tiau` | 鳥 |  | `U+F147`, `U+F02E` | 刀以号 | ti head + au beside |
 
 Component glyphs: `t`= (`U+F507`); `i`= (`U+F51D`); `au`= (`U+F52E`)
 
@@ -277,9 +278,9 @@ Component glyphs: `t`= (`U+F507`); `i`= (`U+F51D`); `au`= (`U+F52E`)
 
 斤組、兴組聲母視為已含介母 i，不再另寫介母「以」。
 
-| Syllable | Chart Han | Composed Goetsu | Codepoint | Decomposition |
-| --- | --- | --- | --- | --- |
-| `shian` | 向 | *(no single fused PUA glyph in export)* | — | sh + an (no i medial) |
+| Syllable | Chart Han | Siauzy | Codepoint(s) | Han spelling | Decomposition |
+| --- | --- | --- | --- | --- | --- |
+| `shian` | 向 |  | `U+F373` | 兴良 | shan head block (alias shan→shian) |
 
 Component glyphs: `sh(i)`= (`U+F515`); `an`= (`U+F533`)
 
@@ -288,18 +289,22 @@ Component glyphs: `sh(i)`= (`U+F515`); `an`= (`U+F533`)
 地方韻母可用「下 + 右」拼合（與介母布局類似）。
 Chart notes forms such as aeq、oeq、eoq 與 ai、ei。
 
-| Syllable | Chart Han | Composed Goetsu | Codepoint | Notes |
-| --- | --- | --- | --- | --- |
-| `maeq` | 襪 | *(no single fused PUA glyph in export)* | — | dialectal aeq under m |
-| `aeq` | — | *(no single fused PUA glyph in export)* | — | 万-family + -q |
-| `oeq` | — | *(no single fused PUA glyph in export)* | — | dialectal |
-| `eoq` | — | *(no single fused PUA glyph in export)* | — | dialectal |
-| `ai` | — | *(no single fused PUA glyph in export)* | — | dialectal |
-| `ei` | — | *(no single fused PUA glyph in export)* | — | dialectal |
+| Syllable | Chart Han | Siauzy | Codepoint(s) | Han spelling | Notes |
+| --- | --- | --- | --- | --- | --- |
+| `maeq` | 襪 |  | `U+F0EB`, `U+F03B` | 矛万く | mae head + -q beside |
+| `aeq` | — |  | `U+F28B`, `U+F03B` | 奧万く | ae + -q |
+| `oeq` | — |  | `U+F292`, `U+F03B` | 奧寒く | oe + -q |
+| `eoq` | — |  | `U+F298`, `U+F03B` | 奧能く | eon + -q |
+| `ai` | — |  | `U+F281`, `U+F027` | 奧派以 | a + i |
+| `ei` | — |  | `U+F285`, `U+F027` | 奧卑以 | e + i |
 
 ### 5. 撮口介母 iu
 
-撮口介母 iu 一般不另立 yu 韻；尖團多已合流。需要時可記作雲類與合口介母的組合。
+撮口介母 iu 一般不另立 yu 韻；尖團多已合流。需要時用 grid `yu`（y+u）。
+
+| Syllable | Chart Han | Siauzy | Codepoint(s) | Han spelling | Notes |
+| --- | --- | --- | --- | --- | --- |
+| `yu` | — |  | `U+F4A9` | 云无 | y-initial + u-final grid block |
 
 Medial `iu` glyph: `iu`= (`U+F531`)
 
@@ -307,10 +312,12 @@ Medial `iu` glyph: `iu`= (`U+F531`)
 
 ## Maintenance
 
-Regenerate this file:
+Regenerate the canonical mapping, then this file:
 
 ```bash
+python3 scripts/build.py
 python3 scripts/export_chart_reference_md.py
 ```
 
-Glyphs are pulled from `handfilling/glyphs-handfill-with-chinese.json` at export time.
+Glyphs come from `handfilling/glyphs-handfill-with-chinese.json`;
+rule examples pull Siauzy/Han from `mapping/goetsusioji.json`.

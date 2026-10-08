@@ -12,12 +12,20 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 HANDFILL = ROOT / "handfilling" / "glyphs-handfill-with-chinese.json"
+MAPPING = ROOT / "mapping" / "goetsusioji.json"
 OUTPUT = ROOT / "docs" / "goetsu-xiaozi-charts.md"
 
 
 def load_glyphs() -> dict[str, dict]:
     with HANDFILL.open(encoding="utf-8") as f:
         return json.load(f)["glyphs"]
+
+
+def load_mapping() -> dict:
+    if not MAPPING.exists():
+        return {}
+    with MAPPING.open(encoding="utf-8") as f:
+        return json.load(f)
 
 
 def index_by_rom(glyphs: dict[str, dict]) -> dict[str, list[tuple[str, dict]]]:
@@ -136,18 +144,19 @@ def build_md(glyphs: dict[str, dict]) -> str:
             "- **Chinese origin** is the chart’s example / group Han character (what the red glyph is derived from).",
             "- **Codepoint** is the mapped PUA slot in [`handfilling/glyphs-handfill-with-chinese.json`](../handfilling/glyphs-handfill-with-chinese.json).",
             "  Chart-1 initials/finals prefer `U+F500`… where available; syllable-grid duplicates may also exist.",
-            "- This file is a **human-readable chart**. Curated data stays in `handfilling/`;",
-            "  generated Chinese *hints* live in `derived/` (see [`derived/README.md`](../derived/README.md)).",
-            "- Hand-fill worksheet (incomplete placeholders): [`data/chart-tables-handfill.md`](../data/chart-tables-handfill.md).",
+            "- This file is a **human-readable chart**. Hand-edited source: `handfilling/`.",
+            "  Canonical typer table: [`mapping/goetsusioji.json`](../mapping/goetsusioji.json) (from `python3 scripts/build.py`).",
+            "- **Siauzy** is always canonical font glyphs (never CSS-stacked).",
+            "  **Han** is the progenitor-hanzi spelling (man'yōgana-style teaching layer).",
             "",
-            "### Chart vs Chinese-hint conventions",
+            "### Chart vs Han-spelling conventions",
             "",
-            "| Topic | On these charts | In handfill / `derived` Chinese hints |",
+            "| Topic | On these charts | In Han spelling |",
             "| --- | --- | --- |",
             "| Final `y` | **私（空韻）** | **厶** |",
             "| Final `oq` | **昱** | **昱** |",
-            "| Fricatives `f` / `s` / `sh` | Pic 1 draws **゜** on the Goetsu glyphs | Hints use unmarked 弗 / 式 / 兴 |",
-            "| `h` | **゜** on glyph | Hint 奧ﾟ |",
+            "| Fricatives `f` / `s` / `sh` | Pic 1 draws **゜** on the Goetsu glyphs | Unmarked 弗 / 式 / 兴 |",
+            "| `h` | **゜** on glyph | 奧ﾟ |",
             "",
             "---",
             "",
@@ -509,21 +518,32 @@ def build_md(glyphs: dict[str, dict]) -> str:
             "",
             "聲母在上，韻母在下。",
             "",
-            "| Syllable | Chart Han | Composed Goetsu | Codepoint | Decomposition |",
-            "| --- | --- | --- | --- | --- |",
+            "| Syllable | Chart Han | Siauzy | Codepoint(s) | Han spelling | Decomposition |",
+            "| --- | --- | --- | --- | --- | --- |",
         ]
     )
 
-    def composed_row(syll: str, han: str, decomp: str) -> str:
-        got = pick(by_rom, syll)
-        if got:
-            cp, char = got
-            return f"| `{syll}` | {han} | {char} | `{cp}` | {decomp} |"
+    mapping = load_mapping()
+    syllables = mapping.get("syllables") or {}
+    aliases = mapping.get("aliases") or {}
+
+    def composed_row(syll: str, chart_han: str, decomp: str) -> str:
+        key = aliases.get(syll, syll)
+        entry = syllables.get(key)
+        if entry and entry.get("goetsu"):
+            blocks = entry.get("blocks") or []
+            cps = ", ".join(f"`{b['codepoint']}`" for b in blocks) or "—"
+            han = entry.get("han") or "—"
+            return (
+                f"| `{syll}` | {chart_han} | {entry['goetsu']} | {cps} | "
+                f"{han} | {decomp} |"
+            )
+        missing = (entry or {}).get("missing") or "not in mapping"
         return (
-            f"| `{syll}` | {han} | *(no single fused PUA glyph in export)* | — | {decomp} |"
+            f"| `{syll}` | {chart_han} | — | — | "
+            f"{(entry or {}).get('han') or '—'} | {decomp} ({missing}) |"
         )
 
-    # Fix composed_row - pick returns tuple[str,str]
     lines.append(composed_row("keq", "個", "k + eq"))
 
     # component lookup for decomposition display
@@ -548,9 +568,9 @@ def build_md(glyphs: dict[str, dict]) -> str:
             "",
             "聲母在上；介母在聲母之下；韻母在介母之右。",
             "",
-            "| Syllable | Chart Han | Composed Goetsu | Codepoint | Decomposition |",
-            "| --- | --- | --- | --- | --- |",
-            composed_row("tiau", "鳥", "t + i + au"),
+            "| Syllable | Chart Han | Siauzy | Codepoint(s) | Han spelling | Decomposition |",
+            "| --- | --- | --- | --- | --- | --- |",
+            composed_row("tiau", "鳥", "ti head + au beside"),
             "",
             f"Component glyphs: {show_parts('t', 'i', 'au')}",
             "",
@@ -558,9 +578,9 @@ def build_md(glyphs: dict[str, dict]) -> str:
             "",
             "斤組、兴組聲母視為已含介母 i，不再另寫介母「以」。",
             "",
-            "| Syllable | Chart Han | Composed Goetsu | Codepoint | Decomposition |",
-            "| --- | --- | --- | --- | --- |",
-            composed_row("shian", "向", "sh + an (no i medial)"),
+            "| Syllable | Chart Han | Siauzy | Codepoint(s) | Han spelling | Decomposition |",
+            "| --- | --- | --- | --- | --- | --- |",
+            composed_row("shian", "向", "shan head block (alias shan→shian)"),
             "",
             f"Component glyphs: {show_parts('sh(i)', 'an')}",
             "",
@@ -569,18 +589,22 @@ def build_md(glyphs: dict[str, dict]) -> str:
             "地方韻母可用「下 + 右」拼合（與介母布局類似）。",
             "Chart notes forms such as aeq、oeq、eoq 與 ai、ei。",
             "",
-            "| Syllable | Chart Han | Composed Goetsu | Codepoint | Notes |",
-            "| --- | --- | --- | --- | --- |",
-            composed_row("maeq", "襪", "dialectal aeq under m"),
-            composed_row("aeq", "—", "万-family + -q"),
-            composed_row("oeq", "—", "dialectal"),
-            composed_row("eoq", "—", "dialectal"),
-            composed_row("ai", "—", "dialectal"),
-            composed_row("ei", "—", "dialectal"),
+            "| Syllable | Chart Han | Siauzy | Codepoint(s) | Han spelling | Notes |",
+            "| --- | --- | --- | --- | --- | --- |",
+            composed_row("maeq", "襪", "mae head + -q beside"),
+            composed_row("aeq", "—", "ae + -q"),
+            composed_row("oeq", "—", "oe + -q"),
+            composed_row("eoq", "—", "eon + -q"),
+            composed_row("ai", "—", "a + i"),
+            composed_row("ei", "—", "e + i"),
             "",
             "### 5. 撮口介母 iu",
             "",
-            "撮口介母 iu 一般不另立 yu 韻；尖團多已合流。需要時可記作雲類與合口介母的組合。",
+            "撮口介母 iu 一般不另立 yu 韻；尖團多已合流。需要時用 grid `yu`（y+u）。",
+            "",
+            "| Syllable | Chart Han | Siauzy | Codepoint(s) | Han spelling | Notes |",
+            "| --- | --- | --- | --- | --- | --- |",
+            composed_row("yu", "—", "y-initial + u-final grid block"),
             "",
             f"Medial `iu` glyph: {show_parts('iu')}",
             "",
@@ -588,13 +612,15 @@ def build_md(glyphs: dict[str, dict]) -> str:
             "",
             "## Maintenance",
             "",
-            "Regenerate this file:",
+            "Regenerate the canonical mapping, then this file:",
             "",
             "```bash",
+            "python3 scripts/build.py",
             "python3 scripts/export_chart_reference_md.py",
             "```",
             "",
-            "Glyphs are pulled from `handfilling/glyphs-handfill-with-chinese.json` at export time.",
+            "Glyphs come from `handfilling/glyphs-handfill-with-chinese.json`;",
+            "rule examples pull Siauzy/Han from `mapping/goetsusioji.json`.",
             "",
         ]
     )
