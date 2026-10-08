@@ -1,0 +1,6601 @@
+{
+  "meta": {
+    "font": "goetsusioji.ttf",
+    "pua_range": "U+F021..U+F545",
+    "total_range_slots": 1317,
+    "glyphs_in_font": 1085,
+    "empty_slots_in_range": 232,
+    "instructions": "Fill romanization for each entry. Keys are codepoints; char is the glyph (use Goetsusioji font in your editor). Optionally fill `chinese character only orthography` (Han character hint) per entry. Optionally fill `visually similar orthography` per entry.",
+    "filled_from_chart": 63,
+    "chart_source": "data/chart-tables-handfill.md",
+    "shared_glyphs": [
+      "U+F50F",
+      "U+F527",
+      "U+F529",
+      "U+F531",
+      "U+F539",
+      "U+F540"
+    ]
+  },
+  "glyphs": {
+    "U+F021": {
+      "char": "",
+      "romanization": "a",
+      "chinese character only orthography": "派",
+      "visually similar orthography": ""
+    },
+    "U+F022": {
+      "char": "",
+      "romanization": "aq",
+      "chinese character only orthography": "乏",
+      "visually similar orthography": ""
+    },
+    "U+F023": {
+      "char": "",
+      "romanization": "o",
+      "chinese character only orthography": "瓦",
+      "visually similar orthography": ""
+    },
+    "U+F024": {
+      "char": "",
+      "romanization": "oq",
+      "chinese character only orthography": "昱",
+      "visually similar orthography": ""
+    },
+    "U+F025": {
+      "char": "",
+      "romanization": "e",
+      "chinese character only orthography": "卑",
+      "visually similar orthography": ""
+    },
+    "U+F026": {
+      "char": "",
+      "romanization": "eq",
+      "chinese character only orthography": "出",
+      "visually similar orthography": ""
+    },
+    "U+F027": {
+      "char": "",
+      "romanization": "i",
+      "chinese character only orthography": "以",
+      "visually similar orthography": ""
+    },
+    "U+F028": {
+      "char": "",
+      "romanization": "iq",
+      "chinese character only orthography": "亦",
+      "visually similar orthography": ""
+    },
+    "U+F029": {
+      "char": "",
+      "romanization": "u",
+      "chinese character only orthography": "无",
+      "visually similar orthography": ""
+    },
+    "U+F02A": {
+      "char": "",
+      "romanization": "y",
+      "chinese character only orthography": "厶",
+      "visually similar orthography": ""
+    },
+    "U+F02B": {
+      "char": "",
+      "romanization": "ae",
+      "chinese character only orthography": "万",
+      "visually similar orthography": ""
+    },
+    "U+F02C": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F02D": {
+      "char": "",
+      "romanization": "ie",
+      "chinese character only orthography": "建",
+      "visually similar orthography": ""
+    },
+    "U+F02E": {
+      "char": "",
+      "romanization": "au",
+      "chinese character only orthography": "号",
+      "visually similar orthography": ""
+    },
+    "U+F02F": {
+      "char": "",
+      "romanization": "ou",
+      "chinese character only orthography": "多",
+      "visually similar orthography": ""
+    },
+    "U+F030": {
+      "char": "",
+      "romanization": "eu",
+      "chinese character only orthography": "久",
+      "visually similar orthography": ""
+    },
+    "U+F031": {
+      "char": "",
+      "romanization": "iu",
+      "chinese character only orthography": "雨",
+      "visually similar orthography": ""
+    },
+    "U+F032": {
+      "char": "",
+      "romanization": "oe",
+      "chinese character only orthography": "寒",
+      "visually similar orthography": ""
+    },
+    "U+F033": {
+      "char": "",
+      "romanization": "an",
+      "chinese character only orthography": "良",
+      "visually similar orthography": ""
+    },
+    "U+F034": {
+      "char": "",
+      "romanization": "on",
+      "chinese character only orthography": "从",
+      "visually similar orthography": ""
+    },
+    "U+F035": {
+      "char": "",
+      "romanization": "en",
+      "chinese character only orthography": "文",
+      "visually similar orthography": ""
+    },
+    "U+F036": {
+      "char": "",
+      "romanization": "in",
+      "chinese character only orthography": "刃",
+      "visually similar orthography": ""
+    },
+    "U+F037": {
+      "char": "",
+      "romanization": "aon",
+      "chinese character only orthography": "亡",
+      "visually similar orthography": ""
+    },
+    "U+F038": {
+      "char": "",
+      "romanization": "eon",
+      "chinese character only orthography": "能",
+      "visually similar orthography": ""
+    },
+    "U+F039": {
+      "char": "",
+      "romanization": "r",
+      "chinese character only orthography": "而",
+      "visually similar orthography": ""
+    },
+    "U+F03A": {
+      "char": "",
+      "romanization": "n",
+      "chinese character only orthography": "レ",
+      "visually similar orthography": ""
+    },
+    "U+F03B": {
+      "char": "",
+      "romanization": "q",
+      "chinese character only orthography": "く",
+      "visually similar orthography": ""
+    },
+    "U+F03C": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "へ",
+      "visually similar orthography": ""
+    },
+    "U+F03D": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "ケ",
+      "visually similar orthography": ""
+    },
+    "U+F040": {
+      "char": "",
+      "romanization": "ph",
+      "chinese character only orthography": "兵ﾟ",
+      "visually similar orthography": ""
+    },
+    "U+F041": {
+      "char": "",
+      "romanization": "pha",
+      "chinese character only orthography": "兵ﾟ派",
+      "visually similar orthography": ""
+    },
+    "U+F042": {
+      "char": "",
+      "romanization": "phaq",
+      "chinese character only orthography": "兵ﾟ乏",
+      "visually similar orthography": ""
+    },
+    "U+F043": {
+      "char": "",
+      "romanization": "pho",
+      "chinese character only orthography": "兵ﾟ瓦",
+      "visually similar orthography": ""
+    },
+    "U+F044": {
+      "char": "",
+      "romanization": "phoq",
+      "chinese character only orthography": "兵ﾟ昱",
+      "visually similar orthography": ""
+    },
+    "U+F045": {
+      "char": "",
+      "romanization": "phe",
+      "chinese character only orthography": "兵ﾟ卑",
+      "visually similar orthography": ""
+    },
+    "U+F046": {
+      "char": "",
+      "romanization": "pheq",
+      "chinese character only orthography": "兵ﾟ出",
+      "visually similar orthography": ""
+    },
+    "U+F047": {
+      "char": "",
+      "romanization": "phi",
+      "chinese character only orthography": "兵ﾟ以",
+      "visually similar orthography": ""
+    },
+    "U+F048": {
+      "char": "",
+      "romanization": "phiq",
+      "chinese character only orthography": "兵ﾟ亦",
+      "visually similar orthography": ""
+    },
+    "U+F049": {
+      "char": "",
+      "romanization": "phu",
+      "chinese character only orthography": "兵ﾟ无",
+      "visually similar orthography": ""
+    },
+    "U+F04A": {
+      "char": "",
+      "romanization": "phy",
+      "chinese character only orthography": "兵ﾟ厶",
+      "visually similar orthography": ""
+    },
+    "U+F04B": {
+      "char": "",
+      "romanization": "phae",
+      "chinese character only orthography": "兵ﾟ万",
+      "visually similar orthography": ""
+    },
+    "U+F04C": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F04D": {
+      "char": "",
+      "romanization": "phie",
+      "chinese character only orthography": "兵ﾟ建",
+      "visually similar orthography": ""
+    },
+    "U+F04E": {
+      "char": "",
+      "romanization": "phau",
+      "chinese character only orthography": "兵ﾟ号",
+      "visually similar orthography": ""
+    },
+    "U+F04F": {
+      "char": "",
+      "romanization": "phou",
+      "chinese character only orthography": "兵ﾟ多",
+      "visually similar orthography": ""
+    },
+    "U+F050": {
+      "char": "",
+      "romanization": "pheu",
+      "chinese character only orthography": "兵ﾟ久",
+      "visually similar orthography": ""
+    },
+    "U+F051": {
+      "char": "",
+      "romanization": "phiu",
+      "chinese character only orthography": "兵ﾟ雨",
+      "visually similar orthography": ""
+    },
+    "U+F052": {
+      "char": "",
+      "romanization": "phoe",
+      "chinese character only orthography": "兵ﾟ寒",
+      "visually similar orthography": ""
+    },
+    "U+F053": {
+      "char": "",
+      "romanization": "phan",
+      "chinese character only orthography": "兵ﾟ良",
+      "visually similar orthography": ""
+    },
+    "U+F054": {
+      "char": "",
+      "romanization": "phon",
+      "chinese character only orthography": "兵ﾟ从",
+      "visually similar orthography": ""
+    },
+    "U+F055": {
+      "char": "",
+      "romanization": "phen",
+      "chinese character only orthography": "兵ﾟ文",
+      "visually similar orthography": ""
+    },
+    "U+F056": {
+      "char": "",
+      "romanization": "phin",
+      "chinese character only orthography": "兵ﾟ刃",
+      "visually similar orthography": ""
+    },
+    "U+F057": {
+      "char": "",
+      "romanization": "phaon",
+      "chinese character only orthography": "兵ﾟ亡",
+      "visually similar orthography": ""
+    },
+    "U+F058": {
+      "char": "",
+      "romanization": "pheon",
+      "chinese character only orthography": "兵ﾟ能",
+      "visually similar orthography": ""
+    },
+    "U+F059": {
+      "char": "",
+      "romanization": "phr",
+      "chinese character only orthography": "兵ﾟ而",
+      "visually similar orthography": ""
+    },
+    "U+F060": {
+      "char": "",
+      "romanization": "p",
+      "chinese character only orthography": "兵",
+      "visually similar orthography": ""
+    },
+    "U+F061": {
+      "char": "",
+      "romanization": "pa",
+      "chinese character only orthography": "兵派",
+      "visually similar orthography": ""
+    },
+    "U+F062": {
+      "char": "",
+      "romanization": "paq",
+      "chinese character only orthography": "兵乏",
+      "visually similar orthography": ""
+    },
+    "U+F063": {
+      "char": "",
+      "romanization": "po",
+      "chinese character only orthography": "兵瓦",
+      "visually similar orthography": ""
+    },
+    "U+F064": {
+      "char": "",
+      "romanization": "poq",
+      "chinese character only orthography": "兵昱",
+      "visually similar orthography": ""
+    },
+    "U+F065": {
+      "char": "",
+      "romanization": "pe",
+      "chinese character only orthography": "兵卑",
+      "visually similar orthography": ""
+    },
+    "U+F066": {
+      "char": "",
+      "romanization": "peq",
+      "chinese character only orthography": "兵出",
+      "visually similar orthography": ""
+    },
+    "U+F067": {
+      "char": "",
+      "romanization": "pi",
+      "chinese character only orthography": "兵以",
+      "visually similar orthography": ""
+    },
+    "U+F068": {
+      "char": "",
+      "romanization": "piq",
+      "chinese character only orthography": "兵亦",
+      "visually similar orthography": ""
+    },
+    "U+F069": {
+      "char": "",
+      "romanization": "pu",
+      "chinese character only orthography": "兵无",
+      "visually similar orthography": ""
+    },
+    "U+F06A": {
+      "char": "",
+      "romanization": "py",
+      "chinese character only orthography": "兵厶",
+      "visually similar orthography": ""
+    },
+    "U+F06B": {
+      "char": "",
+      "romanization": "pae",
+      "chinese character only orthography": "兵万",
+      "visually similar orthography": ""
+    },
+    "U+F06C": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F06D": {
+      "char": "",
+      "romanization": "pie",
+      "chinese character only orthography": "兵建",
+      "visually similar orthography": ""
+    },
+    "U+F06E": {
+      "char": "",
+      "romanization": "pau",
+      "chinese character only orthography": "兵号",
+      "visually similar orthography": ""
+    },
+    "U+F06F": {
+      "char": "",
+      "romanization": "pou",
+      "chinese character only orthography": "兵多",
+      "visually similar orthography": ""
+    },
+    "U+F070": {
+      "char": "",
+      "romanization": "peu",
+      "chinese character only orthography": "兵久",
+      "visually similar orthography": ""
+    },
+    "U+F071": {
+      "char": "",
+      "romanization": "piu",
+      "chinese character only orthography": "兵雨",
+      "visually similar orthography": ""
+    },
+    "U+F072": {
+      "char": "",
+      "romanization": "poe",
+      "chinese character only orthography": "兵寒",
+      "visually similar orthography": ""
+    },
+    "U+F073": {
+      "char": "",
+      "romanization": "pan",
+      "chinese character only orthography": "兵良",
+      "visually similar orthography": ""
+    },
+    "U+F074": {
+      "char": "",
+      "romanization": "pon",
+      "chinese character only orthography": "兵从",
+      "visually similar orthography": ""
+    },
+    "U+F075": {
+      "char": "",
+      "romanization": "pen",
+      "chinese character only orthography": "兵文",
+      "visually similar orthography": ""
+    },
+    "U+F076": {
+      "char": "",
+      "romanization": "pin",
+      "chinese character only orthography": "兵刃",
+      "visually similar orthography": ""
+    },
+    "U+F077": {
+      "char": "",
+      "romanization": "paon",
+      "chinese character only orthography": "兵亡",
+      "visually similar orthography": ""
+    },
+    "U+F078": {
+      "char": "",
+      "romanization": "peon",
+      "chinese character only orthography": "兵能",
+      "visually similar orthography": ""
+    },
+    "U+F079": {
+      "char": "",
+      "romanization": "phr",
+      "chinese character only orthography": "兵而",
+      "visually similar orthography": ""
+    },
+    "U+F080": {
+      "char": "",
+      "romanization": "b",
+      "chinese character only orthography": "兵ﾞ",
+      "visually similar orthography": ""
+    },
+    "U+F081": {
+      "char": "",
+      "romanization": "ba",
+      "chinese character only orthography": "兵ﾞ派",
+      "visually similar orthography": ""
+    },
+    "U+F082": {
+      "char": "",
+      "romanization": "baq",
+      "chinese character only orthography": "兵ﾞ乏",
+      "visually similar orthography": ""
+    },
+    "U+F083": {
+      "char": "",
+      "romanization": "bo",
+      "chinese character only orthography": "兵ﾞ瓦",
+      "visually similar orthography": ""
+    },
+    "U+F084": {
+      "char": "",
+      "romanization": "boq",
+      "chinese character only orthography": "兵ﾞ昱",
+      "visually similar orthography": ""
+    },
+    "U+F085": {
+      "char": "",
+      "romanization": "be",
+      "chinese character only orthography": "兵ﾞ卑",
+      "visually similar orthography": ""
+    },
+    "U+F086": {
+      "char": "",
+      "romanization": "beq",
+      "chinese character only orthography": "兵ﾞ出",
+      "visually similar orthography": ""
+    },
+    "U+F087": {
+      "char": "",
+      "romanization": "bi",
+      "chinese character only orthography": "兵ﾞ以",
+      "visually similar orthography": ""
+    },
+    "U+F088": {
+      "char": "",
+      "romanization": "biq",
+      "chinese character only orthography": "兵ﾞ亦",
+      "visually similar orthography": ""
+    },
+    "U+F089": {
+      "char": "",
+      "romanization": "bu",
+      "chinese character only orthography": "兵ﾞ无",
+      "visually similar orthography": ""
+    },
+    "U+F08A": {
+      "char": "",
+      "romanization": "by",
+      "chinese character only orthography": "兵ﾞ厶",
+      "visually similar orthography": ""
+    },
+    "U+F08B": {
+      "char": "",
+      "romanization": "bae",
+      "chinese character only orthography": "兵ﾞ万",
+      "visually similar orthography": ""
+    },
+    "U+F08C": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F08D": {
+      "char": "",
+      "romanization": "bie",
+      "chinese character only orthography": "兵ﾞ建",
+      "visually similar orthography": ""
+    },
+    "U+F08E": {
+      "char": "",
+      "romanization": "bau",
+      "chinese character only orthography": "兵ﾞ号",
+      "visually similar orthography": ""
+    },
+    "U+F08F": {
+      "char": "",
+      "romanization": "bou",
+      "chinese character only orthography": "兵ﾞ多",
+      "visually similar orthography": ""
+    },
+    "U+F090": {
+      "char": "",
+      "romanization": "beu",
+      "chinese character only orthography": "兵ﾞ久",
+      "visually similar orthography": ""
+    },
+    "U+F091": {
+      "char": "",
+      "romanization": "biu",
+      "chinese character only orthography": "兵ﾞ雨",
+      "visually similar orthography": ""
+    },
+    "U+F092": {
+      "char": "",
+      "romanization": "boe",
+      "chinese character only orthography": "兵ﾞ寒",
+      "visually similar orthography": ""
+    },
+    "U+F093": {
+      "char": "",
+      "romanization": "ban",
+      "chinese character only orthography": "兵ﾞ良",
+      "visually similar orthography": ""
+    },
+    "U+F094": {
+      "char": "",
+      "romanization": "bon",
+      "chinese character only orthography": "兵ﾞ从",
+      "visually similar orthography": ""
+    },
+    "U+F095": {
+      "char": "",
+      "romanization": "ben",
+      "chinese character only orthography": "兵ﾞ文",
+      "visually similar orthography": ""
+    },
+    "U+F096": {
+      "char": "",
+      "romanization": "bin",
+      "chinese character only orthography": "兵ﾞ刃",
+      "visually similar orthography": ""
+    },
+    "U+F097": {
+      "char": "",
+      "romanization": "baon",
+      "chinese character only orthography": "兵ﾞ亡",
+      "visually similar orthography": ""
+    },
+    "U+F098": {
+      "char": "",
+      "romanization": "beon",
+      "chinese character only orthography": "兵ﾞ能",
+      "visually similar orthography": ""
+    },
+    "U+F099": {
+      "char": "",
+      "romanization": "br",
+      "chinese character only orthography": "兵ﾞ而",
+      "visually similar orthography": ""
+    },
+    "U+F0A0": {
+      "char": "",
+      "romanization": "f",
+      "chinese character only orthography": "弗",
+      "visually similar orthography": ""
+    },
+    "U+F0A1": {
+      "char": "",
+      "romanization": "fa",
+      "chinese character only orthography": "弗派",
+      "visually similar orthography": ""
+    },
+    "U+F0A2": {
+      "char": "",
+      "romanization": "faq",
+      "chinese character only orthography": "弗乏",
+      "visually similar orthography": ""
+    },
+    "U+F0A3": {
+      "char": "",
+      "romanization": "fo",
+      "chinese character only orthography": "弗瓦",
+      "visually similar orthography": ""
+    },
+    "U+F0A4": {
+      "char": "",
+      "romanization": "foq",
+      "chinese character only orthography": "弗昱",
+      "visually similar orthography": ""
+    },
+    "U+F0A5": {
+      "char": "",
+      "romanization": "fe",
+      "chinese character only orthography": "弗卑",
+      "visually similar orthography": ""
+    },
+    "U+F0A6": {
+      "char": "",
+      "romanization": "feq",
+      "chinese character only orthography": "弗出",
+      "visually similar orthography": ""
+    },
+    "U+F0A7": {
+      "char": "",
+      "romanization": "fi",
+      "chinese character only orthography": "弗以",
+      "visually similar orthography": ""
+    },
+    "U+F0A8": {
+      "char": "",
+      "romanization": "fiq",
+      "chinese character only orthography": "弗亦",
+      "visually similar orthography": ""
+    },
+    "U+F0A9": {
+      "char": "",
+      "romanization": "fu",
+      "chinese character only orthography": "弗无",
+      "visually similar orthography": ""
+    },
+    "U+F0AA": {
+      "char": "",
+      "romanization": "fy",
+      "chinese character only orthography": "弗厶",
+      "visually similar orthography": ""
+    },
+    "U+F0AB": {
+      "char": "",
+      "romanization": "fae",
+      "chinese character only orthography": "弗万",
+      "visually similar orthography": ""
+    },
+    "U+F0AC": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F0AD": {
+      "char": "",
+      "romanization": "fie",
+      "chinese character only orthography": "弗建",
+      "visually similar orthography": ""
+    },
+    "U+F0AE": {
+      "char": "",
+      "romanization": "fau",
+      "chinese character only orthography": "弗号",
+      "visually similar orthography": ""
+    },
+    "U+F0AF": {
+      "char": "",
+      "romanization": "fou",
+      "chinese character only orthography": "弗多",
+      "visually similar orthography": ""
+    },
+    "U+F0B0": {
+      "char": "",
+      "romanization": "feu",
+      "chinese character only orthography": "弗久",
+      "visually similar orthography": ""
+    },
+    "U+F0B1": {
+      "char": "",
+      "romanization": "fiu",
+      "chinese character only orthography": "弗雨",
+      "visually similar orthography": ""
+    },
+    "U+F0B2": {
+      "char": "",
+      "romanization": "foe",
+      "chinese character only orthography": "弗寒",
+      "visually similar orthography": ""
+    },
+    "U+F0B3": {
+      "char": "",
+      "romanization": "fan",
+      "chinese character only orthography": "弗良",
+      "visually similar orthography": ""
+    },
+    "U+F0B4": {
+      "char": "",
+      "romanization": "fon",
+      "chinese character only orthography": "弗从",
+      "visually similar orthography": ""
+    },
+    "U+F0B5": {
+      "char": "",
+      "romanization": "fen",
+      "chinese character only orthography": "弗文",
+      "visually similar orthography": ""
+    },
+    "U+F0B6": {
+      "char": "",
+      "romanization": "fin",
+      "chinese character only orthography": "弗刃",
+      "visually similar orthography": ""
+    },
+    "U+F0B7": {
+      "char": "",
+      "romanization": "faon",
+      "chinese character only orthography": "弗亡",
+      "visually similar orthography": ""
+    },
+    "U+F0B8": {
+      "char": "",
+      "romanization": "feon",
+      "chinese character only orthography": "弗能",
+      "visually similar orthography": ""
+    },
+    "U+F0B9": {
+      "char": "",
+      "romanization": "fr",
+      "chinese character only orthography": "弗而",
+      "visually similar orthography": ""
+    },
+    "U+F0C0": {
+      "char": "",
+      "romanization": "v",
+      "chinese character only orthography": "弗ﾞ",
+      "visually similar orthography": ""
+    },
+    "U+F0C1": {
+      "char": "",
+      "romanization": "va",
+      "chinese character only orthography": "弗ﾞ派",
+      "visually similar orthography": ""
+    },
+    "U+F0C2": {
+      "char": "",
+      "romanization": "vaq",
+      "chinese character only orthography": "弗ﾞ乏",
+      "visually similar orthography": ""
+    },
+    "U+F0C3": {
+      "char": "",
+      "romanization": "vo",
+      "chinese character only orthography": "弗ﾞ瓦",
+      "visually similar orthography": ""
+    },
+    "U+F0C4": {
+      "char": "",
+      "romanization": "voq",
+      "chinese character only orthography": "弗ﾞ昱",
+      "visually similar orthography": ""
+    },
+    "U+F0C5": {
+      "char": "",
+      "romanization": "ve",
+      "chinese character only orthography": "弗ﾞ卑",
+      "visually similar orthography": ""
+    },
+    "U+F0C6": {
+      "char": "",
+      "romanization": "veq",
+      "chinese character only orthography": "弗ﾞ出",
+      "visually similar orthography": ""
+    },
+    "U+F0C7": {
+      "char": "",
+      "romanization": "vi",
+      "chinese character only orthography": "弗ﾞ以",
+      "visually similar orthography": ""
+    },
+    "U+F0C8": {
+      "char": "",
+      "romanization": "viq",
+      "chinese character only orthography": "弗ﾞ亦",
+      "visually similar orthography": ""
+    },
+    "U+F0C9": {
+      "char": "",
+      "romanization": "vu",
+      "chinese character only orthography": "弗ﾞ无",
+      "visually similar orthography": ""
+    },
+    "U+F0CA": {
+      "char": "",
+      "romanization": "vy",
+      "chinese character only orthography": "弗ﾞ厶",
+      "visually similar orthography": ""
+    },
+    "U+F0CB": {
+      "char": "",
+      "romanization": "vae",
+      "chinese character only orthography": "弗ﾞ万",
+      "visually similar orthography": ""
+    },
+    "U+F0CC": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F0CD": {
+      "char": "",
+      "romanization": "vie",
+      "chinese character only orthography": "弗ﾞ建",
+      "visually similar orthography": ""
+    },
+    "U+F0CE": {
+      "char": "",
+      "romanization": "vau",
+      "chinese character only orthography": "弗ﾞ号",
+      "visually similar orthography": ""
+    },
+    "U+F0CF": {
+      "char": "",
+      "romanization": "vou",
+      "chinese character only orthography": "弗ﾞ多",
+      "visually similar orthography": ""
+    },
+    "U+F0D0": {
+      "char": "",
+      "romanization": "veu",
+      "chinese character only orthography": "弗ﾞ久",
+      "visually similar orthography": ""
+    },
+    "U+F0D1": {
+      "char": "",
+      "romanization": "viu",
+      "chinese character only orthography": "弗ﾞ雨",
+      "visually similar orthography": ""
+    },
+    "U+F0D2": {
+      "char": "",
+      "romanization": "voe",
+      "chinese character only orthography": "弗ﾞ寒",
+      "visually similar orthography": ""
+    },
+    "U+F0D3": {
+      "char": "",
+      "romanization": "van",
+      "chinese character only orthography": "弗ﾞ良",
+      "visually similar orthography": ""
+    },
+    "U+F0D4": {
+      "char": "",
+      "romanization": "von",
+      "chinese character only orthography": "弗ﾞ从",
+      "visually similar orthography": ""
+    },
+    "U+F0D5": {
+      "char": "",
+      "romanization": "ven",
+      "chinese character only orthography": "弗ﾞ文",
+      "visually similar orthography": ""
+    },
+    "U+F0D6": {
+      "char": "",
+      "romanization": "vin",
+      "chinese character only orthography": "弗ﾞ刃",
+      "visually similar orthography": ""
+    },
+    "U+F0D7": {
+      "char": "",
+      "romanization": "vaon",
+      "chinese character only orthography": "弗ﾞ亡",
+      "visually similar orthography": ""
+    },
+    "U+F0D8": {
+      "char": "",
+      "romanization": "veon",
+      "chinese character only orthography": "弗ﾞ能",
+      "visually similar orthography": ""
+    },
+    "U+F0D9": {
+      "char": "",
+      "romanization": "vr",
+      "chinese character only orthography": "弗ﾞ而",
+      "visually similar orthography": ""
+    },
+    "U+F0E0": {
+      "char": "",
+      "romanization": "m",
+      "chinese character only orthography": "矛",
+      "visually similar orthography": ""
+    },
+    "U+F0E1": {
+      "char": "",
+      "romanization": "ma",
+      "chinese character only orthography": "矛派",
+      "visually similar orthography": ""
+    },
+    "U+F0E2": {
+      "char": "",
+      "romanization": "maq",
+      "chinese character only orthography": "矛乏",
+      "visually similar orthography": ""
+    },
+    "U+F0E3": {
+      "char": "",
+      "romanization": "mo",
+      "chinese character only orthography": "矛瓦",
+      "visually similar orthography": ""
+    },
+    "U+F0E4": {
+      "char": "",
+      "romanization": "moq",
+      "chinese character only orthography": "矛昱",
+      "visually similar orthography": ""
+    },
+    "U+F0E5": {
+      "char": "",
+      "romanization": "me",
+      "chinese character only orthography": "矛卑",
+      "visually similar orthography": ""
+    },
+    "U+F0E6": {
+      "char": "",
+      "romanization": "meq",
+      "chinese character only orthography": "矛出",
+      "visually similar orthography": ""
+    },
+    "U+F0E7": {
+      "char": "",
+      "romanization": "mi",
+      "chinese character only orthography": "矛以",
+      "visually similar orthography": ""
+    },
+    "U+F0E8": {
+      "char": "",
+      "romanization": "miq",
+      "chinese character only orthography": "矛亦",
+      "visually similar orthography": ""
+    },
+    "U+F0E9": {
+      "char": "",
+      "romanization": "mu",
+      "chinese character only orthography": "矛无",
+      "visually similar orthography": ""
+    },
+    "U+F0EA": {
+      "char": "",
+      "romanization": "my",
+      "chinese character only orthography": "矛厶",
+      "visually similar orthography": ""
+    },
+    "U+F0EB": {
+      "char": "",
+      "romanization": "mae",
+      "chinese character only orthography": "矛万",
+      "visually similar orthography": ""
+    },
+    "U+F0EC": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F0ED": {
+      "char": "",
+      "romanization": "mie",
+      "chinese character only orthography": "矛建",
+      "visually similar orthography": ""
+    },
+    "U+F0EE": {
+      "char": "",
+      "romanization": "mau",
+      "chinese character only orthography": "矛号",
+      "visually similar orthography": ""
+    },
+    "U+F0EF": {
+      "char": "",
+      "romanization": "mou",
+      "chinese character only orthography": "矛多",
+      "visually similar orthography": ""
+    },
+    "U+F0F0": {
+      "char": "",
+      "romanization": "meu",
+      "chinese character only orthography": "矛久",
+      "visually similar orthography": ""
+    },
+    "U+F0F1": {
+      "char": "",
+      "romanization": "miu",
+      "chinese character only orthography": "矛雨",
+      "visually similar orthography": ""
+    },
+    "U+F0F2": {
+      "char": "",
+      "romanization": "moe",
+      "chinese character only orthography": "矛寒",
+      "visually similar orthography": ""
+    },
+    "U+F0F3": {
+      "char": "",
+      "romanization": "man",
+      "chinese character only orthography": "矛良",
+      "visually similar orthography": ""
+    },
+    "U+F0F4": {
+      "char": "",
+      "romanization": "mon",
+      "chinese character only orthography": "矛从",
+      "visually similar orthography": ""
+    },
+    "U+F0F5": {
+      "char": "",
+      "romanization": "men",
+      "chinese character only orthography": "矛文",
+      "visually similar orthography": ""
+    },
+    "U+F0F6": {
+      "char": "",
+      "romanization": "min",
+      "chinese character only orthography": "矛刃",
+      "visually similar orthography": ""
+    },
+    "U+F0F7": {
+      "char": "",
+      "romanization": "maon",
+      "chinese character only orthography": "矛亡",
+      "visually similar orthography": ""
+    },
+    "U+F0F8": {
+      "char": "",
+      "romanization": "meon",
+      "chinese character only orthography": "矛能",
+      "visually similar orthography": ""
+    },
+    "U+F0F9": {
+      "char": "",
+      "romanization": "mr",
+      "chinese character only orthography": "矛而",
+      "visually similar orthography": ""
+    },
+    "U+F100": {
+      "char": "",
+      "romanization": "mh",
+      "chinese character only orthography": "矛ﾟ",
+      "visually similar orthography": ""
+    },
+    "U+F101": {
+      "char": "",
+      "romanization": "mha",
+      "chinese character only orthography": "矛ﾟ派",
+      "visually similar orthography": ""
+    },
+    "U+F102": {
+      "char": "",
+      "romanization": "mhaq",
+      "chinese character only orthography": "矛ﾟ乏",
+      "visually similar orthography": ""
+    },
+    "U+F103": {
+      "char": "",
+      "romanization": "mho",
+      "chinese character only orthography": "矛ﾟ瓦",
+      "visually similar orthography": ""
+    },
+    "U+F104": {
+      "char": "",
+      "romanization": "mhoq",
+      "chinese character only orthography": "矛ﾟ昱",
+      "visually similar orthography": ""
+    },
+    "U+F105": {
+      "char": "",
+      "romanization": "mhe",
+      "chinese character only orthography": "矛ﾟ卑",
+      "visually similar orthography": ""
+    },
+    "U+F106": {
+      "char": "",
+      "romanization": "mheq",
+      "chinese character only orthography": "矛ﾟ出",
+      "visually similar orthography": ""
+    },
+    "U+F107": {
+      "char": "",
+      "romanization": "mhi",
+      "chinese character only orthography": "矛ﾟ以",
+      "visually similar orthography": ""
+    },
+    "U+F108": {
+      "char": "",
+      "romanization": "mhiq",
+      "chinese character only orthography": "矛ﾟ亦",
+      "visually similar orthography": ""
+    },
+    "U+F109": {
+      "char": "",
+      "romanization": "mhu",
+      "chinese character only orthography": "矛ﾟ无",
+      "visually similar orthography": ""
+    },
+    "U+F10A": {
+      "char": "",
+      "romanization": "mhy",
+      "chinese character only orthography": "矛ﾟ厶",
+      "visually similar orthography": ""
+    },
+    "U+F10B": {
+      "char": "",
+      "romanization": "mhae",
+      "chinese character only orthography": "矛ﾟ万",
+      "visually similar orthography": ""
+    },
+    "U+F10C": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F10D": {
+      "char": "",
+      "romanization": "mhie",
+      "chinese character only orthography": "矛ﾟ建",
+      "visually similar orthography": ""
+    },
+    "U+F10E": {
+      "char": "",
+      "romanization": "mhau",
+      "chinese character only orthography": "矛ﾟ号",
+      "visually similar orthography": ""
+    },
+    "U+F10F": {
+      "char": "",
+      "romanization": "mhou",
+      "chinese character only orthography": "矛ﾟ多",
+      "visually similar orthography": ""
+    },
+    "U+F110": {
+      "char": "",
+      "romanization": "mheu",
+      "chinese character only orthography": "矛ﾟ久",
+      "visually similar orthography": ""
+    },
+    "U+F111": {
+      "char": "",
+      "romanization": "mhiu",
+      "chinese character only orthography": "矛ﾟ雨",
+      "visually similar orthography": ""
+    },
+    "U+F112": {
+      "char": "",
+      "romanization": "mhoe",
+      "chinese character only orthography": "矛ﾟ寒",
+      "visually similar orthography": ""
+    },
+    "U+F113": {
+      "char": "",
+      "romanization": "mhan",
+      "chinese character only orthography": "矛ﾟ良",
+      "visually similar orthography": ""
+    },
+    "U+F114": {
+      "char": "",
+      "romanization": "mhon",
+      "chinese character only orthography": "矛ﾟ从",
+      "visually similar orthography": ""
+    },
+    "U+F115": {
+      "char": "",
+      "romanization": "mhen",
+      "chinese character only orthography": "矛ﾟ文",
+      "visually similar orthography": ""
+    },
+    "U+F116": {
+      "char": "",
+      "romanization": "mhin",
+      "chinese character only orthography": "矛ﾟ刃",
+      "visually similar orthography": ""
+    },
+    "U+F117": {
+      "char": "",
+      "romanization": "mhaon",
+      "chinese character only orthography": "矛ﾟ亡",
+      "visually similar orthography": ""
+    },
+    "U+F118": {
+      "char": "",
+      "romanization": "mheon",
+      "chinese character only orthography": "矛ﾟ能",
+      "visually similar orthography": ""
+    },
+    "U+F119": {
+      "char": "",
+      "romanization": "mhr",
+      "chinese character only orthography": "矛ﾟ而",
+      "visually similar orthography": ""
+    },
+    "U+F120": {
+      "char": "",
+      "romanization": "th",
+      "chinese character only orthography": "刀ﾟ",
+      "visually similar orthography": ""
+    },
+    "U+F121": {
+      "char": "",
+      "romanization": "tha",
+      "chinese character only orthography": "刀ﾟ派",
+      "visually similar orthography": ""
+    },
+    "U+F122": {
+      "char": "",
+      "romanization": "thaq",
+      "chinese character only orthography": "刀ﾟ乏",
+      "visually similar orthography": ""
+    },
+    "U+F123": {
+      "char": "",
+      "romanization": "tho",
+      "chinese character only orthography": "刀ﾟ瓦",
+      "visually similar orthography": ""
+    },
+    "U+F124": {
+      "char": "",
+      "romanization": "thoq",
+      "chinese character only orthography": "刀ﾟ昱",
+      "visually similar orthography": ""
+    },
+    "U+F125": {
+      "char": "",
+      "romanization": "the",
+      "chinese character only orthography": "刀ﾟ卑",
+      "visually similar orthography": ""
+    },
+    "U+F126": {
+      "char": "",
+      "romanization": "theq",
+      "chinese character only orthography": "刀ﾟ出",
+      "visually similar orthography": ""
+    },
+    "U+F127": {
+      "char": "",
+      "romanization": "thi",
+      "chinese character only orthography": "刀ﾟ以",
+      "visually similar orthography": ""
+    },
+    "U+F128": {
+      "char": "",
+      "romanization": "thiq",
+      "chinese character only orthography": "刀ﾟ亦",
+      "visually similar orthography": ""
+    },
+    "U+F129": {
+      "char": "",
+      "romanization": "thu",
+      "chinese character only orthography": "刀ﾟ无",
+      "visually similar orthography": ""
+    },
+    "U+F12A": {
+      "char": "",
+      "romanization": "thy",
+      "chinese character only orthography": "刀ﾟ厶",
+      "visually similar orthography": ""
+    },
+    "U+F12B": {
+      "char": "",
+      "romanization": "thae",
+      "chinese character only orthography": "刀ﾟ万",
+      "visually similar orthography": ""
+    },
+    "U+F12C": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F12D": {
+      "char": "",
+      "romanization": "thie",
+      "chinese character only orthography": "刀ﾟ建",
+      "visually similar orthography": ""
+    },
+    "U+F12E": {
+      "char": "",
+      "romanization": "thau",
+      "chinese character only orthography": "刀ﾟ号",
+      "visually similar orthography": ""
+    },
+    "U+F12F": {
+      "char": "",
+      "romanization": "thou",
+      "chinese character only orthography": "刀ﾟ多",
+      "visually similar orthography": ""
+    },
+    "U+F130": {
+      "char": "",
+      "romanization": "theu",
+      "chinese character only orthography": "刀ﾟ久",
+      "visually similar orthography": ""
+    },
+    "U+F131": {
+      "char": "",
+      "romanization": "thiu",
+      "chinese character only orthography": "刀ﾟ雨",
+      "visually similar orthography": ""
+    },
+    "U+F132": {
+      "char": "",
+      "romanization": "thae",
+      "chinese character only orthography": "刀ﾟ寒",
+      "visually similar orthography": ""
+    },
+    "U+F133": {
+      "char": "",
+      "romanization": "thoe",
+      "chinese character only orthography": "刀ﾟ良",
+      "visually similar orthography": ""
+    },
+    "U+F134": {
+      "char": "",
+      "romanization": "thon",
+      "chinese character only orthography": "刀ﾟ从",
+      "visually similar orthography": ""
+    },
+    "U+F135": {
+      "char": "",
+      "romanization": "then",
+      "chinese character only orthography": "刀ﾟ文",
+      "visually similar orthography": ""
+    },
+    "U+F136": {
+      "char": "",
+      "romanization": "thin",
+      "chinese character only orthography": "刀ﾟ刃",
+      "visually similar orthography": ""
+    },
+    "U+F137": {
+      "char": "",
+      "romanization": "thaon",
+      "chinese character only orthography": "刀ﾟ亡",
+      "visually similar orthography": ""
+    },
+    "U+F138": {
+      "char": "",
+      "romanization": "theon",
+      "chinese character only orthography": "刀ﾟ能",
+      "visually similar orthography": ""
+    },
+    "U+F139": {
+      "char": "",
+      "romanization": "thr",
+      "chinese character only orthography": "刀ﾟ而",
+      "visually similar orthography": ""
+    },
+    "U+F140": {
+      "char": "",
+      "romanization": "t",
+      "chinese character only orthography": "刀",
+      "visually similar orthography": ""
+    },
+    "U+F141": {
+      "char": "",
+      "romanization": "ta",
+      "chinese character only orthography": "刀派",
+      "visually similar orthography": ""
+    },
+    "U+F142": {
+      "char": "",
+      "romanization": "taq",
+      "chinese character only orthography": "刀乏",
+      "visually similar orthography": ""
+    },
+    "U+F143": {
+      "char": "",
+      "romanization": "to",
+      "chinese character only orthography": "刀瓦",
+      "visually similar orthography": ""
+    },
+    "U+F144": {
+      "char": "",
+      "romanization": "toq",
+      "chinese character only orthography": "刀昱",
+      "visually similar orthography": ""
+    },
+    "U+F145": {
+      "char": "",
+      "romanization": "te",
+      "chinese character only orthography": "刀卑",
+      "visually similar orthography": ""
+    },
+    "U+F146": {
+      "char": "",
+      "romanization": "teq",
+      "chinese character only orthography": "刀出",
+      "visually similar orthography": ""
+    },
+    "U+F147": {
+      "char": "",
+      "romanization": "ti",
+      "chinese character only orthography": "刀以",
+      "visually similar orthography": ""
+    },
+    "U+F148": {
+      "char": "",
+      "romanization": "tiq",
+      "chinese character only orthography": "刀亦",
+      "visually similar orthography": ""
+    },
+    "U+F149": {
+      "char": "",
+      "romanization": "tu",
+      "chinese character only orthography": "刀无",
+      "visually similar orthography": ""
+    },
+    "U+F14A": {
+      "char": "",
+      "romanization": "ty",
+      "chinese character only orthography": "刀厶",
+      "visually similar orthography": ""
+    },
+    "U+F14B": {
+      "char": "",
+      "romanization": "tae",
+      "chinese character only orthography": "刀万",
+      "visually similar orthography": ""
+    },
+    "U+F14C": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F14D": {
+      "char": "",
+      "romanization": "tie",
+      "chinese character only orthography": "刀建",
+      "visually similar orthography": ""
+    },
+    "U+F14E": {
+      "char": "",
+      "romanization": "tau",
+      "chinese character only orthography": "刀号",
+      "visually similar orthography": ""
+    },
+    "U+F14F": {
+      "char": "",
+      "romanization": "tou",
+      "chinese character only orthography": "刀多",
+      "visually similar orthography": ""
+    },
+    "U+F150": {
+      "char": "",
+      "romanization": "teu",
+      "chinese character only orthography": "刀久",
+      "visually similar orthography": ""
+    },
+    "U+F151": {
+      "char": "",
+      "romanization": "tiu",
+      "chinese character only orthography": "刀雨",
+      "visually similar orthography": ""
+    },
+    "U+F152": {
+      "char": "",
+      "romanization": "toe",
+      "chinese character only orthography": "刀寒",
+      "visually similar orthography": ""
+    },
+    "U+F153": {
+      "char": "",
+      "romanization": "tan",
+      "chinese character only orthography": "刀良",
+      "visually similar orthography": ""
+    },
+    "U+F154": {
+      "char": "",
+      "romanization": "ton",
+      "chinese character only orthography": "刀从",
+      "visually similar orthography": ""
+    },
+    "U+F155": {
+      "char": "",
+      "romanization": "ten",
+      "chinese character only orthography": "刀文",
+      "visually similar orthography": ""
+    },
+    "U+F156": {
+      "char": "",
+      "romanization": "tin",
+      "chinese character only orthography": "刀刃",
+      "visually similar orthography": ""
+    },
+    "U+F157": {
+      "char": "",
+      "romanization": "taon",
+      "chinese character only orthography": "刀亡",
+      "visually similar orthography": ""
+    },
+    "U+F158": {
+      "char": "",
+      "romanization": "teon",
+      "chinese character only orthography": "刀能",
+      "visually similar orthography": ""
+    },
+    "U+F159": {
+      "char": "",
+      "romanization": "tr",
+      "chinese character only orthography": "刀而",
+      "visually similar orthography": ""
+    },
+    "U+F160": {
+      "char": "",
+      "romanization": "d",
+      "chinese character only orthography": "刀ﾞ",
+      "visually similar orthography": ""
+    },
+    "U+F161": {
+      "char": "",
+      "romanization": "da",
+      "chinese character only orthography": "刀ﾞ派",
+      "visually similar orthography": ""
+    },
+    "U+F162": {
+      "char": "",
+      "romanization": "daq",
+      "chinese character only orthography": "刀ﾞ乏",
+      "visually similar orthography": ""
+    },
+    "U+F163": {
+      "char": "",
+      "romanization": "do",
+      "chinese character only orthography": "刀ﾞ瓦",
+      "visually similar orthography": ""
+    },
+    "U+F164": {
+      "char": "",
+      "romanization": "doq",
+      "chinese character only orthography": "刀ﾞ昱",
+      "visually similar orthography": ""
+    },
+    "U+F165": {
+      "char": "",
+      "romanization": "de",
+      "chinese character only orthography": "刀ﾞ卑",
+      "visually similar orthography": ""
+    },
+    "U+F166": {
+      "char": "",
+      "romanization": "deq",
+      "chinese character only orthography": "刀ﾞ出",
+      "visually similar orthography": ""
+    },
+    "U+F167": {
+      "char": "",
+      "romanization": "di",
+      "chinese character only orthography": "刀ﾞ以",
+      "visually similar orthography": ""
+    },
+    "U+F168": {
+      "char": "",
+      "romanization": "diq",
+      "chinese character only orthography": "刀ﾞ亦",
+      "visually similar orthography": ""
+    },
+    "U+F169": {
+      "char": "",
+      "romanization": "du",
+      "chinese character only orthography": "刀ﾞ无",
+      "visually similar orthography": ""
+    },
+    "U+F16A": {
+      "char": "",
+      "romanization": "dy",
+      "chinese character only orthography": "刀ﾞ厶",
+      "visually similar orthography": ""
+    },
+    "U+F16B": {
+      "char": "",
+      "romanization": "dae",
+      "chinese character only orthography": "刀ﾞ万",
+      "visually similar orthography": ""
+    },
+    "U+F16C": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F16D": {
+      "char": "",
+      "romanization": "die",
+      "chinese character only orthography": "刀ﾞ建",
+      "visually similar orthography": ""
+    },
+    "U+F16E": {
+      "char": "",
+      "romanization": "dau",
+      "chinese character only orthography": "刀ﾞ号",
+      "visually similar orthography": ""
+    },
+    "U+F16F": {
+      "char": "",
+      "romanization": "dou",
+      "chinese character only orthography": "刀ﾞ多",
+      "visually similar orthography": ""
+    },
+    "U+F170": {
+      "char": "",
+      "romanization": "deu",
+      "chinese character only orthography": "刀ﾞ久",
+      "visually similar orthography": ""
+    },
+    "U+F171": {
+      "char": "",
+      "romanization": "diu",
+      "chinese character only orthography": "刀ﾞ雨",
+      "visually similar orthography": ""
+    },
+    "U+F172": {
+      "char": "",
+      "romanization": "doe",
+      "chinese character only orthography": "刀ﾞ寒",
+      "visually similar orthography": ""
+    },
+    "U+F173": {
+      "char": "",
+      "romanization": "dan",
+      "chinese character only orthography": "刀ﾞ良",
+      "visually similar orthography": ""
+    },
+    "U+F174": {
+      "char": "",
+      "romanization": "don",
+      "chinese character only orthography": "刀ﾞ从",
+      "visually similar orthography": ""
+    },
+    "U+F175": {
+      "char": "",
+      "romanization": "den",
+      "chinese character only orthography": "刀ﾞ文",
+      "visually similar orthography": ""
+    },
+    "U+F176": {
+      "char": "",
+      "romanization": "din",
+      "chinese character only orthography": "刀ﾞ刃",
+      "visually similar orthography": ""
+    },
+    "U+F177": {
+      "char": "",
+      "romanization": "daon",
+      "chinese character only orthography": "刀ﾞ亡",
+      "visually similar orthography": ""
+    },
+    "U+F178": {
+      "char": "",
+      "romanization": "deon",
+      "chinese character only orthography": "刀ﾞ能",
+      "visually similar orthography": ""
+    },
+    "U+F179": {
+      "char": "",
+      "romanization": "dr",
+      "chinese character only orthography": "刀ﾞ而",
+      "visually similar orthography": ""
+    },
+    "U+F180": {
+      "char": "",
+      "romanization": "l",
+      "chinese character only orthography": "力",
+      "visually similar orthography": ""
+    },
+    "U+F181": {
+      "char": "",
+      "romanization": "la",
+      "chinese character only orthography": "力派",
+      "visually similar orthography": ""
+    },
+    "U+F182": {
+      "char": "",
+      "romanization": "laq",
+      "chinese character only orthography": "力乏",
+      "visually similar orthography": ""
+    },
+    "U+F183": {
+      "char": "",
+      "romanization": "lo",
+      "chinese character only orthography": "力瓦",
+      "visually similar orthography": ""
+    },
+    "U+F184": {
+      "char": "",
+      "romanization": "loq",
+      "chinese character only orthography": "力昱",
+      "visually similar orthography": ""
+    },
+    "U+F185": {
+      "char": "",
+      "romanization": "le",
+      "chinese character only orthography": "力卑",
+      "visually similar orthography": ""
+    },
+    "U+F186": {
+      "char": "",
+      "romanization": "leq",
+      "chinese character only orthography": "力出",
+      "visually similar orthography": ""
+    },
+    "U+F187": {
+      "char": "",
+      "romanization": "li",
+      "chinese character only orthography": "力以",
+      "visually similar orthography": ""
+    },
+    "U+F188": {
+      "char": "",
+      "romanization": "liq",
+      "chinese character only orthography": "力亦",
+      "visually similar orthography": ""
+    },
+    "U+F189": {
+      "char": "",
+      "romanization": "lu",
+      "chinese character only orthography": "力无",
+      "visually similar orthography": ""
+    },
+    "U+F18A": {
+      "char": "",
+      "romanization": "ly",
+      "chinese character only orthography": "力厶",
+      "visually similar orthography": ""
+    },
+    "U+F18B": {
+      "char": "",
+      "romanization": "lae",
+      "chinese character only orthography": "力万",
+      "visually similar orthography": ""
+    },
+    "U+F18C": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F18D": {
+      "char": "",
+      "romanization": "lie",
+      "chinese character only orthography": "力建",
+      "visually similar orthography": ""
+    },
+    "U+F18E": {
+      "char": "",
+      "romanization": "lau",
+      "chinese character only orthography": "力号",
+      "visually similar orthography": ""
+    },
+    "U+F18F": {
+      "char": "",
+      "romanization": "lou",
+      "chinese character only orthography": "力多",
+      "visually similar orthography": ""
+    },
+    "U+F190": {
+      "char": "",
+      "romanization": "leu",
+      "chinese character only orthography": "力久",
+      "visually similar orthography": ""
+    },
+    "U+F191": {
+      "char": "",
+      "romanization": "liu",
+      "chinese character only orthography": "力雨",
+      "visually similar orthography": ""
+    },
+    "U+F192": {
+      "char": "",
+      "romanization": "loe",
+      "chinese character only orthography": "力寒",
+      "visually similar orthography": ""
+    },
+    "U+F193": {
+      "char": "",
+      "romanization": "lan",
+      "chinese character only orthography": "力良",
+      "visually similar orthography": ""
+    },
+    "U+F194": {
+      "char": "",
+      "romanization": "lon",
+      "chinese character only orthography": "力从",
+      "visually similar orthography": ""
+    },
+    "U+F195": {
+      "char": "",
+      "romanization": "len",
+      "chinese character only orthography": "力文",
+      "visually similar orthography": ""
+    },
+    "U+F196": {
+      "char": "",
+      "romanization": "lin",
+      "chinese character only orthography": "力刃",
+      "visually similar orthography": ""
+    },
+    "U+F197": {
+      "char": "",
+      "romanization": "laon",
+      "chinese character only orthography": "力亡",
+      "visually similar orthography": ""
+    },
+    "U+F198": {
+      "char": "",
+      "romanization": "leon",
+      "chinese character only orthography": "力能",
+      "visually similar orthography": ""
+    },
+    "U+F199": {
+      "char": "",
+      "romanization": "lr",
+      "chinese character only orthography": "力而",
+      "visually similar orthography": ""
+    },
+    "U+F1A0": {
+      "char": "",
+      "romanization": "lh",
+      "chinese character only orthography": "力ﾟ ",
+      "visually similar orthography": ""
+    },
+    "U+F1A1": {
+      "char": "",
+      "romanization": "lha",
+      "chinese character only orthography": "力ﾟ派",
+      "visually similar orthography": ""
+    },
+    "U+F1A2": {
+      "char": "",
+      "romanization": "lhaq",
+      "chinese character only orthography": "力ﾟ乏",
+      "visually similar orthography": ""
+    },
+    "U+F1A3": {
+      "char": "",
+      "romanization": "lho",
+      "chinese character only orthography": "力ﾟ瓦",
+      "visually similar orthography": ""
+    },
+    "U+F1A4": {
+      "char": "",
+      "romanization": "lhoq",
+      "chinese character only orthography": "力ﾟ昱",
+      "visually similar orthography": ""
+    },
+    "U+F1A5": {
+      "char": "",
+      "romanization": "lhe",
+      "chinese character only orthography": "力ﾟ卑",
+      "visually similar orthography": ""
+    },
+    "U+F1A6": {
+      "char": "",
+      "romanization": "lheq",
+      "chinese character only orthography": "力ﾟ出",
+      "visually similar orthography": ""
+    },
+    "U+F1A7": {
+      "char": "",
+      "romanization": "lhi",
+      "chinese character only orthography": "力ﾟ以",
+      "visually similar orthography": ""
+    },
+    "U+F1A8": {
+      "char": "",
+      "romanization": "lhiq",
+      "chinese character only orthography": "力ﾟ亦",
+      "visually similar orthography": ""
+    },
+    "U+F1A9": {
+      "char": "",
+      "romanization": "lhu",
+      "chinese character only orthography": "力ﾟ无",
+      "visually similar orthography": ""
+    },
+    "U+F1AA": {
+      "char": "",
+      "romanization": "lhy",
+      "chinese character only orthography": "力ﾟ厶",
+      "visually similar orthography": ""
+    },
+    "U+F1AB": {
+      "char": "",
+      "romanization": "lhae",
+      "chinese character only orthography": "力ﾟ万",
+      "visually similar orthography": ""
+    },
+    "U+F1AC": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F1AD": {
+      "char": "",
+      "romanization": "lhie",
+      "chinese character only orthography": "力ﾟ建",
+      "visually similar orthography": ""
+    },
+    "U+F1AE": {
+      "char": "",
+      "romanization": "lhau",
+      "chinese character only orthography": "力ﾟ号",
+      "visually similar orthography": ""
+    },
+    "U+F1AF": {
+      "char": "",
+      "romanization": "lhou",
+      "chinese character only orthography": "力ﾟ多",
+      "visually similar orthography": ""
+    },
+    "U+F1B0": {
+      "char": "",
+      "romanization": "lheu",
+      "chinese character only orthography": "力ﾟ久",
+      "visually similar orthography": ""
+    },
+    "U+F1B1": {
+      "char": "",
+      "romanization": "lhi",
+      "chinese character only orthography": "力ﾟ雨",
+      "visually similar orthography": ""
+    },
+    "U+F1B2": {
+      "char": "",
+      "romanization": "lhoe",
+      "chinese character only orthography": "力ﾟ寒",
+      "visually similar orthography": ""
+    },
+    "U+F1B3": {
+      "char": "",
+      "romanization": "lhan",
+      "chinese character only orthography": "力ﾟ良",
+      "visually similar orthography": ""
+    },
+    "U+F1B4": {
+      "char": "",
+      "romanization": "lhon",
+      "chinese character only orthography": "力ﾟ从",
+      "visually similar orthography": ""
+    },
+    "U+F1B5": {
+      "char": "",
+      "romanization": "lhen",
+      "chinese character only orthography": "力ﾟ文",
+      "visually similar orthography": ""
+    },
+    "U+F1B6": {
+      "char": "",
+      "romanization": "lhin",
+      "chinese character only orthography": "力ﾟ刃",
+      "visually similar orthography": ""
+    },
+    "U+F1B7": {
+      "char": "",
+      "romanization": "lhaon",
+      "chinese character only orthography": "力ﾟ亡",
+      "visually similar orthography": ""
+    },
+    "U+F1B8": {
+      "char": "",
+      "romanization": "lheon",
+      "chinese character only orthography": "力ﾟ能",
+      "visually similar orthography": ""
+    },
+    "U+F1B9": {
+      "char": "",
+      "romanization": "lhr",
+      "chinese character only orthography": "力ﾟ而",
+      "visually similar orthography": ""
+    },
+    "U+F1C0": {
+      "char": "",
+      "romanization": "n",
+      "chinese character only orthography": "拿",
+      "visually similar orthography": ""
+    },
+    "U+F1C1": {
+      "char": "",
+      "romanization": "na",
+      "chinese character only orthography": "拿派",
+      "visually similar orthography": ""
+    },
+    "U+F1C2": {
+      "char": "",
+      "romanization": "naq",
+      "chinese character only orthography": "拿乏",
+      "visually similar orthography": ""
+    },
+    "U+F1C3": {
+      "char": "",
+      "romanization": "no",
+      "chinese character only orthography": "拿瓦",
+      "visually similar orthography": ""
+    },
+    "U+F1C4": {
+      "char": "",
+      "romanization": "noq",
+      "chinese character only orthography": "拿昱",
+      "visually similar orthography": ""
+    },
+    "U+F1C5": {
+      "char": "",
+      "romanization": "ne",
+      "chinese character only orthography": "拿卑",
+      "visually similar orthography": ""
+    },
+    "U+F1C6": {
+      "char": "",
+      "romanization": "neq",
+      "chinese character only orthography": "拿出",
+      "visually similar orthography": ""
+    },
+    "U+F1C7": {
+      "char": "",
+      "romanization": "ni",
+      "chinese character only orthography": "拿以",
+      "visually similar orthography": ""
+    },
+    "U+F1C8": {
+      "char": "",
+      "romanization": "niq",
+      "chinese character only orthography": "拿亦",
+      "visually similar orthography": ""
+    },
+    "U+F1C9": {
+      "char": "",
+      "romanization": "nu",
+      "chinese character only orthography": "拿无",
+      "visually similar orthography": ""
+    },
+    "U+F1CA": {
+      "char": "",
+      "romanization": "ny",
+      "chinese character only orthography": "拿厶",
+      "visually similar orthography": ""
+    },
+    "U+F1CB": {
+      "char": "",
+      "romanization": "nae",
+      "chinese character only orthography": "拿万",
+      "visually similar orthography": ""
+    },
+    "U+F1CC": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": " ",
+      "visually similar orthography": ""
+    },
+    "U+F1CD": {
+      "char": "",
+      "romanization": "nie",
+      "chinese character only orthography": "拿建",
+      "visually similar orthography": ""
+    },
+    "U+F1CE": {
+      "char": "",
+      "romanization": "nau",
+      "chinese character only orthography": "拿号",
+      "visually similar orthography": ""
+    },
+    "U+F1CF": {
+      "char": "",
+      "romanization": "nou",
+      "chinese character only orthography": "拿多",
+      "visually similar orthography": ""
+    },
+    "U+F1D0": {
+      "char": "",
+      "romanization": "neu",
+      "chinese character only orthography": "拿久",
+      "visually similar orthography": ""
+    },
+    "U+F1D1": {
+      "char": "",
+      "romanization": "niu",
+      "chinese character only orthography": "拿雨",
+      "visually similar orthography": ""
+    },
+    "U+F1D2": {
+      "char": "",
+      "romanization": "noe",
+      "chinese character only orthography": "拿寒",
+      "visually similar orthography": ""
+    },
+    "U+F1D3": {
+      "char": "",
+      "romanization": "nan",
+      "chinese character only orthography": "拿良",
+      "visually similar orthography": ""
+    },
+    "U+F1D4": {
+      "char": "",
+      "romanization": "non",
+      "chinese character only orthography": "拿从",
+      "visually similar orthography": ""
+    },
+    "U+F1D5": {
+      "char": "",
+      "romanization": "nen",
+      "chinese character only orthography": "拿文",
+      "visually similar orthography": ""
+    },
+    "U+F1D6": {
+      "char": "",
+      "romanization": "nin",
+      "chinese character only orthography": "拿刃",
+      "visually similar orthography": ""
+    },
+    "U+F1D7": {
+      "char": "",
+      "romanization": "naon",
+      "chinese character only orthography": "拿亡",
+      "visually similar orthography": ""
+    },
+    "U+F1D8": {
+      "char": "",
+      "romanization": "neon",
+      "chinese character only orthography": "拿能",
+      "visually similar orthography": ""
+    },
+    "U+F1D9": {
+      "char": "",
+      "romanization": "nhr",
+      "chinese character only orthography": "拿而",
+      "visually similar orthography": ""
+    },
+    "U+F1E0": {
+      "char": "",
+      "romanization": "nh",
+      "chinese character only orthography": "拿ﾟ",
+      "visually similar orthography": ""
+    },
+    "U+F1E1": {
+      "char": "",
+      "romanization": "nha",
+      "chinese character only orthography": "拿ﾟ派",
+      "visually similar orthography": ""
+    },
+    "U+F1E2": {
+      "char": "",
+      "romanization": "nhaq",
+      "chinese character only orthography": "拿ﾟ乏",
+      "visually similar orthography": ""
+    },
+    "U+F1E3": {
+      "char": "",
+      "romanization": "nho",
+      "chinese character only orthography": "拿ﾟ瓦",
+      "visually similar orthography": ""
+    },
+    "U+F1E4": {
+      "char": "",
+      "romanization": "nhoq",
+      "chinese character only orthography": "拿ﾟ昱",
+      "visually similar orthography": ""
+    },
+    "U+F1E5": {
+      "char": "",
+      "romanization": "nhe",
+      "chinese character only orthography": "拿ﾟ卑",
+      "visually similar orthography": ""
+    },
+    "U+F1E6": {
+      "char": "",
+      "romanization": "nheq",
+      "chinese character only orthography": "拿ﾟ出",
+      "visually similar orthography": ""
+    },
+    "U+F1E7": {
+      "char": "",
+      "romanization": "nhi",
+      "chinese character only orthography": "拿ﾟ以",
+      "visually similar orthography": ""
+    },
+    "U+F1E8": {
+      "char": "",
+      "romanization": "nhiq",
+      "chinese character only orthography": "拿ﾟ亦",
+      "visually similar orthography": ""
+    },
+    "U+F1E9": {
+      "char": "",
+      "romanization": "nhu",
+      "chinese character only orthography": "拿ﾟ无",
+      "visually similar orthography": ""
+    },
+    "U+F1EA": {
+      "char": "",
+      "romanization": "nhy",
+      "chinese character only orthography": "拿ﾟ厶",
+      "visually similar orthography": ""
+    },
+    "U+F1EB": {
+      "char": "",
+      "romanization": "nhae",
+      "chinese character only orthography": "拿ﾟ万",
+      "visually similar orthography": ""
+    },
+    "U+F1EC": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F1ED": {
+      "char": "",
+      "romanization": "nhie",
+      "chinese character only orthography": "拿ﾟ建",
+      "visually similar orthography": ""
+    },
+    "U+F1EE": {
+      "char": "",
+      "romanization": "nhau",
+      "chinese character only orthography": "拿ﾟ号",
+      "visually similar orthography": ""
+    },
+    "U+F1EF": {
+      "char": "",
+      "romanization": "nhou",
+      "chinese character only orthography": "拿ﾟ多",
+      "visually similar orthography": ""
+    },
+    "U+F1F0": {
+      "char": "",
+      "romanization": "nheu",
+      "chinese character only orthography": "拿ﾟ久",
+      "visually similar orthography": ""
+    },
+    "U+F1F1": {
+      "char": "",
+      "romanization": "nhiu",
+      "chinese character only orthography": "拿ﾟ雨",
+      "visually similar orthography": ""
+    },
+    "U+F1F2": {
+      "char": "",
+      "romanization": "nhoe",
+      "chinese character only orthography": "拿ﾟ寒",
+      "visually similar orthography": ""
+    },
+    "U+F1F3": {
+      "char": "",
+      "romanization": "nhan",
+      "chinese character only orthography": "拿ﾟ良",
+      "visually similar orthography": ""
+    },
+    "U+F1F4": {
+      "char": "",
+      "romanization": "nhon",
+      "chinese character only orthography": "拿ﾟ从",
+      "visually similar orthography": ""
+    },
+    "U+F1F5": {
+      "char": "",
+      "romanization": "nhen",
+      "chinese character only orthography": "拿ﾟ文",
+      "visually similar orthography": ""
+    },
+    "U+F1F6": {
+      "char": "",
+      "romanization": "nhin",
+      "chinese character only orthography": "拿ﾟ刃",
+      "visually similar orthography": ""
+    },
+    "U+F1F7": {
+      "char": "",
+      "romanization": "nhaon",
+      "chinese character only orthography": "拿ﾟ亡",
+      "visually similar orthography": ""
+    },
+    "U+F1F8": {
+      "char": "",
+      "romanization": "nheon",
+      "chinese character only orthography": "拿ﾟ能",
+      "visually similar orthography": ""
+    },
+    "U+F1F9": {
+      "char": "",
+      "romanization": "nhr",
+      "chinese character only orthography": "拿ﾟ而",
+      "visually similar orthography": ""
+    },
+    "U+F200": {
+      "char": "",
+      "romanization": "kh",
+      "chinese character only orthography": "工ﾟ",
+      "visually similar orthography": ""
+    },
+    "U+F201": {
+      "char": "",
+      "romanization": "kha",
+      "chinese character only orthography": "工ﾟ派",
+      "visually similar orthography": ""
+    },
+    "U+F202": {
+      "char": "",
+      "romanization": "khaq",
+      "chinese character only orthography": "工ﾟ乏",
+      "visually similar orthography": ""
+    },
+    "U+F203": {
+      "char": "",
+      "romanization": "kho",
+      "chinese character only orthography": "工ﾟ瓦",
+      "visually similar orthography": ""
+    },
+    "U+F204": {
+      "char": "",
+      "romanization": "khoq",
+      "chinese character only orthography": "工ﾟ昱",
+      "visually similar orthography": ""
+    },
+    "U+F205": {
+      "char": "",
+      "romanization": "khe",
+      "chinese character only orthography": "工ﾟ卑",
+      "visually similar orthography": ""
+    },
+    "U+F206": {
+      "char": "",
+      "romanization": "kheq",
+      "chinese character only orthography": "工ﾟ出",
+      "visually similar orthography": ""
+    },
+    "U+F207": {
+      "char": "",
+      "romanization": "khi",
+      "chinese character only orthography": "工ﾟ以",
+      "visually similar orthography": ""
+    },
+    "U+F208": {
+      "char": "",
+      "romanization": "khiq",
+      "chinese character only orthography": "工ﾟ亦",
+      "visually similar orthography": ""
+    },
+    "U+F209": {
+      "char": "",
+      "romanization": "khu",
+      "chinese character only orthography": "工ﾟ无",
+      "visually similar orthography": ""
+    },
+    "U+F20A": {
+      "char": "",
+      "romanization": "khy",
+      "chinese character only orthography": "工ﾟ厶",
+      "visually similar orthography": ""
+    },
+    "U+F20B": {
+      "char": "",
+      "romanization": "khae",
+      "chinese character only orthography": "工ﾟ万",
+      "visually similar orthography": ""
+    },
+    "U+F20C": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F20D": {
+      "char": "",
+      "romanization": "khie",
+      "chinese character only orthography": "工ﾟ建",
+      "visually similar orthography": ""
+    },
+    "U+F20E": {
+      "char": "",
+      "romanization": "khau",
+      "chinese character only orthography": "工ﾟ号",
+      "visually similar orthography": ""
+    },
+    "U+F20F": {
+      "char": "",
+      "romanization": "khou",
+      "chinese character only orthography": "工ﾟ多",
+      "visually similar orthography": ""
+    },
+    "U+F210": {
+      "char": "",
+      "romanization": "kheu",
+      "chinese character only orthography": "工ﾟ久",
+      "visually similar orthography": ""
+    },
+    "U+F211": {
+      "char": "",
+      "romanization": "khiu",
+      "chinese character only orthography": "工ﾟ雨",
+      "visually similar orthography": ""
+    },
+    "U+F212": {
+      "char": "",
+      "romanization": "khoe",
+      "chinese character only orthography": "工ﾟ寒",
+      "visually similar orthography": ""
+    },
+    "U+F213": {
+      "char": "",
+      "romanization": "khan",
+      "chinese character only orthography": "工ﾟ良",
+      "visually similar orthography": ""
+    },
+    "U+F214": {
+      "char": "",
+      "romanization": "khon",
+      "chinese character only orthography": "工ﾟ从",
+      "visually similar orthography": ""
+    },
+    "U+F215": {
+      "char": "",
+      "romanization": "khen",
+      "chinese character only orthography": "工ﾟ文",
+      "visually similar orthography": ""
+    },
+    "U+F216": {
+      "char": "",
+      "romanization": "khin",
+      "chinese character only orthography": "工ﾟ刃",
+      "visually similar orthography": ""
+    },
+    "U+F217": {
+      "char": "",
+      "romanization": "khaon",
+      "chinese character only orthography": "工ﾟ亡",
+      "visually similar orthography": ""
+    },
+    "U+F218": {
+      "char": "",
+      "romanization": "kheon",
+      "chinese character only orthography": "工ﾟ能",
+      "visually similar orthography": ""
+    },
+    "U+F219": {
+      "char": "",
+      "romanization": "khr",
+      "chinese character only orthography": "工ﾟ而",
+      "visually similar orthography": ""
+    },
+    "U+F220": {
+      "char": "",
+      "romanization": "k",
+      "chinese character only orthography": "工",
+      "visually similar orthography": ""
+    },
+    "U+F221": {
+      "char": "",
+      "romanization": "ka",
+      "chinese character only orthography": "工派",
+      "visually similar orthography": ""
+    },
+    "U+F222": {
+      "char": "",
+      "romanization": "kaq",
+      "chinese character only orthography": "工乏",
+      "visually similar orthography": ""
+    },
+    "U+F223": {
+      "char": "",
+      "romanization": "ko",
+      "chinese character only orthography": "工瓦",
+      "visually similar orthography": ""
+    },
+    "U+F224": {
+      "char": "",
+      "romanization": "koq",
+      "chinese character only orthography": "工昱",
+      "visually similar orthography": ""
+    },
+    "U+F225": {
+      "char": "",
+      "romanization": "ke",
+      "chinese character only orthography": "工卑",
+      "visually similar orthography": ""
+    },
+    "U+F226": {
+      "char": "",
+      "romanization": "keq",
+      "chinese character only orthography": "工出",
+      "visually similar orthography": ""
+    },
+    "U+F227": {
+      "char": "",
+      "romanization": "ki",
+      "chinese character only orthography": "工以",
+      "visually similar orthography": ""
+    },
+    "U+F228": {
+      "char": "",
+      "romanization": "kiq",
+      "chinese character only orthography": "工亦",
+      "visually similar orthography": ""
+    },
+    "U+F229": {
+      "char": "",
+      "romanization": "ku",
+      "chinese character only orthography": "工无",
+      "visually similar orthography": ""
+    },
+    "U+F22A": {
+      "char": "",
+      "romanization": "ky",
+      "chinese character only orthography": "工厶",
+      "visually similar orthography": ""
+    },
+    "U+F22B": {
+      "char": "",
+      "romanization": "kae",
+      "chinese character only orthography": "工万",
+      "visually similar orthography": ""
+    },
+    "U+F22C": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F22D": {
+      "char": "",
+      "romanization": "kie",
+      "chinese character only orthography": "工建",
+      "visually similar orthography": ""
+    },
+    "U+F22E": {
+      "char": "",
+      "romanization": "kau",
+      "chinese character only orthography": "工号",
+      "visually similar orthography": ""
+    },
+    "U+F22F": {
+      "char": "",
+      "romanization": "kou",
+      "chinese character only orthography": "工多",
+      "visually similar orthography": ""
+    },
+    "U+F230": {
+      "char": "",
+      "romanization": "keu",
+      "chinese character only orthography": "工久",
+      "visually similar orthography": ""
+    },
+    "U+F231": {
+      "char": "",
+      "romanization": "kiu",
+      "chinese character only orthography": "工雨",
+      "visually similar orthography": ""
+    },
+    "U+F232": {
+      "char": "",
+      "romanization": "koe",
+      "chinese character only orthography": "工寒",
+      "visually similar orthography": ""
+    },
+    "U+F233": {
+      "char": "",
+      "romanization": "kan",
+      "chinese character only orthography": "工良",
+      "visually similar orthography": ""
+    },
+    "U+F234": {
+      "char": "",
+      "romanization": "kon",
+      "chinese character only orthography": "工从",
+      "visually similar orthography": ""
+    },
+    "U+F235": {
+      "char": "",
+      "romanization": "ken",
+      "chinese character only orthography": "工文",
+      "visually similar orthography": ""
+    },
+    "U+F236": {
+      "char": "",
+      "romanization": "kin",
+      "chinese character only orthography": "工刃",
+      "visually similar orthography": ""
+    },
+    "U+F237": {
+      "char": "",
+      "romanization": "kaon",
+      "chinese character only orthography": "工亡",
+      "visually similar orthography": ""
+    },
+    "U+F238": {
+      "char": "",
+      "romanization": "keon",
+      "chinese character only orthography": "工能",
+      "visually similar orthography": ""
+    },
+    "U+F239": {
+      "char": "",
+      "romanization": "kr",
+      "chinese character only orthography": "工而",
+      "visually similar orthography": ""
+    },
+    "U+F240": {
+      "char": "",
+      "romanization": "g",
+      "chinese character only orthography": "工ﾞ",
+      "visually similar orthography": ""
+    },
+    "U+F241": {
+      "char": "",
+      "romanization": "ga",
+      "chinese character only orthography": "工ﾞ派",
+      "visually similar orthography": ""
+    },
+    "U+F242": {
+      "char": "",
+      "romanization": "gaq",
+      "chinese character only orthography": "工ﾞ乏",
+      "visually similar orthography": ""
+    },
+    "U+F243": {
+      "char": "",
+      "romanization": "go",
+      "chinese character only orthography": "工ﾞ瓦",
+      "visually similar orthography": ""
+    },
+    "U+F244": {
+      "char": "",
+      "romanization": "goq",
+      "chinese character only orthography": "工ﾞ昱",
+      "visually similar orthography": ""
+    },
+    "U+F245": {
+      "char": "",
+      "romanization": "ge",
+      "chinese character only orthography": "工ﾞ卑",
+      "visually similar orthography": ""
+    },
+    "U+F246": {
+      "char": "",
+      "romanization": "geq",
+      "chinese character only orthography": "工ﾞ出",
+      "visually similar orthography": ""
+    },
+    "U+F247": {
+      "char": "",
+      "romanization": "gi",
+      "chinese character only orthography": "工ﾞ以",
+      "visually similar orthography": ""
+    },
+    "U+F248": {
+      "char": "",
+      "romanization": "giq",
+      "chinese character only orthography": "工ﾞ亦",
+      "visually similar orthography": ""
+    },
+    "U+F249": {
+      "char": "",
+      "romanization": "gu",
+      "chinese character only orthography": "工ﾞ无",
+      "visually similar orthography": ""
+    },
+    "U+F24A": {
+      "char": "",
+      "romanization": "gy",
+      "chinese character only orthography": "工ﾞ厶",
+      "visually similar orthography": ""
+    },
+    "U+F24B": {
+      "char": "",
+      "romanization": "gae",
+      "chinese character only orthography": "工ﾞ万",
+      "visually similar orthography": ""
+    },
+    "U+F24C": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F24D": {
+      "char": "",
+      "romanization": "gie",
+      "chinese character only orthography": "工ﾞ建",
+      "visually similar orthography": ""
+    },
+    "U+F24E": {
+      "char": "",
+      "romanization": "gau",
+      "chinese character only orthography": "工ﾞ号",
+      "visually similar orthography": ""
+    },
+    "U+F24F": {
+      "char": "",
+      "romanization": "gou",
+      "chinese character only orthography": "工ﾞ多",
+      "visually similar orthography": ""
+    },
+    "U+F250": {
+      "char": "",
+      "romanization": "geu",
+      "chinese character only orthography": "工ﾞ久",
+      "visually similar orthography": ""
+    },
+    "U+F251": {
+      "char": "",
+      "romanization": "giu",
+      "chinese character only orthography": "工ﾞ雨",
+      "visually similar orthography": ""
+    },
+    "U+F252": {
+      "char": "",
+      "romanization": "goe",
+      "chinese character only orthography": "工ﾞ寒",
+      "visually similar orthography": ""
+    },
+    "U+F253": {
+      "char": "",
+      "romanization": "gan",
+      "chinese character only orthography": "工ﾞ良",
+      "visually similar orthography": ""
+    },
+    "U+F254": {
+      "char": "",
+      "romanization": "gon",
+      "chinese character only orthography": "工ﾞ从",
+      "visually similar orthography": ""
+    },
+    "U+F255": {
+      "char": "",
+      "romanization": "gen",
+      "chinese character only orthography": "工ﾞ文",
+      "visually similar orthography": ""
+    },
+    "U+F256": {
+      "char": "",
+      "romanization": "gin",
+      "chinese character only orthography": "工ﾞ刃",
+      "visually similar orthography": ""
+    },
+    "U+F257": {
+      "char": "",
+      "romanization": "gaon",
+      "chinese character only orthography": "工ﾞ亡",
+      "visually similar orthography": ""
+    },
+    "U+F258": {
+      "char": "",
+      "romanization": "geon",
+      "chinese character only orthography": "工ﾞ能",
+      "visually similar orthography": ""
+    },
+    "U+F259": {
+      "char": "",
+      "romanization": "gr",
+      "chinese character only orthography": "工ﾞ而",
+      "visually similar orthography": ""
+    },
+    "U+F260": {
+      "char": "",
+      "romanization": "h",
+      "chinese character only orthography": "奧ﾟ",
+      "visually similar orthography": ""
+    },
+    "U+F261": {
+      "char": "",
+      "romanization": "ha",
+      "chinese character only orthography": "奧ﾟ派",
+      "visually similar orthography": ""
+    },
+    "U+F262": {
+      "char": "",
+      "romanization": "haq",
+      "chinese character only orthography": "奧ﾟ乏",
+      "visually similar orthography": ""
+    },
+    "U+F263": {
+      "char": "",
+      "romanization": "ho",
+      "chinese character only orthography": "奧ﾟ瓦",
+      "visually similar orthography": ""
+    },
+    "U+F264": {
+      "char": "",
+      "romanization": "hoq",
+      "chinese character only orthography": "奧ﾟ昱",
+      "visually similar orthography": ""
+    },
+    "U+F265": {
+      "char": "",
+      "romanization": "he",
+      "chinese character only orthography": "奧ﾟ卑",
+      "visually similar orthography": ""
+    },
+    "U+F266": {
+      "char": "",
+      "romanization": "heq",
+      "chinese character only orthography": "奧ﾟ出",
+      "visually similar orthography": ""
+    },
+    "U+F267": {
+      "char": "",
+      "romanization": "hi",
+      "chinese character only orthography": "奧ﾟ以",
+      "visually similar orthography": ""
+    },
+    "U+F268": {
+      "char": "",
+      "romanization": "hiq",
+      "chinese character only orthography": "奧ﾟ亦",
+      "visually similar orthography": ""
+    },
+    "U+F269": {
+      "char": "",
+      "romanization": "hu",
+      "chinese character only orthography": "奧ﾟ无",
+      "visually similar orthography": ""
+    },
+    "U+F26A": {
+      "char": "",
+      "romanization": "hy",
+      "chinese character only orthography": "奧ﾟ厶",
+      "visually similar orthography": ""
+    },
+    "U+F26B": {
+      "char": "",
+      "romanization": "hae",
+      "chinese character only orthography": "奧ﾟ万",
+      "visually similar orthography": ""
+    },
+    "U+F26C": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F26D": {
+      "char": "",
+      "romanization": "hie",
+      "chinese character only orthography": "奧ﾟ建",
+      "visually similar orthography": ""
+    },
+    "U+F26E": {
+      "char": "",
+      "romanization": "hau",
+      "chinese character only orthography": "奧ﾟ号",
+      "visually similar orthography": ""
+    },
+    "U+F26F": {
+      "char": "",
+      "romanization": "hou",
+      "chinese character only orthography": "奧ﾟ多",
+      "visually similar orthography": ""
+    },
+    "U+F270": {
+      "char": "",
+      "romanization": "heu",
+      "chinese character only orthography": "奧ﾟ久",
+      "visually similar orthography": ""
+    },
+    "U+F271": {
+      "char": "",
+      "romanization": "hiu",
+      "chinese character only orthography": "奧ﾟ雨",
+      "visually similar orthography": ""
+    },
+    "U+F272": {
+      "char": "",
+      "romanization": "hoe",
+      "chinese character only orthography": "奧ﾟ寒",
+      "visually similar orthography": ""
+    },
+    "U+F273": {
+      "char": "",
+      "romanization": "han",
+      "chinese character only orthography": "奧ﾟ良",
+      "visually similar orthography": ""
+    },
+    "U+F274": {
+      "char": "",
+      "romanization": "hon",
+      "chinese character only orthography": "奧ﾟ从",
+      "visually similar orthography": ""
+    },
+    "U+F275": {
+      "char": "",
+      "romanization": "hen",
+      "chinese character only orthography": "奧ﾟ文",
+      "visually similar orthography": ""
+    },
+    "U+F276": {
+      "char": "",
+      "romanization": "hin",
+      "chinese character only orthography": "奧ﾟ刃",
+      "visually similar orthography": ""
+    },
+    "U+F277": {
+      "char": "",
+      "romanization": "haon",
+      "chinese character only orthography": "奧ﾟ亡",
+      "visually similar orthography": ""
+    },
+    "U+F278": {
+      "char": "",
+      "romanization": "heon",
+      "chinese character only orthography": "奧ﾟ能",
+      "visually similar orthography": ""
+    },
+    "U+F279": {
+      "char": "",
+      "romanization": "hr",
+      "chinese character only orthography": "奧ﾟ而",
+      "visually similar orthography": ""
+    },
+    "U+F280": {
+      "char": "",
+      "romanization": "-",
+      "chinese character only orthography": "奧",
+      "visually similar orthography": ""
+    },
+    "U+F281": {
+      "char": "",
+      "romanization": "-a",
+      "chinese character only orthography": "奧派",
+      "visually similar orthography": ""
+    },
+    "U+F282": {
+      "char": "",
+      "romanization": "-aq",
+      "chinese character only orthography": "奧乏",
+      "visually similar orthography": ""
+    },
+    "U+F283": {
+      "char": "",
+      "romanization": "-o",
+      "chinese character only orthography": "奧瓦",
+      "visually similar orthography": ""
+    },
+    "U+F284": {
+      "char": "",
+      "romanization": "-oq",
+      "chinese character only orthography": "奧昱",
+      "visually similar orthography": ""
+    },
+    "U+F285": {
+      "char": "",
+      "romanization": "-e",
+      "chinese character only orthography": "奧卑",
+      "visually similar orthography": ""
+    },
+    "U+F286": {
+      "char": "",
+      "romanization": "-eq",
+      "chinese character only orthography": "奧出",
+      "visually similar orthography": ""
+    },
+    "U+F287": {
+      "char": "",
+      "romanization": "-i",
+      "chinese character only orthography": "奧以",
+      "visually similar orthography": ""
+    },
+    "U+F288": {
+      "char": "",
+      "romanization": "-iq",
+      "chinese character only orthography": "奧亦",
+      "visually similar orthography": ""
+    },
+    "U+F289": {
+      "char": "",
+      "romanization": "-u",
+      "chinese character only orthography": "奧无",
+      "visually similar orthography": ""
+    },
+    "U+F28A": {
+      "char": "",
+      "romanization": "-y",
+      "chinese character only orthography": "奧厶",
+      "visually similar orthography": ""
+    },
+    "U+F28B": {
+      "char": "",
+      "romanization": "-ae",
+      "chinese character only orthography": "奧万",
+      "visually similar orthography": ""
+    },
+    "U+F28C": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F28D": {
+      "char": "",
+      "romanization": "-ie",
+      "chinese character only orthography": "奧建",
+      "visually similar orthography": ""
+    },
+    "U+F28E": {
+      "char": "",
+      "romanization": "-au",
+      "chinese character only orthography": "奧号",
+      "visually similar orthography": ""
+    },
+    "U+F28F": {
+      "char": "",
+      "romanization": "-ou",
+      "chinese character only orthography": "奧多",
+      "visually similar orthography": ""
+    },
+    "U+F290": {
+      "char": "",
+      "romanization": "-eu",
+      "chinese character only orthography": "奧久",
+      "visually similar orthography": ""
+    },
+    "U+F291": {
+      "char": "",
+      "romanization": "-iu",
+      "chinese character only orthography": "奧雨",
+      "visually similar orthography": ""
+    },
+    "U+F292": {
+      "char": "",
+      "romanization": "-oe",
+      "chinese character only orthography": "奧寒",
+      "visually similar orthography": ""
+    },
+    "U+F293": {
+      "char": "",
+      "romanization": "-an",
+      "chinese character only orthography": "奧良",
+      "visually similar orthography": ""
+    },
+    "U+F294": {
+      "char": "",
+      "romanization": "-on",
+      "chinese character only orthography": "奧从",
+      "visually similar orthography": ""
+    },
+    "U+F295": {
+      "char": "",
+      "romanization": "-en",
+      "chinese character only orthography": "奧文",
+      "visually similar orthography": ""
+    },
+    "U+F296": {
+      "char": "",
+      "romanization": "-in",
+      "chinese character only orthography": "奧刃",
+      "visually similar orthography": ""
+    },
+    "U+F297": {
+      "char": "",
+      "romanization": "-aon",
+      "chinese character only orthography": "奧亡",
+      "visually similar orthography": ""
+    },
+    "U+F298": {
+      "char": "",
+      "romanization": "-eon",
+      "chinese character only orthography": "奧能",
+      "visually similar orthography": ""
+    },
+    "U+F299": {
+      "char": "",
+      "romanization": "-hr",
+      "chinese character only orthography": "奧而",
+      "visually similar orthography": ""
+    },
+    "U+F2A0": {
+      "char": "",
+      "romanization": "gh",
+      "chinese character only orthography": "奧ﾞ",
+      "visually similar orthography": ""
+    },
+    "U+F2A1": {
+      "char": "",
+      "romanization": "gha",
+      "chinese character only orthography": "奧ﾞ派",
+      "visually similar orthography": ""
+    },
+    "U+F2A2": {
+      "char": "",
+      "romanization": "ghaq",
+      "chinese character only orthography": "奧ﾞ乏",
+      "visually similar orthography": ""
+    },
+    "U+F2A3": {
+      "char": "",
+      "romanization": "gho",
+      "chinese character only orthography": "奧ﾞ瓦",
+      "visually similar orthography": ""
+    },
+    "U+F2A4": {
+      "char": "",
+      "romanization": "ghoq",
+      "chinese character only orthography": "奧ﾞ昱",
+      "visually similar orthography": ""
+    },
+    "U+F2A5": {
+      "char": "",
+      "romanization": "ghe",
+      "chinese character only orthography": "奧ﾞ卑",
+      "visually similar orthography": ""
+    },
+    "U+F2A6": {
+      "char": "",
+      "romanization": "gheq",
+      "chinese character only orthography": "奧ﾞ出",
+      "visually similar orthography": ""
+    },
+    "U+F2A7": {
+      "char": "",
+      "romanization": "ghi",
+      "chinese character only orthography": "奧ﾞ以",
+      "visually similar orthography": ""
+    },
+    "U+F2A8": {
+      "char": "",
+      "romanization": "ghiq",
+      "chinese character only orthography": "奧ﾞ亦",
+      "visually similar orthography": ""
+    },
+    "U+F2A9": {
+      "char": "",
+      "romanization": "ghu",
+      "chinese character only orthography": "奧ﾞ无",
+      "visually similar orthography": ""
+    },
+    "U+F2AA": {
+      "char": "",
+      "romanization": "ghy",
+      "chinese character only orthography": "奧ﾞ厶",
+      "visually similar orthography": ""
+    },
+    "U+F2AB": {
+      "char": "",
+      "romanization": "ghae",
+      "chinese character only orthography": "奧ﾞ万",
+      "visually similar orthography": ""
+    },
+    "U+F2AC": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F2AD": {
+      "char": "",
+      "romanization": "ghie",
+      "chinese character only orthography": "奧ﾞ建",
+      "visually similar orthography": ""
+    },
+    "U+F2AE": {
+      "char": "",
+      "romanization": "ghau",
+      "chinese character only orthography": "奧ﾞ号",
+      "visually similar orthography": ""
+    },
+    "U+F2AF": {
+      "char": "",
+      "romanization": "ghou",
+      "chinese character only orthography": "奧ﾞ多",
+      "visually similar orthography": ""
+    },
+    "U+F2B0": {
+      "char": "",
+      "romanization": "gheu",
+      "chinese character only orthography": "奧ﾞ久",
+      "visually similar orthography": ""
+    },
+    "U+F2B1": {
+      "char": "",
+      "romanization": "ghiu",
+      "chinese character only orthography": "奧ﾞ雨",
+      "visually similar orthography": ""
+    },
+    "U+F2B2": {
+      "char": "",
+      "romanization": "ghoe",
+      "chinese character only orthography": "奧ﾞ寒",
+      "visually similar orthography": ""
+    },
+    "U+F2B3": {
+      "char": "",
+      "romanization": "ghan",
+      "chinese character only orthography": "奧ﾞ良",
+      "visually similar orthography": ""
+    },
+    "U+F2B4": {
+      "char": "",
+      "romanization": "ghon",
+      "chinese character only orthography": "奧ﾞ从",
+      "visually similar orthography": ""
+    },
+    "U+F2B5": {
+      "char": "",
+      "romanization": "ghen",
+      "chinese character only orthography": "奧ﾞ文",
+      "visually similar orthography": ""
+    },
+    "U+F2B6": {
+      "char": "",
+      "romanization": "ghin",
+      "chinese character only orthography": "奧ﾞ刃",
+      "visually similar orthography": ""
+    },
+    "U+F2B7": {
+      "char": "",
+      "romanization": "ghaon",
+      "chinese character only orthography": "奧ﾞ亡",
+      "visually similar orthography": ""
+    },
+    "U+F2B8": {
+      "char": "",
+      "romanization": "gheon",
+      "chinese character only orthography": "奧ﾞ能",
+      "visually similar orthography": ""
+    },
+    "U+F2B9": {
+      "char": "",
+      "romanization": "ghr",
+      "chinese character only orthography": "奧ﾞ而",
+      "visually similar orthography": ""
+    },
+    "U+F2C0": {
+      "char": "",
+      "romanization": "ng",
+      "chinese character only orthography": "午",
+      "visually similar orthography": ""
+    },
+    "U+F2C1": {
+      "char": "",
+      "romanization": "nga",
+      "chinese character only orthography": "午派",
+      "visually similar orthography": ""
+    },
+    "U+F2C2": {
+      "char": "",
+      "romanization": "ngaq",
+      "chinese character only orthography": "午乏",
+      "visually similar orthography": ""
+    },
+    "U+F2C3": {
+      "char": "",
+      "romanization": "ngo",
+      "chinese character only orthography": "午瓦",
+      "visually similar orthography": ""
+    },
+    "U+F2C4": {
+      "char": "",
+      "romanization": "ngoq",
+      "chinese character only orthography": "午昱",
+      "visually similar orthography": ""
+    },
+    "U+F2C5": {
+      "char": "",
+      "romanization": "nge",
+      "chinese character only orthography": "午卑",
+      "visually similar orthography": ""
+    },
+    "U+F2C6": {
+      "char": "",
+      "romanization": "ngeq",
+      "chinese character only orthography": "午出",
+      "visually similar orthography": ""
+    },
+    "U+F2C7": {
+      "char": "",
+      "romanization": "ngi",
+      "chinese character only orthography": "午以",
+      "visually similar orthography": ""
+    },
+    "U+F2C8": {
+      "char": "",
+      "romanization": "ngiq",
+      "chinese character only orthography": "午亦",
+      "visually similar orthography": ""
+    },
+    "U+F2C9": {
+      "char": "",
+      "romanization": "ngu",
+      "chinese character only orthography": "午无",
+      "visually similar orthography": ""
+    },
+    "U+F2CA": {
+      "char": "",
+      "romanization": "ngy",
+      "chinese character only orthography": "午厶",
+      "visually similar orthography": ""
+    },
+    "U+F2CB": {
+      "char": "",
+      "romanization": "ngae",
+      "chinese character only orthography": "午万",
+      "visually similar orthography": ""
+    },
+    "U+F2CC": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F2CD": {
+      "char": "",
+      "romanization": "ngie",
+      "chinese character only orthography": "午建",
+      "visually similar orthography": ""
+    },
+    "U+F2CE": {
+      "char": "",
+      "romanization": "ngau",
+      "chinese character only orthography": "午号",
+      "visually similar orthography": ""
+    },
+    "U+F2CF": {
+      "char": "",
+      "romanization": "ngou",
+      "chinese character only orthography": "午多",
+      "visually similar orthography": ""
+    },
+    "U+F2D0": {
+      "char": "",
+      "romanization": "ngeu",
+      "chinese character only orthography": "午久",
+      "visually similar orthography": ""
+    },
+    "U+F2D1": {
+      "char": "",
+      "romanization": "ngiu",
+      "chinese character only orthography": "午雨",
+      "visually similar orthography": ""
+    },
+    "U+F2D2": {
+      "char": "",
+      "romanization": "ngoe",
+      "chinese character only orthography": "午寒",
+      "visually similar orthography": ""
+    },
+    "U+F2D3": {
+      "char": "",
+      "romanization": "ngan",
+      "chinese character only orthography": "午良",
+      "visually similar orthography": ""
+    },
+    "U+F2D4": {
+      "char": "",
+      "romanization": "ngon",
+      "chinese character only orthography": "午从",
+      "visually similar orthography": ""
+    },
+    "U+F2D5": {
+      "char": "",
+      "romanization": "ngen",
+      "chinese character only orthography": "午文",
+      "visually similar orthography": ""
+    },
+    "U+F2D6": {
+      "char": "",
+      "romanization": "ngin",
+      "chinese character only orthography": "午刃",
+      "visually similar orthography": ""
+    },
+    "U+F2D7": {
+      "char": "",
+      "romanization": "ngaon",
+      "chinese character only orthography": "午亡",
+      "visually similar orthography": ""
+    },
+    "U+F2D8": {
+      "char": "",
+      "romanization": "gheon",
+      "chinese character only orthography": "午能",
+      "visually similar orthography": ""
+    },
+    "U+F2D9": {
+      "char": "",
+      "romanization": "ghr",
+      "chinese character only orthography": "午而",
+      "visually similar orthography": ""
+    },
+    "U+F2E0": {
+      "char": "",
+      "romanization": "nk",
+      "chinese character only orthography": "午ﾟ",
+      "visually similar orthography": ""
+    },
+    "U+F2E1": {
+      "char": "",
+      "romanization": "nka",
+      "chinese character only orthography": "午ﾟ派",
+      "visually similar orthography": ""
+    },
+    "U+F2E2": {
+      "char": "",
+      "romanization": "nkaq",
+      "chinese character only orthography": "午ﾟ乏",
+      "visually similar orthography": ""
+    },
+    "U+F2E3": {
+      "char": "",
+      "romanization": "nko",
+      "chinese character only orthography": "午ﾟ瓦",
+      "visually similar orthography": ""
+    },
+    "U+F2E4": {
+      "char": "",
+      "romanization": "nkoq",
+      "chinese character only orthography": "午ﾟ昱",
+      "visually similar orthography": ""
+    },
+    "U+F2E5": {
+      "char": "",
+      "romanization": "nke",
+      "chinese character only orthography": "午ﾟ卑",
+      "visually similar orthography": ""
+    },
+    "U+F2E6": {
+      "char": "",
+      "romanization": "ngeq",
+      "chinese character only orthography": "午ﾟ出",
+      "visually similar orthography": ""
+    },
+    "U+F2E7": {
+      "char": "",
+      "romanization": "ngi",
+      "chinese character only orthography": "午ﾟ以",
+      "visually similar orthography": ""
+    },
+    "U+F2E8": {
+      "char": "",
+      "romanization": "ngiq",
+      "chinese character only orthography": "午ﾟ亦",
+      "visually similar orthography": ""
+    },
+    "U+F2E9": {
+      "char": "",
+      "romanization": "ngu",
+      "chinese character only orthography": "午ﾟ无",
+      "visually similar orthography": ""
+    },
+    "U+F2EA": {
+      "char": "",
+      "romanization": "ngy",
+      "chinese character only orthography": "午ﾟ厶",
+      "visually similar orthography": ""
+    },
+    "U+F2EB": {
+      "char": "",
+      "romanization": "ngae",
+      "chinese character only orthography": "午ﾟ万",
+      "visually similar orthography": ""
+    },
+    "U+F2EC": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F2ED": {
+      "char": "",
+      "romanization": "ngie",
+      "chinese character only orthography": "午ﾟ建",
+      "visually similar orthography": ""
+    },
+    "U+F2EE": {
+      "char": "",
+      "romanization": "ngau",
+      "chinese character only orthography": "午ﾟ号",
+      "visually similar orthography": ""
+    },
+    "U+F2EF": {
+      "char": "",
+      "romanization": "ngou",
+      "chinese character only orthography": "午ﾟ多",
+      "visually similar orthography": ""
+    },
+    "U+F2F0": {
+      "char": "",
+      "romanization": "ngeu",
+      "chinese character only orthography": "午ﾟ久",
+      "visually similar orthography": ""
+    },
+    "U+F2F1": {
+      "char": "",
+      "romanization": "ngiu",
+      "chinese character only orthography": "午ﾟ雨",
+      "visually similar orthography": ""
+    },
+    "U+F2F2": {
+      "char": "",
+      "romanization": "ngoe",
+      "chinese character only orthography": "午ﾟ寒",
+      "visually similar orthography": ""
+    },
+    "U+F2F3": {
+      "char": "",
+      "romanization": "ngan",
+      "chinese character only orthography": "午ﾟ良",
+      "visually similar orthography": ""
+    },
+    "U+F2F4": {
+      "char": "",
+      "romanization": "ngon",
+      "chinese character only orthography": "午ﾟ从",
+      "visually similar orthography": ""
+    },
+    "U+F2F5": {
+      "char": "",
+      "romanization": "ngen",
+      "chinese character only orthography": "午ﾟ文",
+      "visually similar orthography": ""
+    },
+    "U+F2F6": {
+      "char": "",
+      "romanization": "ngin",
+      "chinese character only orthography": "午ﾟ刃",
+      "visually similar orthography": ""
+    },
+    "U+F2F7": {
+      "char": "",
+      "romanization": "ngaon",
+      "chinese character only orthography": "午ﾟ亡",
+      "visually similar orthography": ""
+    },
+    "U+F2F8": {
+      "char": "",
+      "romanization": "gheon",
+      "chinese character only orthography": "午ﾟ能",
+      "visually similar orthography": ""
+    },
+    "U+F2F9": {
+      "char": "",
+      "romanization": "ghr",
+      "chinese character only orthography": "午ﾟ而",
+      "visually similar orthography": ""
+    },
+    "U+F300": {
+      "char": "",
+      "romanization": "ch",
+      "chinese character only orthography": "斤ﾟ",
+      "visually similar orthography": ""
+    },
+    "U+F301": {
+      "char": "",
+      "romanization": "cha",
+      "chinese character only orthography": "斤ﾟ派",
+      "visually similar orthography": ""
+    },
+    "U+F302": {
+      "char": "",
+      "romanization": "chaq",
+      "chinese character only orthography": "斤ﾟ乏",
+      "visually similar orthography": ""
+    },
+    "U+F303": {
+      "char": "",
+      "romanization": "cho",
+      "chinese character only orthography": "斤ﾟ瓦",
+      "visually similar orthography": ""
+    },
+    "U+F304": {
+      "char": "",
+      "romanization": "choq",
+      "chinese character only orthography": "斤ﾟ昱",
+      "visually similar orthography": ""
+    },
+    "U+F305": {
+      "char": "",
+      "romanization": "che",
+      "chinese character only orthography": "斤ﾟ卑",
+      "visually similar orthography": ""
+    },
+    "U+F306": {
+      "char": "",
+      "romanization": "cheq",
+      "chinese character only orthography": "斤ﾟ出",
+      "visually similar orthography": ""
+    },
+    "U+F307": {
+      "char": "",
+      "romanization": "chi",
+      "chinese character only orthography": "斤ﾟ以",
+      "visually similar orthography": ""
+    },
+    "U+F308": {
+      "char": "",
+      "romanization": "chiq",
+      "chinese character only orthography": "斤ﾟ亦",
+      "visually similar orthography": ""
+    },
+    "U+F309": {
+      "char": "",
+      "romanization": "chu",
+      "chinese character only orthography": "斤ﾟ无",
+      "visually similar orthography": ""
+    },
+    "U+F30A": {
+      "char": "",
+      "romanization": "chy",
+      "chinese character only orthography": "斤ﾟ厶",
+      "visually similar orthography": ""
+    },
+    "U+F30B": {
+      "char": "",
+      "romanization": "chae",
+      "chinese character only orthography": "斤ﾟ万",
+      "visually similar orthography": ""
+    },
+    "U+F30C": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F30D": {
+      "char": "",
+      "romanization": "chie",
+      "chinese character only orthography": "斤ﾟ建",
+      "visually similar orthography": ""
+    },
+    "U+F30E": {
+      "char": "",
+      "romanization": "chau",
+      "chinese character only orthography": "斤ﾟ久",
+      "visually similar orthography": ""
+    },
+    "U+F30F": {
+      "char": "",
+      "romanization": "chou",
+      "chinese character only orthography": "斤ﾟ多",
+      "visually similar orthography": ""
+    },
+    "U+F310": {
+      "char": "",
+      "romanization": "cheu",
+      "chinese character only orthography": "斤ﾟ久",
+      "visually similar orthography": ""
+    },
+    "U+F311": {
+      "char": "",
+      "romanization": "chgu",
+      "chinese character only orthography": "斤ﾟ雨",
+      "visually similar orthography": ""
+    },
+    "U+F312": {
+      "char": "",
+      "romanization": "choe",
+      "chinese character only orthography": "斤ﾟ寒",
+      "visually similar orthography": ""
+    },
+    "U+F313": {
+      "char": "",
+      "romanization": "chan",
+      "chinese character only orthography": "斤ﾟ良",
+      "visually similar orthography": ""
+    },
+    "U+F314": {
+      "char": "",
+      "romanization": "chon",
+      "chinese character only orthography": "斤ﾟ从",
+      "visually similar orthography": ""
+    },
+    "U+F315": {
+      "char": "",
+      "romanization": "chen",
+      "chinese character only orthography": "斤ﾟ文",
+      "visually similar orthography": ""
+    },
+    "U+F316": {
+      "char": "",
+      "romanization": "chin",
+      "chinese character only orthography": "斤ﾟ刃",
+      "visually similar orthography": ""
+    },
+    "U+F317": {
+      "char": "",
+      "romanization": "chaon",
+      "chinese character only orthography": "斤ﾟ亡",
+      "visually similar orthography": ""
+    },
+    "U+F318": {
+      "char": "",
+      "romanization": "cheon",
+      "chinese character only orthography": "斤ﾟ能",
+      "visually similar orthography": ""
+    },
+    "U+F319": {
+      "char": "",
+      "romanization": "chr",
+      "chinese character only orthography": "斤ﾟ而",
+      "visually similar orthography": ""
+    },
+    "U+F320": {
+      "char": "",
+      "romanization": "c",
+      "chinese character only orthography": "斤",
+      "visually similar orthography": ""
+    },
+    "U+F321": {
+      "char": "",
+      "romanization": "ca",
+      "chinese character only orthography": "斤派",
+      "visually similar orthography": ""
+    },
+    "U+F322": {
+      "char": "",
+      "romanization": "caq",
+      "chinese character only orthography": "斤乏",
+      "visually similar orthography": ""
+    },
+    "U+F323": {
+      "char": "",
+      "romanization": "co",
+      "chinese character only orthography": "斤瓦",
+      "visually similar orthography": ""
+    },
+    "U+F324": {
+      "char": "",
+      "romanization": "coq",
+      "chinese character only orthography": "斤昱",
+      "visually similar orthography": ""
+    },
+    "U+F325": {
+      "char": "",
+      "romanization": "ce",
+      "chinese character only orthography": "斤卑",
+      "visually similar orthography": ""
+    },
+    "U+F326": {
+      "char": "",
+      "romanization": "ceq",
+      "chinese character only orthography": "斤出",
+      "visually similar orthography": ""
+    },
+    "U+F327": {
+      "char": "",
+      "romanization": "ci",
+      "chinese character only orthography": "斤以",
+      "visually similar orthography": ""
+    },
+    "U+F328": {
+      "char": "",
+      "romanization": "ciq",
+      "chinese character only orthography": "斤亦",
+      "visually similar orthography": ""
+    },
+    "U+F329": {
+      "char": "",
+      "romanization": "cu",
+      "chinese character only orthography": "斤无",
+      "visually similar orthography": ""
+    },
+    "U+F32A": {
+      "char": "",
+      "romanization": "cy",
+      "chinese character only orthography": "斤厶",
+      "visually similar orthography": ""
+    },
+    "U+F32B": {
+      "char": "",
+      "romanization": "cae",
+      "chinese character only orthography": "斤万",
+      "visually similar orthography": ""
+    },
+    "U+F32C": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F32D": {
+      "char": "",
+      "romanization": "cie",
+      "chinese character only orthography": "斤建",
+      "visually similar orthography": ""
+    },
+    "U+F32E": {
+      "char": "",
+      "romanization": "cau",
+      "chinese character only orthography": "斤久",
+      "visually similar orthography": ""
+    },
+    "U+F32F": {
+      "char": "",
+      "romanization": "cou",
+      "chinese character only orthography": "斤多",
+      "visually similar orthography": ""
+    },
+    "U+F330": {
+      "char": "",
+      "romanization": "ceu",
+      "chinese character only orthography": "斤久",
+      "visually similar orthography": ""
+    },
+    "U+F331": {
+      "char": "",
+      "romanization": "ciu",
+      "chinese character only orthography": "斤雨",
+      "visually similar orthography": ""
+    },
+    "U+F332": {
+      "char": "",
+      "romanization": "coe",
+      "chinese character only orthography": "斤寒",
+      "visually similar orthography": ""
+    },
+    "U+F333": {
+      "char": "",
+      "romanization": "can",
+      "chinese character only orthography": "斤良",
+      "visually similar orthography": ""
+    },
+    "U+F334": {
+      "char": "",
+      "romanization": "con",
+      "chinese character only orthography": "斤从",
+      "visually similar orthography": ""
+    },
+    "U+F335": {
+      "char": "",
+      "romanization": "cen",
+      "chinese character only orthography": "斤文",
+      "visually similar orthography": ""
+    },
+    "U+F336": {
+      "char": "",
+      "romanization": "cin",
+      "chinese character only orthography": "斤刃",
+      "visually similar orthography": ""
+    },
+    "U+F337": {
+      "char": "",
+      "romanization": "caon",
+      "chinese character only orthography": "斤亡",
+      "visually similar orthography": ""
+    },
+    "U+F338": {
+      "char": "",
+      "romanization": "ceon",
+      "chinese character only orthography": "斤能",
+      "visually similar orthography": ""
+    },
+    "U+F339": {
+      "char": "",
+      "romanization": "cr",
+      "chinese character only orthography": "斤而",
+      "visually similar orthography": ""
+    },
+    "U+F340": {
+      "char": "",
+      "romanization": "j",
+      "chinese character only orthography": "斤ﾞ",
+      "visually similar orthography": ""
+    },
+    "U+F341": {
+      "char": "",
+      "romanization": "ja",
+      "chinese character only orthography": "斤ﾞ派",
+      "visually similar orthography": ""
+    },
+    "U+F342": {
+      "char": "",
+      "romanization": "jaq",
+      "chinese character only orthography": "斤ﾞ乏",
+      "visually similar orthography": ""
+    },
+    "U+F343": {
+      "char": "",
+      "romanization": "jo",
+      "chinese character only orthography": "斤ﾞ瓦",
+      "visually similar orthography": ""
+    },
+    "U+F344": {
+      "char": "",
+      "romanization": "joq",
+      "chinese character only orthography": "斤ﾞ昱",
+      "visually similar orthography": ""
+    },
+    "U+F345": {
+      "char": "",
+      "romanization": "je",
+      "chinese character only orthography": "斤ﾞ卑",
+      "visually similar orthography": ""
+    },
+    "U+F346": {
+      "char": "",
+      "romanization": "jeq",
+      "chinese character only orthography": "斤ﾞ出",
+      "visually similar orthography": ""
+    },
+    "U+F347": {
+      "char": "",
+      "romanization": "ji",
+      "chinese character only orthography": "斤ﾞ以",
+      "visually similar orthography": ""
+    },
+    "U+F348": {
+      "char": "",
+      "romanization": "jiq",
+      "chinese character only orthography": "斤ﾞ亦",
+      "visually similar orthography": ""
+    },
+    "U+F349": {
+      "char": "",
+      "romanization": "ju",
+      "chinese character only orthography": "斤ﾞ无",
+      "visually similar orthography": ""
+    },
+    "U+F34A": {
+      "char": "",
+      "romanization": "jy",
+      "chinese character only orthography": "斤ﾞ厶",
+      "visually similar orthography": ""
+    },
+    "U+F34B": {
+      "char": "",
+      "romanization": "jae",
+      "chinese character only orthography": "斤ﾞ万",
+      "visually similar orthography": ""
+    },
+    "U+F34C": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F34D": {
+      "char": "",
+      "romanization": "jie",
+      "chinese character only orthography": "斤ﾞ建",
+      "visually similar orthography": ""
+    },
+    "U+F34E": {
+      "char": "",
+      "romanization": "jau",
+      "chinese character only orthography": "斤ﾞ号",
+      "visually similar orthography": ""
+    },
+    "U+F34F": {
+      "char": "",
+      "romanization": "jou",
+      "chinese character only orthography": "斤ﾞ多",
+      "visually similar orthography": ""
+    },
+    "U+F350": {
+      "char": "",
+      "romanization": "jeu",
+      "chinese character only orthography": "斤ﾞ久",
+      "visually similar orthography": ""
+    },
+    "U+F351": {
+      "char": "",
+      "romanization": "jiu",
+      "chinese character only orthography": "斤ﾞ雨",
+      "visually similar orthography": ""
+    },
+    "U+F352": {
+      "char": "",
+      "romanization": "joe",
+      "chinese character only orthography": "斤ﾞ寒",
+      "visually similar orthography": ""
+    },
+    "U+F353": {
+      "char": "",
+      "romanization": "jan",
+      "chinese character only orthography": "斤ﾞ良",
+      "visually similar orthography": ""
+    },
+    "U+F354": {
+      "char": "",
+      "romanization": "jon",
+      "chinese character only orthography": "斤ﾞ从",
+      "visually similar orthography": ""
+    },
+    "U+F355": {
+      "char": "",
+      "romanization": "jen",
+      "chinese character only orthography": "斤ﾞ文",
+      "visually similar orthography": ""
+    },
+    "U+F356": {
+      "char": "",
+      "romanization": "jin",
+      "chinese character only orthography": "斤ﾞ刃",
+      "visually similar orthography": ""
+    },
+    "U+F357": {
+      "char": "",
+      "romanization": "jaon",
+      "chinese character only orthography": "斤ﾟ亡",
+      "visually similar orthography": ""
+    },
+    "U+F358": {
+      "char": "",
+      "romanization": "jeon",
+      "chinese character only orthography": "斤ﾟ能",
+      "visually similar orthography": ""
+    },
+    "U+F359": {
+      "char": "",
+      "romanization": "jr",
+      "chinese character only orthography": "斤ﾟ而",
+      "visually similar orthography": ""
+    },
+    "U+F360": {
+      "char": "",
+      "romanization": "sh",
+      "chinese character only orthography": "兴",
+      "visually similar orthography": ""
+    },
+    "U+F361": {
+      "char": "",
+      "romanization": "sha",
+      "chinese character only orthography": "兴派",
+      "visually similar orthography": ""
+    },
+    "U+F362": {
+      "char": "",
+      "romanization": "shaq",
+      "chinese character only orthography": "兴乏",
+      "visually similar orthography": ""
+    },
+    "U+F363": {
+      "char": "",
+      "romanization": "sho",
+      "chinese character only orthography": "兴瓦",
+      "visually similar orthography": ""
+    },
+    "U+F364": {
+      "char": "",
+      "romanization": "shoq",
+      "chinese character only orthography": "兴昱",
+      "visually similar orthography": ""
+    },
+    "U+F365": {
+      "char": "",
+      "romanization": "she",
+      "chinese character only orthography": "兴卑",
+      "visually similar orthography": ""
+    },
+    "U+F366": {
+      "char": "",
+      "romanization": "sheq",
+      "chinese character only orthography": "兴出",
+      "visually similar orthography": ""
+    },
+    "U+F367": {
+      "char": "",
+      "romanization": "shi",
+      "chinese character only orthography": "兴以",
+      "visually similar orthography": ""
+    },
+    "U+F368": {
+      "char": "",
+      "romanization": "shiq",
+      "chinese character only orthography": "兴亦",
+      "visually similar orthography": ""
+    },
+    "U+F369": {
+      "char": "",
+      "romanization": "shu",
+      "chinese character only orthography": "兴无",
+      "visually similar orthography": ""
+    },
+    "U+F36A": {
+      "char": "",
+      "romanization": "shy",
+      "chinese character only orthography": "兴厶",
+      "visually similar orthography": ""
+    },
+    "U+F36B": {
+      "char": "",
+      "romanization": "shae",
+      "chinese character only orthography": "兴万",
+      "visually similar orthography": ""
+    },
+    "U+F36C": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F36D": {
+      "char": "",
+      "romanization": "shie",
+      "chinese character only orthography": "兴建",
+      "visually similar orthography": ""
+    },
+    "U+F36E": {
+      "char": "",
+      "romanization": "shau",
+      "chinese character only orthography": "兴号",
+      "visually similar orthography": ""
+    },
+    "U+F36F": {
+      "char": "",
+      "romanization": "shou",
+      "chinese character only orthography": "兴多",
+      "visually similar orthography": ""
+    },
+    "U+F370": {
+      "char": "",
+      "romanization": "sheu",
+      "chinese character only orthography": "兴久",
+      "visually similar orthography": ""
+    },
+    "U+F371": {
+      "char": "",
+      "romanization": "shiu",
+      "chinese character only orthography": "兴雨",
+      "visually similar orthography": ""
+    },
+    "U+F372": {
+      "char": "",
+      "romanization": "shoe",
+      "chinese character only orthography": "兴寒",
+      "visually similar orthography": ""
+    },
+    "U+F373": {
+      "char": "",
+      "romanization": "shan",
+      "chinese character only orthography": "兴良",
+      "visually similar orthography": ""
+    },
+    "U+F374": {
+      "char": "",
+      "romanization": "shon",
+      "chinese character only orthography": "兴从",
+      "visually similar orthography": ""
+    },
+    "U+F375": {
+      "char": "",
+      "romanization": "shen",
+      "chinese character only orthography": "兴文",
+      "visually similar orthography": ""
+    },
+    "U+F376": {
+      "char": "",
+      "romanization": "shin",
+      "chinese character only orthography": "兴刃",
+      "visually similar orthography": ""
+    },
+    "U+F377": {
+      "char": "",
+      "romanization": "shaon",
+      "chinese character only orthography": "兴亡",
+      "visually similar orthography": ""
+    },
+    "U+F378": {
+      "char": "",
+      "romanization": "sheon",
+      "chinese character only orthography": "兴能",
+      "visually similar orthography": ""
+    },
+    "U+F379": {
+      "char": "",
+      "romanization": "shr",
+      "chinese character only orthography": "兴而",
+      "visually similar orthography": ""
+    },
+    "U+F380": {
+      "char": "",
+      "romanization": "zh",
+      "chinese character only orthography": "兴ﾞ",
+      "visually similar orthography": ""
+    },
+    "U+F381": {
+      "char": "",
+      "romanization": "zha",
+      "chinese character only orthography": "兴ﾞ派",
+      "visually similar orthography": ""
+    },
+    "U+F382": {
+      "char": "",
+      "romanization": "zhaq",
+      "chinese character only orthography": "兴ﾞ乏",
+      "visually similar orthography": ""
+    },
+    "U+F383": {
+      "char": "",
+      "romanization": "zho",
+      "chinese character only orthography": "兴ﾞ瓦",
+      "visually similar orthography": ""
+    },
+    "U+F384": {
+      "char": "",
+      "romanization": "zhoq",
+      "chinese character only orthography": "兴ﾞ昱",
+      "visually similar orthography": ""
+    },
+    "U+F385": {
+      "char": "",
+      "romanization": "zhe",
+      "chinese character only orthography": "兴ﾞ卑",
+      "visually similar orthography": ""
+    },
+    "U+F386": {
+      "char": "",
+      "romanization": "zheq",
+      "chinese character only orthography": "兴ﾞ出",
+      "visually similar orthography": ""
+    },
+    "U+F387": {
+      "char": "",
+      "romanization": "zhi",
+      "chinese character only orthography": "兴ﾞ以",
+      "visually similar orthography": ""
+    },
+    "U+F388": {
+      "char": "",
+      "romanization": "zhiq",
+      "chinese character only orthography": "兴ﾞ亦",
+      "visually similar orthography": ""
+    },
+    "U+F389": {
+      "char": "",
+      "romanization": "zhu",
+      "chinese character only orthography": "兴ﾞ无",
+      "visually similar orthography": ""
+    },
+    "U+F38A": {
+      "char": "",
+      "romanization": "zhy",
+      "chinese character only orthography": "兴ﾞ厶",
+      "visually similar orthography": ""
+    },
+    "U+F38B": {
+      "char": "",
+      "romanization": "zhae",
+      "chinese character only orthography": "兴ﾞ万",
+      "visually similar orthography": ""
+    },
+    "U+F38C": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F38D": {
+      "char": "",
+      "romanization": "zhie",
+      "chinese character only orthography": "兴ﾞ建",
+      "visually similar orthography": ""
+    },
+    "U+F38E": {
+      "char": "",
+      "romanization": "zhau",
+      "chinese character only orthography": "兴ﾞ号",
+      "visually similar orthography": ""
+    },
+    "U+F38F": {
+      "char": "",
+      "romanization": "zhou",
+      "chinese character only orthography": "兴ﾞ多",
+      "visually similar orthography": ""
+    },
+    "U+F390": {
+      "char": "",
+      "romanization": "zheu",
+      "chinese character only orthography": "兴ﾞ久",
+      "visually similar orthography": ""
+    },
+    "U+F391": {
+      "char": "",
+      "romanization": "zhiu",
+      "chinese character only orthography": "兴ﾞ雨",
+      "visually similar orthography": ""
+    },
+    "U+F392": {
+      "char": "",
+      "romanization": "zhoe",
+      "chinese character only orthography": "兴ﾞ寒",
+      "visually similar orthography": ""
+    },
+    "U+F393": {
+      "char": "",
+      "romanization": "zhan",
+      "chinese character only orthography": "兴ﾞ良",
+      "visually similar orthography": ""
+    },
+    "U+F394": {
+      "char": "",
+      "romanization": "zhon",
+      "chinese character only orthography": "兴ﾞ从",
+      "visually similar orthography": ""
+    },
+    "U+F395": {
+      "char": "",
+      "romanization": "zhen",
+      "chinese character only orthography": "兴ﾞ文",
+      "visually similar orthography": ""
+    },
+    "U+F396": {
+      "char": "",
+      "romanization": "zhin",
+      "chinese character only orthography": "兴ﾞ刃",
+      "visually similar orthography": ""
+    },
+    "U+F397": {
+      "char": "",
+      "romanization": "zhaon",
+      "chinese character only orthography": "兴ﾟ亡",
+      "visually similar orthography": ""
+    },
+    "U+F398": {
+      "char": "",
+      "romanization": "zheon",
+      "chinese character only orthography": "兴ﾟ能",
+      "visually similar orthography": ""
+    },
+    "U+F399": {
+      "char": "",
+      "romanization": "zhr",
+      "chinese character only orthography": "兴ﾟ而",
+      "visually similar orthography": ""
+    },
+    "U+F3A0": {
+      "char": "",
+      "romanization": "tsh",
+      "chinese character only orthography": "子ﾟ",
+      "visually similar orthography": ""
+    },
+    "U+F3A1": {
+      "char": "",
+      "romanization": "tsha",
+      "chinese character only orthography": "子ﾟ派",
+      "visually similar orthography": ""
+    },
+    "U+F3A2": {
+      "char": "",
+      "romanization": "tshaq",
+      "chinese character only orthography": "子ﾟ乏",
+      "visually similar orthography": ""
+    },
+    "U+F3A3": {
+      "char": "",
+      "romanization": "tsho",
+      "chinese character only orthography": "子ﾟ瓦",
+      "visually similar orthography": ""
+    },
+    "U+F3A4": {
+      "char": "",
+      "romanization": "tshoq",
+      "chinese character only orthography": "子ﾟ昱",
+      "visually similar orthography": ""
+    },
+    "U+F3A5": {
+      "char": "",
+      "romanization": "tshe",
+      "chinese character only orthography": "子ﾟ卑",
+      "visually similar orthography": ""
+    },
+    "U+F3A6": {
+      "char": "",
+      "romanization": "tsheq",
+      "chinese character only orthography": "子ﾟ出",
+      "visually similar orthography": ""
+    },
+    "U+F3A7": {
+      "char": "",
+      "romanization": "tshi",
+      "chinese character only orthography": "子ﾟ以",
+      "visually similar orthography": ""
+    },
+    "U+F3A8": {
+      "char": "",
+      "romanization": "tshiq",
+      "chinese character only orthography": "子ﾟ亦",
+      "visually similar orthography": ""
+    },
+    "U+F3A9": {
+      "char": "",
+      "romanization": "tshu",
+      "chinese character only orthography": "子ﾟ无",
+      "visually similar orthography": ""
+    },
+    "U+F3AA": {
+      "char": "",
+      "romanization": "tshy",
+      "chinese character only orthography": "子ﾟ厶",
+      "visually similar orthography": ""
+    },
+    "U+F3AB": {
+      "char": "",
+      "romanization": "tshae",
+      "chinese character only orthography": "子ﾟ万",
+      "visually similar orthography": ""
+    },
+    "U+F3AC": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F3AD": {
+      "char": "",
+      "romanization": "tshie",
+      "chinese character only orthography": "子ﾟ建",
+      "visually similar orthography": ""
+    },
+    "U+F3AE": {
+      "char": "",
+      "romanization": "tshau",
+      "chinese character only orthography": "子ﾟ号",
+      "visually similar orthography": ""
+    },
+    "U+F3AF": {
+      "char": "",
+      "romanization": "tshou",
+      "chinese character only orthography": "子ﾟ多",
+      "visually similar orthography": ""
+    },
+    "U+F3B0": {
+      "char": "",
+      "romanization": "tsheu",
+      "chinese character only orthography": "子ﾟ久",
+      "visually similar orthography": ""
+    },
+    "U+F3B1": {
+      "char": "",
+      "romanization": "tshiu",
+      "chinese character only orthography": "子ﾟ雨",
+      "visually similar orthography": ""
+    },
+    "U+F3B2": {
+      "char": "",
+      "romanization": "tshoe",
+      "chinese character only orthography": "子ﾟ寒",
+      "visually similar orthography": ""
+    },
+    "U+F3B3": {
+      "char": "",
+      "romanization": "tshan",
+      "chinese character only orthography": "子ﾟ良",
+      "visually similar orthography": ""
+    },
+    "U+F3B4": {
+      "char": "",
+      "romanization": "tshon",
+      "chinese character only orthography": "子ﾟ从",
+      "visually similar orthography": ""
+    },
+    "U+F3B5": {
+      "char": "",
+      "romanization": "tshen",
+      "chinese character only orthography": "子ﾟ文",
+      "visually similar orthography": ""
+    },
+    "U+F3B6": {
+      "char": "",
+      "romanization": "tshin",
+      "chinese character only orthography": "子ﾟ刃",
+      "visually similar orthography": ""
+    },
+    "U+F3B7": {
+      "char": "",
+      "romanization": "tshaon",
+      "chinese character only orthography": "子ﾟ亡",
+      "visually similar orthography": ""
+    },
+    "U+F3B8": {
+      "char": "",
+      "romanization": "tsheon",
+      "chinese character only orthography": "子ﾟ能",
+      "visually similar orthography": ""
+    },
+    "U+F3B9": {
+      "char": "",
+      "romanization": "tshr",
+      "chinese character only orthography": "子ﾟ而",
+      "visually similar orthography": ""
+    },
+    "U+F3C0": {
+      "char": "",
+      "romanization": "ts",
+      "chinese character only orthography": "子",
+      "visually similar orthography": ""
+    },
+    "U+F3C1": {
+      "char": "",
+      "romanization": "tsa",
+      "chinese character only orthography": "子派",
+      "visually similar orthography": ""
+    },
+    "U+F3C2": {
+      "char": "",
+      "romanization": "tsaq",
+      "chinese character only orthography": "子乏",
+      "visually similar orthography": ""
+    },
+    "U+F3C3": {
+      "char": "",
+      "romanization": "tso",
+      "chinese character only orthography": "子瓦",
+      "visually similar orthography": ""
+    },
+    "U+F3C4": {
+      "char": "",
+      "romanization": "tsoq",
+      "chinese character only orthography": "子昱",
+      "visually similar orthography": ""
+    },
+    "U+F3C5": {
+      "char": "",
+      "romanization": "tse",
+      "chinese character only orthography": "子卑",
+      "visually similar orthography": ""
+    },
+    "U+F3C6": {
+      "char": "",
+      "romanization": "tseq",
+      "chinese character only orthography": "子出",
+      "visually similar orthography": ""
+    },
+    "U+F3C7": {
+      "char": "",
+      "romanization": "tsi",
+      "chinese character only orthography": "子以",
+      "visually similar orthography": ""
+    },
+    "U+F3C8": {
+      "char": "",
+      "romanization": "tsiq",
+      "chinese character only orthography": "子亦",
+      "visually similar orthography": ""
+    },
+    "U+F3C9": {
+      "char": "",
+      "romanization": "tsu",
+      "chinese character only orthography": "子无",
+      "visually similar orthography": ""
+    },
+    "U+F3CA": {
+      "char": "",
+      "romanization": "tsy",
+      "chinese character only orthography": "子厶",
+      "visually similar orthography": ""
+    },
+    "U+F3CB": {
+      "char": "",
+      "romanization": "tsae",
+      "chinese character only orthography": "子万",
+      "visually similar orthography": ""
+    },
+    "U+F3CC": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F3CD": {
+      "char": "",
+      "romanization": "tsie",
+      "chinese character only orthography": "子建",
+      "visually similar orthography": ""
+    },
+    "U+F3CE": {
+      "char": "",
+      "romanization": "tsau",
+      "chinese character only orthography": "子号",
+      "visually similar orthography": ""
+    },
+    "U+F3CF": {
+      "char": "",
+      "romanization": "tsou",
+      "chinese character only orthography": "子多",
+      "visually similar orthography": ""
+    },
+    "U+F3D0": {
+      "char": "",
+      "romanization": "tseu",
+      "chinese character only orthography": "子久",
+      "visually similar orthography": ""
+    },
+    "U+F3D1": {
+      "char": "",
+      "romanization": "tsiu",
+      "chinese character only orthography": "子雨",
+      "visually similar orthography": ""
+    },
+    "U+F3D2": {
+      "char": "",
+      "romanization": "tsoe",
+      "chinese character only orthography": "子寒",
+      "visually similar orthography": ""
+    },
+    "U+F3D3": {
+      "char": "",
+      "romanization": "tsan",
+      "chinese character only orthography": "子良",
+      "visually similar orthography": ""
+    },
+    "U+F3D4": {
+      "char": "",
+      "romanization": "tson",
+      "chinese character only orthography": "子从",
+      "visually similar orthography": ""
+    },
+    "U+F3D5": {
+      "char": "",
+      "romanization": "tsen",
+      "chinese character only orthography": "子文",
+      "visually similar orthography": ""
+    },
+    "U+F3D6": {
+      "char": "",
+      "romanization": "tsin",
+      "chinese character only orthography": "子刃",
+      "visually similar orthography": ""
+    },
+    "U+F3D7": {
+      "char": "",
+      "romanization": "tsaon",
+      "chinese character only orthography": "子亡",
+      "visually similar orthography": ""
+    },
+    "U+F3D8": {
+      "char": "",
+      "romanization": "tseon",
+      "chinese character only orthography": "子能",
+      "visually similar orthography": ""
+    },
+    "U+F3D9": {
+      "char": "",
+      "romanization": "tsr",
+      "chinese character only orthography": "子而",
+      "visually similar orthography": ""
+    },
+    "U+F3E0": {
+      "char": "",
+      "romanization": "dz",
+      "chinese character only orthography": "子ﾞ",
+      "visually similar orthography": ""
+    },
+    "U+F3E1": {
+      "char": "",
+      "romanization": "dza",
+      "chinese character only orthography": "子ﾞ派",
+      "visually similar orthography": ""
+    },
+    "U+F3E2": {
+      "char": "",
+      "romanization": "dzaq",
+      "chinese character only orthography": "子ﾞ乏",
+      "visually similar orthography": ""
+    },
+    "U+F3E3": {
+      "char": "",
+      "romanization": "dzo",
+      "chinese character only orthography": "子ﾞ瓦",
+      "visually similar orthography": ""
+    },
+    "U+F3E4": {
+      "char": "",
+      "romanization": "dzoq",
+      "chinese character only orthography": "子ﾞ昱",
+      "visually similar orthography": ""
+    },
+    "U+F3E5": {
+      "char": "",
+      "romanization": "dze",
+      "chinese character only orthography": "子ﾞ卑",
+      "visually similar orthography": ""
+    },
+    "U+F3E6": {
+      "char": "",
+      "romanization": "dzeq",
+      "chinese character only orthography": "子ﾞ出",
+      "visually similar orthography": ""
+    },
+    "U+F3E7": {
+      "char": "",
+      "romanization": "dzi",
+      "chinese character only orthography": "子ﾞ以",
+      "visually similar orthography": ""
+    },
+    "U+F3E8": {
+      "char": "",
+      "romanization": "dziq",
+      "chinese character only orthography": "子ﾞ亦",
+      "visually similar orthography": ""
+    },
+    "U+F3E9": {
+      "char": "",
+      "romanization": "dzu",
+      "chinese character only orthography": "子ﾞ无",
+      "visually similar orthography": ""
+    },
+    "U+F3EA": {
+      "char": "",
+      "romanization": "dzy",
+      "chinese character only orthography": "子ﾞ厶",
+      "visually similar orthography": ""
+    },
+    "U+F3EB": {
+      "char": "",
+      "romanization": "dzae",
+      "chinese character only orthography": "子ﾞ万",
+      "visually similar orthography": ""
+    },
+    "U+F3EC": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F3ED": {
+      "char": "",
+      "romanization": "dzie",
+      "chinese character only orthography": "子ﾞ建",
+      "visually similar orthography": ""
+    },
+    "U+F3EE": {
+      "char": "",
+      "romanization": "dzau",
+      "chinese character only orthography": "子ﾞ号",
+      "visually similar orthography": ""
+    },
+    "U+F3EF": {
+      "char": "",
+      "romanization": "dzou",
+      "chinese character only orthography": "子ﾞ多",
+      "visually similar orthography": ""
+    },
+    "U+F3F0": {
+      "char": "",
+      "romanization": "dzeu",
+      "chinese character only orthography": "子ﾞ久",
+      "visually similar orthography": ""
+    },
+    "U+F3F1": {
+      "char": "",
+      "romanization": "dziu",
+      "chinese character only orthography": "子ﾞ雨",
+      "visually similar orthography": ""
+    },
+    "U+F3F2": {
+      "char": "",
+      "romanization": "dzoe",
+      "chinese character only orthography": "子ﾞ寒",
+      "visually similar orthography": ""
+    },
+    "U+F3F3": {
+      "char": "",
+      "romanization": "dzan",
+      "chinese character only orthography": "子ﾞ良",
+      "visually similar orthography": ""
+    },
+    "U+F3F4": {
+      "char": "",
+      "romanization": "dzon",
+      "chinese character only orthography": "子ﾞ从",
+      "visually similar orthography": ""
+    },
+    "U+F3F5": {
+      "char": "",
+      "romanization": "dzen",
+      "chinese character only orthography": "子ﾞ文",
+      "visually similar orthography": ""
+    },
+    "U+F3F6": {
+      "char": "",
+      "romanization": "dzin",
+      "chinese character only orthography": "子ﾞ刃",
+      "visually similar orthography": ""
+    },
+    "U+F3F7": {
+      "char": "",
+      "romanization": "dzaon",
+      "chinese character only orthography": "子ﾞ亡",
+      "visually similar orthography": ""
+    },
+    "U+F3F8": {
+      "char": "",
+      "romanization": "dzeon",
+      "chinese character only orthography": "子ﾞ能",
+      "visually similar orthography": ""
+    },
+    "U+F3F9": {
+      "char": "",
+      "romanization": "dzr",
+      "chinese character only orthography": "子ﾞ而",
+      "visually similar orthography": ""
+    },
+    "U+F400": {
+      "char": "",
+      "romanization": "s",
+      "chinese character only orthography": "式",
+      "visually similar orthography": ""
+    },
+    "U+F401": {
+      "char": "",
+      "romanization": "sa",
+      "chinese character only orthography": "式派",
+      "visually similar orthography": ""
+    },
+    "U+F402": {
+      "char": "",
+      "romanization": "saq",
+      "chinese character only orthography": "式乏",
+      "visually similar orthography": ""
+    },
+    "U+F403": {
+      "char": "",
+      "romanization": "so",
+      "chinese character only orthography": "式瓦",
+      "visually similar orthography": ""
+    },
+    "U+F404": {
+      "char": "",
+      "romanization": "soq",
+      "chinese character only orthography": "式昱",
+      "visually similar orthography": ""
+    },
+    "U+F405": {
+      "char": "",
+      "romanization": "se",
+      "chinese character only orthography": "式卑",
+      "visually similar orthography": ""
+    },
+    "U+F406": {
+      "char": "",
+      "romanization": "seq",
+      "chinese character only orthography": "式出",
+      "visually similar orthography": ""
+    },
+    "U+F407": {
+      "char": "",
+      "romanization": "si",
+      "chinese character only orthography": "式以",
+      "visually similar orthography": ""
+    },
+    "U+F408": {
+      "char": "",
+      "romanization": "siq",
+      "chinese character only orthography": "式亦",
+      "visually similar orthography": ""
+    },
+    "U+F409": {
+      "char": "",
+      "romanization": "su",
+      "chinese character only orthography": "式无",
+      "visually similar orthography": ""
+    },
+    "U+F40A": {
+      "char": "",
+      "romanization": "sy",
+      "chinese character only orthography": "式厶",
+      "visually similar orthography": ""
+    },
+    "U+F40B": {
+      "char": "",
+      "romanization": "sae",
+      "chinese character only orthography": "式万",
+      "visually similar orthography": ""
+    },
+    "U+F40C": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F40D": {
+      "char": "",
+      "romanization": "sie",
+      "chinese character only orthography": "式建",
+      "visually similar orthography": ""
+    },
+    "U+F40E": {
+      "char": "",
+      "romanization": "sau",
+      "chinese character only orthography": "式号",
+      "visually similar orthography": ""
+    },
+    "U+F40F": {
+      "char": "",
+      "romanization": "sou",
+      "chinese character only orthography": "式多",
+      "visually similar orthography": ""
+    },
+    "U+F410": {
+      "char": "",
+      "romanization": "seu",
+      "chinese character only orthography": "式久",
+      "visually similar orthography": ""
+    },
+    "U+F411": {
+      "char": "",
+      "romanization": "siu",
+      "chinese character only orthography": "式雨",
+      "visually similar orthography": ""
+    },
+    "U+F412": {
+      "char": "",
+      "romanization": "soe",
+      "chinese character only orthography": "式寒",
+      "visually similar orthography": ""
+    },
+    "U+F413": {
+      "char": "",
+      "romanization": "san",
+      "chinese character only orthography": "式良",
+      "visually similar orthography": ""
+    },
+    "U+F414": {
+      "char": "",
+      "romanization": "son",
+      "chinese character only orthography": "式从",
+      "visually similar orthography": ""
+    },
+    "U+F415": {
+      "char": "",
+      "romanization": "sen",
+      "chinese character only orthography": "式文",
+      "visually similar orthography": ""
+    },
+    "U+F416": {
+      "char": "",
+      "romanization": "sin",
+      "chinese character only orthography": "式刃",
+      "visually similar orthography": ""
+    },
+    "U+F417": {
+      "char": "",
+      "romanization": "saon",
+      "chinese character only orthography": "式亡",
+      "visually similar orthography": ""
+    },
+    "U+F418": {
+      "char": "",
+      "romanization": "seon",
+      "chinese character only orthography": "式能",
+      "visually similar orthography": ""
+    },
+    "U+F419": {
+      "char": "",
+      "romanization": "sr",
+      "chinese character only orthography": "式而",
+      "visually similar orthography": ""
+    },
+    "U+F420": {
+      "char": "",
+      "romanization": "z",
+      "chinese character only orthography": "式ﾞ",
+      "visually similar orthography": ""
+    },
+    "U+F421": {
+      "char": "",
+      "romanization": "za",
+      "chinese character only orthography": "式ﾞ派",
+      "visually similar orthography": ""
+    },
+    "U+F422": {
+      "char": "",
+      "romanization": "zaq",
+      "chinese character only orthography": "式ﾞ乏",
+      "visually similar orthography": ""
+    },
+    "U+F423": {
+      "char": "",
+      "romanization": "zo",
+      "chinese character only orthography": "式ﾞ瓦",
+      "visually similar orthography": ""
+    },
+    "U+F424": {
+      "char": "",
+      "romanization": "zoq",
+      "chinese character only orthography": "式ﾞ昱",
+      "visually similar orthography": ""
+    },
+    "U+F425": {
+      "char": "",
+      "romanization": "ze",
+      "chinese character only orthography": "式ﾞ卑",
+      "visually similar orthography": ""
+    },
+    "U+F426": {
+      "char": "",
+      "romanization": "zeq",
+      "chinese character only orthography": "式ﾞ出",
+      "visually similar orthography": ""
+    },
+    "U+F427": {
+      "char": "",
+      "romanization": "zi",
+      "chinese character only orthography": "式ﾞ以",
+      "visually similar orthography": ""
+    },
+    "U+F428": {
+      "char": "",
+      "romanization": "ziq",
+      "chinese character only orthography": "式ﾞ亦",
+      "visually similar orthography": ""
+    },
+    "U+F429": {
+      "char": "",
+      "romanization": "zu",
+      "chinese character only orthography": "式ﾞ无",
+      "visually similar orthography": ""
+    },
+    "U+F42A": {
+      "char": "",
+      "romanization": "zy",
+      "chinese character only orthography": "式ﾞ厶",
+      "visually similar orthography": ""
+    },
+    "U+F42B": {
+      "char": "",
+      "romanization": "zae",
+      "chinese character only orthography": "式ﾞ万",
+      "visually similar orthography": ""
+    },
+    "U+F42C": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F42D": {
+      "char": "",
+      "romanization": "zie",
+      "chinese character only orthography": "式ﾞ建",
+      "visually similar orthography": ""
+    },
+    "U+F42E": {
+      "char": "",
+      "romanization": "zau",
+      "chinese character only orthography": "式ﾞ号",
+      "visually similar orthography": ""
+    },
+    "U+F42F": {
+      "char": "",
+      "romanization": "zou",
+      "chinese character only orthography": "式ﾞ多",
+      "visually similar orthography": ""
+    },
+    "U+F430": {
+      "char": "",
+      "romanization": "zeu",
+      "chinese character only orthography": "式ﾞ久",
+      "visually similar orthography": ""
+    },
+    "U+F431": {
+      "char": "",
+      "romanization": "ziu",
+      "chinese character only orthography": "式ﾞ雨",
+      "visually similar orthography": ""
+    },
+    "U+F432": {
+      "char": "",
+      "romanization": "zoe",
+      "chinese character only orthography": "式ﾞ寒",
+      "visually similar orthography": ""
+    },
+    "U+F433": {
+      "char": "",
+      "romanization": "zan",
+      "chinese character only orthography": "式ﾞ良",
+      "visually similar orthography": ""
+    },
+    "U+F434": {
+      "char": "",
+      "romanization": "zon",
+      "chinese character only orthography": "式ﾞ从",
+      "visually similar orthography": ""
+    },
+    "U+F435": {
+      "char": "",
+      "romanization": "zen",
+      "chinese character only orthography": "式ﾞ文",
+      "visually similar orthography": ""
+    },
+    "U+F436": {
+      "char": "",
+      "romanization": "zin",
+      "chinese character only orthography": "式ﾞ刃",
+      "visually similar orthography": ""
+    },
+    "U+F437": {
+      "char": "",
+      "romanization": "zaon",
+      "chinese character only orthography": "式ﾞ亡",
+      "visually similar orthography": ""
+    },
+    "U+F438": {
+      "char": "",
+      "romanization": "zeon",
+      "chinese character only orthography": "式ﾞ能",
+      "visually similar orthography": ""
+    },
+    "U+F439": {
+      "char": "",
+      "romanization": "zr",
+      "chinese character only orthography": "式ﾞ而",
+      "visually similar orthography": ""
+    },
+    "U+F440": {
+      "char": "",
+      "romanization": "ny",
+      "chinese character only orthography": "女",
+      "visually similar orthography": ""
+    },
+    "U+F441": {
+      "char": "",
+      "romanization": "nya",
+      "chinese character only orthography": "女派",
+      "visually similar orthography": ""
+    },
+    "U+F442": {
+      "char": "",
+      "romanization": "nyaq",
+      "chinese character only orthography": "女乏",
+      "visually similar orthography": ""
+    },
+    "U+F443": {
+      "char": "",
+      "romanization": "nyo",
+      "chinese character only orthography": "女瓦",
+      "visually similar orthography": ""
+    },
+    "U+F444": {
+      "char": "",
+      "romanization": "nyoq",
+      "chinese character only orthography": "女昱",
+      "visually similar orthography": ""
+    },
+    "U+F445": {
+      "char": "",
+      "romanization": "nye",
+      "chinese character only orthography": "女卑",
+      "visually similar orthography": ""
+    },
+    "U+F446": {
+      "char": "",
+      "romanization": "nyeq",
+      "chinese character only orthography": "女出",
+      "visually similar orthography": ""
+    },
+    "U+F447": {
+      "char": "",
+      "romanization": "nyi",
+      "chinese character only orthography": "女以",
+      "visually similar orthography": ""
+    },
+    "U+F448": {
+      "char": "",
+      "romanization": "nyiq",
+      "chinese character only orthography": "女亦",
+      "visually similar orthography": ""
+    },
+    "U+F449": {
+      "char": "",
+      "romanization": "nyu",
+      "chinese character only orthography": "女无",
+      "visually similar orthography": ""
+    },
+    "U+F44A": {
+      "char": "",
+      "romanization": "nyy",
+      "chinese character only orthography": "女厶",
+      "visually similar orthography": ""
+    },
+    "U+F44B": {
+      "char": "",
+      "romanization": "nyae",
+      "chinese character only orthography": "女万",
+      "visually similar orthography": ""
+    },
+    "U+F44C": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F44D": {
+      "char": "",
+      "romanization": "nyie",
+      "chinese character only orthography": "女建",
+      "visually similar orthography": ""
+    },
+    "U+F44E": {
+      "char": "",
+      "romanization": "nyau",
+      "chinese character only orthography": "女号",
+      "visually similar orthography": ""
+    },
+    "U+F44F": {
+      "char": "",
+      "romanization": "nyou",
+      "chinese character only orthography": "女多",
+      "visually similar orthography": ""
+    },
+    "U+F450": {
+      "char": "",
+      "romanization": "nyeu",
+      "chinese character only orthography": "女久",
+      "visually similar orthography": ""
+    },
+    "U+F451": {
+      "char": "",
+      "romanization": "nyiu",
+      "chinese character only orthography": "女雨",
+      "visually similar orthography": ""
+    },
+    "U+F452": {
+      "char": "",
+      "romanization": "nyoe",
+      "chinese character only orthography": "女寒",
+      "visually similar orthography": ""
+    },
+    "U+F453": {
+      "char": "",
+      "romanization": "nyan",
+      "chinese character only orthography": "女良",
+      "visually similar orthography": ""
+    },
+    "U+F454": {
+      "char": "",
+      "romanization": "nyon",
+      "chinese character only orthography": "女从",
+      "visually similar orthography": ""
+    },
+    "U+F455": {
+      "char": "",
+      "romanization": "nyen",
+      "chinese character only orthography": "女文",
+      "visually similar orthography": ""
+    },
+    "U+F456": {
+      "char": "",
+      "romanization": "nyin",
+      "chinese character only orthography": "女刃",
+      "visually similar orthography": ""
+    },
+    "U+F457": {
+      "char": "",
+      "romanization": "nyaon",
+      "chinese character only orthography": "女亡",
+      "visually similar orthography": ""
+    },
+    "U+F458": {
+      "char": "",
+      "romanization": "nyeon",
+      "chinese character only orthography": "女能",
+      "visually similar orthography": ""
+    },
+    "U+F459": {
+      "char": "",
+      "romanization": "nyr",
+      "chinese character only orthography": "女而",
+      "visually similar orthography": ""
+    },
+    "U+F460": {
+      "char": "",
+      "romanization": "nyh",
+      "chinese character only orthography": "女ﾟ",
+      "visually similar orthography": ""
+    },
+    "U+F461": {
+      "char": "",
+      "romanization": "nyha",
+      "chinese character only orthography": "女ﾟ派",
+      "visually similar orthography": ""
+    },
+    "U+F462": {
+      "char": "",
+      "romanization": "nyhaq",
+      "chinese character only orthography": "女ﾟ乏",
+      "visually similar orthography": ""
+    },
+    "U+F463": {
+      "char": "",
+      "romanization": "nyho",
+      "chinese character only orthography": "女ﾟ瓦",
+      "visually similar orthography": ""
+    },
+    "U+F464": {
+      "char": "",
+      "romanization": "nyhoq",
+      "chinese character only orthography": "女ﾟ昱",
+      "visually similar orthography": ""
+    },
+    "U+F465": {
+      "char": "",
+      "romanization": "nyhe",
+      "chinese character only orthography": "女ﾟ卑",
+      "visually similar orthography": ""
+    },
+    "U+F466": {
+      "char": "",
+      "romanization": "nyheq",
+      "chinese character only orthography": "女ﾟ出",
+      "visually similar orthography": ""
+    },
+    "U+F467": {
+      "char": "",
+      "romanization": "nyhi",
+      "chinese character only orthography": "女ﾟ以",
+      "visually similar orthography": ""
+    },
+    "U+F468": {
+      "char": "",
+      "romanization": "nyiq",
+      "chinese character only orthography": "女亦",
+      "visually similar orthography": ""
+    },
+    "U+F469": {
+      "char": "",
+      "romanization": "nyu",
+      "chinese character only orthography": "女无",
+      "visually similar orthography": ""
+    },
+    "U+F46A": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F46B": {
+      "char": "",
+      "romanization": "nyhae",
+      "chinese character only orthography": "女ﾟ万",
+      "visually similar orthography": ""
+    },
+    "U+F46C": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F46D": {
+      "char": "",
+      "romanization": "nyhie",
+      "chinese character only orthography": "女ﾟ建",
+      "visually similar orthography": ""
+    },
+    "U+F46E": {
+      "char": "",
+      "romanization": "nyhau",
+      "chinese character only orthography": "女ﾟ号",
+      "visually similar orthography": ""
+    },
+    "U+F46F": {
+      "char": "",
+      "romanization": "nyhou",
+      "chinese character only orthography": "女ﾟ多",
+      "visually similar orthography": ""
+    },
+    "U+F470": {
+      "char": "",
+      "romanization": "nyheu",
+      "chinese character only orthography": "女ﾟ久",
+      "visually similar orthography": ""
+    },
+    "U+F471": {
+      "char": "",
+      "romanization": "nyhiu",
+      "chinese character only orthography": "女ﾟ雨",
+      "visually similar orthography": ""
+    },
+    "U+F472": {
+      "char": "",
+      "romanization": "nyhoe",
+      "chinese character only orthography": "女ﾟ寒",
+      "visually similar orthography": ""
+    },
+    "U+F473": {
+      "char": "",
+      "romanization": "nyhan",
+      "chinese character only orthography": "女ﾟ良",
+      "visually similar orthography": ""
+    },
+    "U+F474": {
+      "char": "",
+      "romanization": "nyhon",
+      "chinese character only orthography": "女ﾟ从",
+      "visually similar orthography": ""
+    },
+    "U+F475": {
+      "char": "",
+      "romanization": "nyhen",
+      "chinese character only orthography": "女ﾟ文",
+      "visually similar orthography": ""
+    },
+    "U+F476": {
+      "char": "",
+      "romanization": "nyhin",
+      "chinese character only orthography": "女ﾟ刃",
+      "visually similar orthography": ""
+    },
+    "U+F477": {
+      "char": "",
+      "romanization": "nyhaon",
+      "chinese character only orthography": "女ﾟ亡",
+      "visually similar orthography": ""
+    },
+    "U+F478": {
+      "char": "",
+      "romanization": "nyheon",
+      "chinese character only orthography": "女ﾟ能",
+      "visually similar orthography": ""
+    },
+    "U+F479": {
+      "char": "",
+      "romanization": "nyhr",
+      "chinese character only orthography": "女ﾟ而",
+      "visually similar orthography": ""
+    },
+    "U+F480": {
+      "char": "",
+      "romanization": "i",
+      "chinese character only orthography": "云",
+      "visually similar orthography": ""
+    },
+    "U+F481": {
+      "char": "",
+      "romanization": "ia",
+      "chinese character only orthography": "云派",
+      "visually similar orthography": ""
+    },
+    "U+F482": {
+      "char": "",
+      "romanization": "iaq",
+      "chinese character only orthography": "云乏",
+      "visually similar orthography": ""
+    },
+    "U+F483": {
+      "char": "",
+      "romanization": "io",
+      "chinese character only orthography": "云瓦",
+      "visually similar orthography": ""
+    },
+    "U+F484": {
+      "char": "",
+      "romanization": "ioq",
+      "chinese character only orthography": "云昱",
+      "visually similar orthography": ""
+    },
+    "U+F485": {
+      "char": "",
+      "romanization": "ie",
+      "chinese character only orthography": "建",
+      "visually similar orthography": ""
+    },
+    "U+F486": {
+      "char": "",
+      "romanization": "ieq",
+      "chinese character only orthography": "云出",
+      "visually similar orthography": ""
+    },
+    "U+F487": {
+      "char": "",
+      "romanization": "ii",
+      "chinese character only orthography": "云以",
+      "visually similar orthography": ""
+    },
+    "U+F488": {
+      "char": "",
+      "romanization": "iiq",
+      "chinese character only orthography": "云亦",
+      "visually similar orthography": ""
+    },
+    "U+F489": {
+      "char": "",
+      "romanization": "iu",
+      "chinese character only orthography": "雨",
+      "visually similar orthography": ""
+    },
+    "U+F48A": {
+      "char": "",
+      "romanization": "iy",
+      "chinese character only orthography": "云厶",
+      "visually similar orthography": ""
+    },
+    "U+F48B": {
+      "char": "",
+      "romanization": "iae",
+      "chinese character only orthography": "云万",
+      "visually similar orthography": ""
+    },
+    "U+F48C": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F48D": {
+      "char": "",
+      "romanization": "iie",
+      "chinese character only orthography": "云建",
+      "visually similar orthography": ""
+    },
+    "U+F48E": {
+      "char": "",
+      "romanization": "iau",
+      "chinese character only orthography": "云号",
+      "visually similar orthography": ""
+    },
+    "U+F48F": {
+      "char": "",
+      "romanization": "iou",
+      "chinese character only orthography": "云多",
+      "visually similar orthography": ""
+    },
+    "U+F490": {
+      "char": "",
+      "romanization": "ieu",
+      "chinese character only orthography": "云久",
+      "visually similar orthography": ""
+    },
+    "U+F491": {
+      "char": "",
+      "romanization": "iiu",
+      "chinese character only orthography": "云雨",
+      "visually similar orthography": ""
+    },
+    "U+F492": {
+      "char": "",
+      "romanization": "ioe",
+      "chinese character only orthography": "云寒",
+      "visually similar orthography": ""
+    },
+    "U+F493": {
+      "char": "",
+      "romanization": "ian",
+      "chinese character only orthography": "云良",
+      "visually similar orthography": ""
+    },
+    "U+F494": {
+      "char": "",
+      "romanization": "ion",
+      "chinese character only orthography": "云从",
+      "visually similar orthography": ""
+    },
+    "U+F495": {
+      "char": "",
+      "romanization": "ien",
+      "chinese character only orthography": "云文",
+      "visually similar orthography": ""
+    },
+    "U+F496": {
+      "char": "",
+      "romanization": "iin",
+      "chinese character only orthography": "云刃",
+      "visually similar orthography": ""
+    },
+    "U+F497": {
+      "char": "",
+      "romanization": "iaon",
+      "chinese character only orthography": "云亡",
+      "visually similar orthography": ""
+    },
+    "U+F498": {
+      "char": "",
+      "romanization": "ieon",
+      "chinese character only orthography": "云能",
+      "visually similar orthography": ""
+    },
+    "U+F499": {
+      "char": "",
+      "romanization": "ir",
+      "chinese character only orthography": "云而",
+      "visually similar orthography": ""
+    },
+    "U+F4A0": {
+      "char": "",
+      "romanization": "y",
+      "chinese character only orthography": "云",
+      "visually similar orthography": ""
+    },
+    "U+F4A1": {
+      "char": "",
+      "romanization": "ya",
+      "chinese character only orthography": "云派",
+      "visually similar orthography": ""
+    },
+    "U+F4A2": {
+      "char": "",
+      "romanization": "yaq",
+      "chinese character only orthography": "云乏",
+      "visually similar orthography": ""
+    },
+    "U+F4A3": {
+      "char": "",
+      "romanization": "yo",
+      "chinese character only orthography": "云瓦",
+      "visually similar orthography": ""
+    },
+    "U+F4A4": {
+      "char": "",
+      "romanization": "yoq",
+      "chinese character only orthography": "云昱",
+      "visually similar orthography": ""
+    },
+    "U+F4A5": {
+      "char": "",
+      "romanization": "ye",
+      "chinese character only orthography": "云卑",
+      "visually similar orthography": ""
+    },
+    "U+F4A6": {
+      "char": "",
+      "romanization": "yeq",
+      "chinese character only orthography": "云出",
+      "visually similar orthography": ""
+    },
+    "U+F4A7": {
+      "char": "",
+      "romanization": "yi",
+      "chinese character only orthography": "云以",
+      "visually similar orthography": ""
+    },
+    "U+F4A8": {
+      "char": "",
+      "romanization": "yiq",
+      "chinese character only orthography": "云亦",
+      "visually similar orthography": ""
+    },
+    "U+F4A9": {
+      "char": "",
+      "romanization": "yu",
+      "chinese character only orthography": "云无",
+      "visually similar orthography": ""
+    },
+    "U+F4AA": {
+      "char": "",
+      "romanization": "yy",
+      "chinese character only orthography": "云厶",
+      "visually similar orthography": ""
+    },
+    "U+F4AB": {
+      "char": "",
+      "romanization": "yae",
+      "chinese character only orthography": "云万",
+      "visually similar orthography": ""
+    },
+    "U+F4AC": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F4AD": {
+      "char": "",
+      "romanization": "yie",
+      "chinese character only orthography": "云建",
+      "visually similar orthography": ""
+    },
+    "U+F4AE": {
+      "char": "",
+      "romanization": "yau",
+      "chinese character only orthography": "云号",
+      "visually similar orthography": ""
+    },
+    "U+F4AF": {
+      "char": "",
+      "romanization": "you",
+      "chinese character only orthography": "云多",
+      "visually similar orthography": ""
+    },
+    "U+F4B0": {
+      "char": "",
+      "romanization": "yeu",
+      "chinese character only orthography": "云久",
+      "visually similar orthography": ""
+    },
+    "U+F4B1": {
+      "char": "",
+      "romanization": "yiu",
+      "chinese character only orthography": "云雨",
+      "visually similar orthography": ""
+    },
+    "U+F4B2": {
+      "char": "",
+      "romanization": "yoe",
+      "chinese character only orthography": "云寒",
+      "visually similar orthography": ""
+    },
+    "U+F4B3": {
+      "char": "",
+      "romanization": "yan",
+      "chinese character only orthography": "云良",
+      "visually similar orthography": ""
+    },
+    "U+F4B4": {
+      "char": "",
+      "romanization": "yon",
+      "chinese character only orthography": "云从",
+      "visually similar orthography": ""
+    },
+    "U+F4B5": {
+      "char": "",
+      "romanization": "yen",
+      "chinese character only orthography": "云文",
+      "visually similar orthography": ""
+    },
+    "U+F4B6": {
+      "char": "",
+      "romanization": "yin",
+      "chinese character only orthography": "云刃",
+      "visually similar orthography": ""
+    },
+    "U+F4B7": {
+      "char": "",
+      "romanization": "yaon",
+      "chinese character only orthography": "云亡",
+      "visually similar orthography": ""
+    },
+    "U+F4B8": {
+      "char": "",
+      "romanization": "yeon",
+      "chinese character only orthography": "云能",
+      "visually similar orthography": ""
+    },
+    "U+F4B9": {
+      "char": "",
+      "romanization": "yr",
+      "chinese character only orthography": "云而",
+      "visually similar orthography": ""
+    },
+    "U+F4C0": {
+      "char": "",
+      "romanization": "u",
+      "chinese character only orthography": "危",
+      "visually similar orthography": ""
+    },
+    "U+F4C1": {
+      "char": "",
+      "romanization": "ua",
+      "chinese character only orthography": "危派",
+      "visually similar orthography": ""
+    },
+    "U+F4C2": {
+      "char": "",
+      "romanization": "uaq",
+      "chinese character only orthography": "危乏",
+      "visually similar orthography": ""
+    },
+    "U+F4C3": {
+      "char": "",
+      "romanization": "uo",
+      "chinese character only orthography": "危瓦",
+      "visually similar orthography": ""
+    },
+    "U+F4C4": {
+      "char": "",
+      "romanization": "uoq",
+      "chinese character only orthography": "危昱",
+      "visually similar orthography": ""
+    },
+    "U+F4C5": {
+      "char": "",
+      "romanization": "ue",
+      "chinese character only orthography": "危卑",
+      "visually similar orthography": ""
+    },
+    "U+F4C6": {
+      "char": "",
+      "romanization": "ueq",
+      "chinese character only orthography": "危出",
+      "visually similar orthography": ""
+    },
+    "U+F4C7": {
+      "char": "",
+      "romanization": "ui",
+      "chinese character only orthography": "危以",
+      "visually similar orthography": ""
+    },
+    "U+F4C8": {
+      "char": "",
+      "romanization": "uiq",
+      "chinese character only orthography": "危亦",
+      "visually similar orthography": ""
+    },
+    "U+F4C9": {
+      "char": "",
+      "romanization": "uu",
+      "chinese character only orthography": "危无",
+      "visually similar orthography": ""
+    },
+    "U+F4CA": {
+      "char": "",
+      "romanization": "uy",
+      "chinese character only orthography": "危厶",
+      "visually similar orthography": ""
+    },
+    "U+F4CB": {
+      "char": "",
+      "romanization": "uae",
+      "chinese character only orthography": "危万",
+      "visually similar orthography": ""
+    },
+    "U+F4CC": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F4CD": {
+      "char": "",
+      "romanization": "uie",
+      "chinese character only orthography": "危建",
+      "visually similar orthography": ""
+    },
+    "U+F4CE": {
+      "char": "",
+      "romanization": "uau",
+      "chinese character only orthography": "危号",
+      "visually similar orthography": ""
+    },
+    "U+F4CF": {
+      "char": "",
+      "romanization": "uou",
+      "chinese character only orthography": "危多",
+      "visually similar orthography": ""
+    },
+    "U+F4D0": {
+      "char": "",
+      "romanization": "ueu",
+      "chinese character only orthography": "危久",
+      "visually similar orthography": ""
+    },
+    "U+F4D1": {
+      "char": "",
+      "romanization": "uiu",
+      "chinese character only orthography": "危雨",
+      "visually similar orthography": ""
+    },
+    "U+F4D2": {
+      "char": "",
+      "romanization": "uoe",
+      "chinese character only orthography": "危寒",
+      "visually similar orthography": ""
+    },
+    "U+F4D3": {
+      "char": "",
+      "romanization": "uan",
+      "chinese character only orthography": "危良",
+      "visually similar orthography": ""
+    },
+    "U+F4D4": {
+      "char": "",
+      "romanization": "uon",
+      "chinese character only orthography": "危从",
+      "visually similar orthography": ""
+    },
+    "U+F4D5": {
+      "char": "",
+      "romanization": "uen",
+      "chinese character only orthography": "危文",
+      "visually similar orthography": ""
+    },
+    "U+F4D6": {
+      "char": "",
+      "romanization": "uin",
+      "chinese character only orthography": "危刃",
+      "visually similar orthography": ""
+    },
+    "U+F4D7": {
+      "char": "",
+      "romanization": "uaon",
+      "chinese character only orthography": "危亡",
+      "visually similar orthography": ""
+    },
+    "U+F4D8": {
+      "char": "",
+      "romanization": "ueon",
+      "chinese character only orthography": "危能",
+      "visually similar orthography": ""
+    },
+    "U+F4D9": {
+      "char": "",
+      "romanization": "ur",
+      "chinese character only orthography": "危而",
+      "visually similar orthography": ""
+    },
+    "U+F4E0": {
+      "char": "",
+      "romanization": "w",
+      "chinese character only orthography": "危",
+      "visually similar orthography": ""
+    },
+    "U+F4E1": {
+      "char": "",
+      "romanization": "wa",
+      "chinese character only orthography": "危派",
+      "visually similar orthography": ""
+    },
+    "U+F4E2": {
+      "char": "",
+      "romanization": "waq",
+      "chinese character only orthography": "危乏",
+      "visually similar orthography": ""
+    },
+    "U+F4E3": {
+      "char": "",
+      "romanization": "wo",
+      "chinese character only orthography": "危瓦",
+      "visually similar orthography": ""
+    },
+    "U+F4E4": {
+      "char": "",
+      "romanization": "woq",
+      "chinese character only orthography": "危昱",
+      "visually similar orthography": ""
+    },
+    "U+F4E5": {
+      "char": "",
+      "romanization": "we",
+      "chinese character only orthography": "危卑",
+      "visually similar orthography": ""
+    },
+    "U+F4E6": {
+      "char": "",
+      "romanization": "weq",
+      "chinese character only orthography": "危出",
+      "visually similar orthography": ""
+    },
+    "U+F4E7": {
+      "char": "",
+      "romanization": "wi",
+      "chinese character only orthography": "危以",
+      "visually similar orthography": ""
+    },
+    "U+F4E8": {
+      "char": "",
+      "romanization": "wiq",
+      "chinese character only orthography": "危亦",
+      "visually similar orthography": ""
+    },
+    "U+F4E9": {
+      "char": "",
+      "romanization": "wu",
+      "chinese character only orthography": "危无",
+      "visually similar orthography": ""
+    },
+    "U+F4EA": {
+      "char": "",
+      "romanization": "wy",
+      "chinese character only orthography": "危厶",
+      "visually similar orthography": ""
+    },
+    "U+F4EB": {
+      "char": "",
+      "romanization": "wae",
+      "chinese character only orthography": "危万",
+      "visually similar orthography": ""
+    },
+    "U+F4EC": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F4ED": {
+      "char": "",
+      "romanization": "wie",
+      "chinese character only orthography": "危建",
+      "visually similar orthography": ""
+    },
+    "U+F4EE": {
+      "char": "",
+      "romanization": "wau",
+      "chinese character only orthography": "危号",
+      "visually similar orthography": ""
+    },
+    "U+F4EF": {
+      "char": "",
+      "romanization": "wou",
+      "chinese character only orthography": "危多",
+      "visually similar orthography": ""
+    },
+    "U+F4F0": {
+      "char": "",
+      "romanization": "weu",
+      "chinese character only orthography": "危久",
+      "visually similar orthography": ""
+    },
+    "U+F4F1": {
+      "char": "",
+      "romanization": "wiu",
+      "chinese character only orthography": "危雨",
+      "visually similar orthography": ""
+    },
+    "U+F4F2": {
+      "char": "",
+      "romanization": "woe",
+      "chinese character only orthography": "危寒",
+      "visually similar orthography": ""
+    },
+    "U+F4F3": {
+      "char": "",
+      "romanization": "wan",
+      "chinese character only orthography": "危良",
+      "visually similar orthography": ""
+    },
+    "U+F4F4": {
+      "char": "",
+      "romanization": "won",
+      "chinese character only orthography": "危从",
+      "visually similar orthography": ""
+    },
+    "U+F4F5": {
+      "char": "",
+      "romanization": "wen",
+      "chinese character only orthography": "危文",
+      "visually similar orthography": ""
+    },
+    "U+F4F6": {
+      "char": "",
+      "romanization": "win",
+      "chinese character only orthography": "危刃",
+      "visually similar orthography": ""
+    },
+    "U+F4F7": {
+      "char": "",
+      "romanization": "waon",
+      "chinese character only orthography": "危亡",
+      "visually similar orthography": ""
+    },
+    "U+F4F8": {
+      "char": "",
+      "romanization": "weon",
+      "chinese character only orthography": "危能",
+      "visually similar orthography": ""
+    },
+    "U+F4F9": {
+      "char": "",
+      "romanization": "wr",
+      "chinese character only orthography": "危而",
+      "visually similar orthography": ""
+    },
+    "U+F500": {
+      "char": "",
+      "romanization": "ph",
+      "chinese character only orthography": "兵ﾟ",
+      "visually similar orthography": "",
+      "role": "initial"
+    },
+    "U+F501": {
+      "char": "",
+      "romanization": "p",
+      "chinese character only orthography": "兵",
+      "visually similar orthography": "",
+      "role": "initial"
+    },
+    "U+F502": {
+      "char": "",
+      "romanization": "b",
+      "chinese character only orthography": "兵ﾞ",
+      "visually similar orthography": "",
+      "role": "initial"
+    },
+    "U+F503": {
+      "char": "",
+      "romanization": "f",
+      "chinese character only orthography": "弗",
+      "visually similar orthography": "",
+      "role": "initial"
+    },
+    "U+F504": {
+      "char": "",
+      "romanization": "v",
+      "chinese character only orthography": "弗ﾞ",
+      "visually similar orthography": "",
+      "role": "initial"
+    },
+    "U+F505": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F506": {
+      "char": "",
+      "romanization": "th",
+      "chinese character only orthography": "刀ﾟ",
+      "visually similar orthography": "",
+      "role": "initial"
+    },
+    "U+F507": {
+      "char": "",
+      "romanization": "t",
+      "chinese character only orthography": "刀",
+      "visually similar orthography": "",
+      "role": "initial"
+    },
+    "U+F508": {
+      "char": "",
+      "romanization": "d",
+      "chinese character only orthography": "刀ﾞ",
+      "visually similar orthography": "",
+      "role": "initial"
+    },
+    "U+F509": {
+      "char": "",
+      "romanization": "l",
+      "chinese character only orthography": "力",
+      "visually similar orthography": "",
+      "role": "initial"
+    },
+    "U+F50A": {
+      "char": "",
+      "romanization": "n",
+      "chinese character only orthography": "拿",
+      "visually similar orthography": "",
+      "role": "initial"
+    },
+    "U+F50B": {
+      "char": "",
+      "romanization": "kh",
+      "chinese character only orthography": "工ﾟ",
+      "visually similar orthography": "",
+      "role": "initial"
+    },
+    "U+F50C": {
+      "char": "",
+      "romanization": "k",
+      "chinese character only orthography": "工",
+      "visually similar orthography": "",
+      "role": "initial"
+    },
+    "U+F50D": {
+      "char": "",
+      "romanization": "g",
+      "chinese character only orthography": "工ﾞ",
+      "visually similar orthography": "",
+      "role": "initial"
+    },
+    "U+F50E": {
+      "char": "",
+      "romanization": "h",
+      "chinese character only orthography": "奧ﾟ",
+      "visually similar orthography": "",
+      "role": "initial"
+    },
+    "U+F50F": {
+      "char": "",
+      "romanization": "zero | null",
+      "chinese character only orthography": "奧",
+      "visually similar orthography": "",
+      "role": "initial",
+      "notes": "zero (initial); null (initial)"
+    },
+    "U+F510": {
+      "char": "",
+      "romanization": "gh",
+      "chinese character only orthography": "奧ﾞ",
+      "visually similar orthography": "",
+      "role": "initial"
+    },
+    "U+F511": {
+      "char": "",
+      "romanization": "ng",
+      "chinese character only orthography": "午",
+      "visually similar orthography": "",
+      "role": "initial"
+    },
+    "U+F512": {
+      "char": "",
+      "romanization": "ch(i)",
+      "chinese character only orthography": "斤ﾟ",
+      "visually similar orthography": "",
+      "role": "initial"
+    },
+    "U+F513": {
+      "char": "",
+      "romanization": "c(i)",
+      "chinese character only orthography": "斤",
+      "visually similar orthography": "",
+      "role": "initial"
+    },
+    "U+F514": {
+      "char": "",
+      "romanization": "j(i)",
+      "chinese character only orthography": "斤ﾞ",
+      "visually similar orthography": "",
+      "role": "initial"
+    },
+    "U+F515": {
+      "char": "",
+      "romanization": "sh(i)",
+      "chinese character only orthography": "兴",
+      "visually similar orthography": "",
+      "role": "initial"
+    },
+    "U+F516": {
+      "char": "",
+      "romanization": "zh(i)",
+      "chinese character only orthography": "兴ﾞ",
+      "visually similar orthography": "",
+      "role": "initial"
+    },
+    "U+F517": {
+      "char": "",
+      "romanization": "tsh",
+      "chinese character only orthography": "子ﾟ",
+      "visually similar orthography": "",
+      "role": "initial"
+    },
+    "U+F518": {
+      "char": "",
+      "romanization": "ts",
+      "chinese character only orthography": "子",
+      "visually similar orthography": "",
+      "role": "initial"
+    },
+    "U+F519": {
+      "char": "",
+      "romanization": "dz",
+      "chinese character only orthography": "子ﾞ",
+      "visually similar orthography": "",
+      "role": "initial"
+    },
+    "U+F51A": {
+      "char": "",
+      "romanization": "s",
+      "chinese character only orthography": "式",
+      "visually similar orthography": "",
+      "role": "initial"
+    },
+    "U+F51B": {
+      "char": "",
+      "romanization": "z",
+      "chinese character only orthography": "式ﾞ",
+      "visually similar orthography": "",
+      "role": "initial"
+    },
+    "U+F51C": {
+      "char": "",
+      "romanization": "ny",
+      "chinese character only orthography": "女",
+      "visually similar orthography": "",
+      "role": "initial"
+    },
+    "U+F51D": {
+      "char": "",
+      "romanization": "i",
+      "chinese character only orthography": "云",
+      "visually similar orthography": "",
+      "role": "initial"
+    },
+    "U+F51E": {
+      "char": "",
+      "romanization": "u",
+      "chinese character only orthography": "危",
+      "visually similar orthography": "",
+      "role": "initial"
+    },
+    "U+F51F": {
+      "char": "",
+      "romanization": "lh",
+      "chinese character only orthography": "力ﾟ",
+      "visually similar orthography": "",
+      "role": "initial"
+    },
+    "U+F520": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F521": {
+      "char": "",
+      "romanization": "a",
+      "chinese character only orthography": "派",
+      "visually similar orthography": "",
+      "role": "final"
+    },
+    "U+F522": {
+      "char": "",
+      "romanization": "aq",
+      "chinese character only orthography": "乏",
+      "visually similar orthography": "",
+      "role": "final"
+    },
+    "U+F523": {
+      "char": "",
+      "romanization": "o",
+      "chinese character only orthography": "瓦",
+      "visually similar orthography": "",
+      "role": "final"
+    },
+    "U+F524": {
+      "char": "",
+      "romanization": "oq",
+      "chinese character only orthography": "昱",
+      "visually similar orthography": "",
+      "role": "final"
+    },
+    "U+F525": {
+      "char": "",
+      "romanization": "e",
+      "chinese character only orthography": "卑",
+      "visually similar orthography": "",
+      "role": "final"
+    },
+    "U+F526": {
+      "char": "",
+      "romanization": "eq",
+      "chinese character only orthography": "出",
+      "visually similar orthography": "",
+      "role": "final"
+    },
+    "U+F527": {
+      "char": "",
+      "romanization": "i",
+      "chinese character only orthography": "以",
+      "visually similar orthography": "",
+      "role": "final | medial",
+      "notes": "i (final); i (medial)"
+    },
+    "U+F528": {
+      "char": "",
+      "romanization": "iq",
+      "chinese character only orthography": "亦",
+      "visually similar orthography": "",
+      "role": "final"
+    },
+    "U+F529": {
+      "char": "",
+      "romanization": "u",
+      "chinese character only orthography": "无",
+      "visually similar orthography": "",
+      "role": "final | medial",
+      "notes": "u (final); u (medial)"
+    },
+    "U+F52A": {
+      "char": "",
+      "romanization": "y",
+      "chinese character only orthography": "厶",
+      "visually similar orthography": "",
+      "role": "final"
+    },
+    "U+F52B": {
+      "char": "",
+      "romanization": "ae(n)",
+      "chinese character only orthography": "万",
+      "visually similar orthography": "",
+      "role": "final"
+    },
+    "U+F52C": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F52D": {
+      "char": "",
+      "romanization": "ie(n)",
+      "chinese character only orthography": "建",
+      "visually similar orthography": "",
+      "role": "final"
+    },
+    "U+F52E": {
+      "char": "",
+      "romanization": "au",
+      "chinese character only orthography": "号",
+      "visually similar orthography": "",
+      "role": "final"
+    },
+    "U+F52F": {
+      "char": "",
+      "romanization": "ou",
+      "chinese character only orthography": "多",
+      "visually similar orthography": "",
+      "role": "final"
+    },
+    "U+F530": {
+      "char": "",
+      "romanization": "eu",
+      "chinese character only orthography": "久",
+      "visually similar orthography": "",
+      "role": "final"
+    },
+    "U+F531": {
+      "char": "",
+      "romanization": "iu",
+      "chinese character only orthography": "雨",
+      "visually similar orthography": "",
+      "role": "final | medial",
+      "notes": "iu (final); iu (medial)"
+    },
+    "U+F532": {
+      "char": "",
+      "romanization": "oe(n)",
+      "chinese character only orthography": "寒",
+      "visually similar orthography": "",
+      "role": "final"
+    },
+    "U+F533": {
+      "char": "",
+      "romanization": "an",
+      "chinese character only orthography": "良",
+      "visually similar orthography": "",
+      "role": "final"
+    },
+    "U+F534": {
+      "char": "",
+      "romanization": "on",
+      "chinese character only orthography": "从",
+      "visually similar orthography": "",
+      "role": "final"
+    },
+    "U+F535": {
+      "char": "",
+      "romanization": "en",
+      "chinese character only orthography": "文",
+      "visually similar orthography": "",
+      "role": "final"
+    },
+    "U+F536": {
+      "char": "",
+      "romanization": "in",
+      "chinese character only orthography": "刃",
+      "visually similar orthography": "",
+      "role": "final"
+    },
+    "U+F537": {
+      "char": "",
+      "romanization": "aon",
+      "chinese character only orthography": "亡",
+      "visually similar orthography": "",
+      "role": "final"
+    },
+    "U+F538": {
+      "char": "",
+      "romanization": "eon",
+      "chinese character only orthography": "能",
+      "visually similar orthography": "",
+      "role": "final"
+    },
+    "U+F539": {
+      "char": "",
+      "romanization": "r",
+      "chinese character only orthography": "而",
+      "visually similar orthography": "",
+      "role": "final | medial",
+      "notes": "r (final); r (medial)"
+    },
+    "U+F53A": {
+      "char": "",
+      "romanization": "hn",
+      "chinese character only orthography": "レ",
+      "visually similar orthography": "",
+      "role": "final"
+    },
+    "U+F53B": {
+      "char": "",
+      "romanization": "hq",
+      "chinese character only orthography": "く",
+      "visually similar orthography": "",
+      "role": "final"
+    },
+    "U+F53C": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F53D": {
+      "char": "",
+      "romanization": "",
+      "chinese character only orthography": "",
+      "visually similar orthography": ""
+    },
+    "U+F540": {
+      "char": "",
+      "romanization": "mh | m",
+      "chinese character only orthography": "矛ﾟ",
+      "visually similar orthography": "",
+      "role": "initial",
+      "notes": "mh (initial); m (initial)"
+    },
+    "U+F541": {
+      "char": "",
+      "romanization": "nh",
+      "chinese character only orthography": "拿ﾟ",
+      "visually similar orthography": "",
+      "role": "initial"
+    },
+    "U+F542": {
+      "char": "",
+      "romanization": "nk",
+      "chinese character only orthography": "午ﾟ",
+      "visually similar orthography": "",
+      "role": "initial"
+    },
+    "U+F543": {
+      "char": "",
+      "romanization": "nyh",
+      "chinese character only orthography": "女ﾟ",
+      "visually similar orthography": "",
+      "role": "initial"
+    },
+    "U+F544": {
+      "char": "",
+      "romanization": "y",
+      "chinese character only orthography": "云",
+      "visually similar orthography": "",
+      "role": "initial"
+    },
+    "U+F545": {
+      "char": "",
+      "romanization": "w",
+      "chinese character only orthography": "危",
+      "visually similar orthography": "",
+      "role": "initial"
+    }
+  }
+}
